@@ -1,0 +1,6937 @@
+Country,Year,Month,Arrivals,Month_Num
+Afghanistan,2023,January,9,1
+Albania,2023,January,6,1
+Algeria,2023,January,21,1
+Andorra,2023,January,4,1
+Angola,2023,January,0,1
+Antigua and Barbuda,2023,January,4,1
+Argentina,2023,January,76,1
+Armenia,2023,January,258,1
+Aruba,2023,January,0,1
+Australia,2023,January,3668,1
+Austria,2023,January,956,1
+Azerbaijan,2023,January,115,1
+Bahamas,2023,January,0,1
+Bahrain,2023,January,134,1
+Bangladesh,2023,January,717,1
+Barbados,2023,January,0,1
+Belarus,2023,January,1204,1
+Belgium,2023,January,646,1
+Belize,2023,January,1,1
+Benin,2023,January,1,1
+Bhutan,2023,January,32,1
+Bolivia,2023,January,0,1
+Bosnia and Herzegovina,2023,January,10,1
+Botswana,2023,January,4,1
+Brazil,2023,January,101,1
+Brunei Darussalam,2023,January,0,1
+Bulgaria,2023,January,134,1
+Burkina Faso,2023,January,0,1
+Burundi,2023,January,0,1
+Cambodia,2023,January,31,1
+Cameroon,2023,January,8,1
+Canada,2023,January,3681,1
+Cape Verde,2023,January,0,1
+Chad,2023,January,0,1
+Central African Republic,2023,January,0,1
+Chile,2023,January,26,1
+China,2023,January,835,1
+Colombia,2023,January,36,1
+Comoros,2023,January,3,1
+Democratic Republic of the Congo,2023,January,0,1
+Costa Rica,2023,January,6,1
+Cote d'Ivoire,2023,January,2,1
+Croatia,2023,January,84,1
+Cuba,2023,January,5,1
+Cyprus,2023,January,51,1
+Czech Republic,2023,January,960,1
+Denmark,2023,January,1081,1
+Djibouti,2023,January,0,1
+Dominica,2023,January,8,1
+Dominican Republic,2023,January,2,1
+Ecuador,2023,January,10,1
+Egypt,2023,January,127,1
+El Salvador,2023,January,3,1
+Eritrea,2023,January,2,1
+Estonia,2023,January,182,1
+Ethiopia,2023,January,8,1
+Fiji,2023,January,6,1
+Finland,2023,January,257,1
+France,2023,January,4840,1
+Gabon,2023,January,1,1
+Gambia,2023,January,0,1
+Georgia,2023,January,164,1
+Germany,2023,January,8217,1
+Ghana,2023,January,1,1
+Greece,2023,January,151,1
+Grenada,2023,January,0,1
+Guatemala,2023,January,1,1
+Guinea,2023,January,1,1
+Guyana,2023,January,0,1
+Haiti,2023,January,3,1
+Honduras,2023,January,3,1
+Hungary,2023,January,400,1
+Iceland,2023,January,33,1
+India,2023,January,13759,1
+Indonesia,2023,January,138,1
+Iran,2023,January,435,1
+Iraq,2023,January,63,1
+Ireland,2023,January,244,1
+Israel,2023,January,1868,1
+Italy,2023,January,1477,1
+Jamaica,2023,January,1,1
+Japan,2023,January,744,1
+Jordan,2023,January,261,1
+Kazakhstan,2023,January,470,1
+Kenya,2023,January,23,1
+Kiribati,2023,January,0,1
+Kosovo,2023,January,1,1
+Kuwait,2023,January,162,1
+Kyrgyzstan,2023,January,79,1
+Laos,2023,January,17,1
+Latvia,2023,January,171,1
+Lebanon,2023,January,111,1
+Lesotho,2023,January,0,1
+Liberia,2023,January,1,1
+Libya,2023,January,4,1
+Liechtenstein,2023,January,5,1
+Lithuania,2023,January,278,1
+Luxembourg,2023,January,35,1
+Macedonia,2023,January,9,1
+Madagascar,2023,January,7,1
+Malawi,2023,January,2,1
+Malaysia,2023,January,496,1
+Maldives,2023,January,2203,1
+Mali,2023,January,2,1
+Malta,2023,January,45,1
+Marshall Islands,2023,January,0,1
+Mauritania,2023,January,1,1
+Mauritius,2023,January,19,1
+Mexico,2023,January,19,1
+Moldova,2023,January,66,1
+Monaco,2023,January,2,1
+Mongolia,2023,January,2,1
+Montenegro,2023,January,20,1
+Morocco,2023,January,47,1
+Mozambique,2023,January,5,1
+Myanmar,2023,January,35,1
+Namibia,2023,January,1,1
+Nauru,2023,January,0,1
+Nepal,2023,January,292,1
+Netherlands,2023,January,1514,1
+New Zealand,2023,January,394,1
+Nicaragua,2023,January,2,1
+Niger,2023,January,0,1
+Nigeria,2023,January,10,1
+Norway,2023,January,698,1
+Oman,2023,January,183,1
+Pakistan,2023,January,595,1
+Palau,2023,January,0,1
+Palestinian Territories,2023,January,28,1
+Panama,2023,January,1,1
+Papua New Guinea,2023,January,1,1
+Paraguay,2023,January,2,1
+Peru,2023,January,8,1
+Philippines,2023,January,188,1
+Poland,2023,January,1269,1
+Portugal,2023,January,230,1
+Qatar,2023,January,34,1
+Romania,2023,January,316,1
+Russian Federation,2023,January,25254,1
+Rwanda,2023,January,2,1
+Saint Kitts and Nevis,2023,January,3,1
+Saint Lucia,2023,January,3,1
+Saint Vincent and the Grenadines,2023,January,0,1
+Samoa,2023,January,0,1
+San Marino,2023,January,1,1
+Saudi Arabia,2023,January,340,1
+Senegal,2023,January,2,1
+Serbia,2023,January,144,1
+Seychelles,2023,January,21,1
+Sierra Leone,2023,January,0,1
+Singapore,2023,January,414,1
+Slovakia,2023,January,351,1
+Slovenia,2023,January,146,1
+Solomon Islands,2023,January,0,1
+Somalia,2023,January,3,1
+South Africa,2023,January,125,1
+South Korea,2023,January,450,1
+South Sudan,2023,January,0,1
+Spain,2023,January,857,1
+Sudan,2023,January,61,1
+Swaziland,2023,January,0,1
+Suriname,2023,January,0,1
+Sweden,2023,January,871,1
+Switzerland,2023,January,1769,1
+Syrian Arab Republic,2023,January,0,1
+Taiwan Province of China,2023,January,151,1
+Tajikistan,2023,January,27,1
+Tanzania,2023,January,9,1
+Thailand,2023,January,279,1
+Timor-Leste,2023,January,0,1
+Togo,2023,January,1,1
+Tonga,2023,January,0,1
+Trinidad and Tobago,2023,January,2,1
+Tunisia,2023,January,43,1
+Turkey,2023,January,362,1
+Turkmenistan,2023,January,4,1
+Tuvalu,2023,January,0,1
+Uganda,2023,January,9,1
+Ukraine,2023,January,884,1
+United Arab Emirates,2023,January,101,1
+United Kingdom,2023,January,8483,1
+United States,2023,January,2636,1
+Uruguay,2023,January,5,1
+Uzbekistan,2023,January,152,1
+Vanuatu,2023,January,1,1
+Venezuela,2023,January,4,1
+Vietnam,2023,January,117,1
+Yemen,2023,January,22,1
+Zambia,2023,January,6,1
+Zimbabwe,2023,January,7,1
+Afghanistan,2024,January,26,1
+Albania,2024,January,7,1
+Algeria,2024,January,18,1
+Andorra,2024,January,3,1
+Angola,2024,January,8,1
+Antigua and Barbuda,2024,January,3,1
+Argentina,2024,January,141,1
+Armenia,2024,January,510,1
+Aruba,2024,January,0,1
+Australia,2024,January,6645,1
+Austria,2024,January,2385,1
+Azerbaijan,2024,January,163,1
+Bahamas,2024,January,0,1
+Bahrain,2024,January,122,1
+Bangladesh,2024,January,2329,1
+Barbados,2024,January,0,1
+Belarus,2024,January,2342,1
+Belgium,2024,January,1313,1
+Belize,2024,January,1,1
+Benin,2024,January,0,1
+Bhutan,2024,January,135,1
+Bolivia,2024,January,8,1
+Bosnia and Herzegovina,2024,January,37,1
+Botswana,2024,January,3,1
+Brazil,2024,January,236,1
+Brunei Darussalam,2024,January,1,1
+Bulgaria,2024,January,656,1
+Burkina Faso,2024,January,0,1
+Burundi,2024,January,0,1
+Cambodia,2024,January,42,1
+Cameroon,2024,January,1,1
+Canada,2024,January,4126,1
+Cape Verde,2024,January,0,1
+Chad,2024,January,0,1
+Central African Republic,2024,January,0,1
+Chile,2024,January,56,1
+China,2024,January,12528,1
+Colombia,2024,January,54,1
+Comoros,2024,January,6,1
+Democratic Republic of the Congo,2024,January,2,1
+Costa Rica,2024,January,20,1
+Cote d'Ivoire,2024,January,0,1
+Croatia,2024,January,281,1
+Cuba,2024,January,6,1
+Cyprus,2024,January,91,1
+Czech Republic,2024,January,3484,1
+Denmark,2024,January,2542,1
+Djibouti,2024,January,1,1
+Dominica,2024,January,7,1
+Dominican Republic,2024,January,8,1
+Ecuador,2024,January,9,1
+Egypt,2024,January,396,1
+El Salvador,2024,January,2,1
+Equatorial Guinea,2024,January,0,1
+Eritrea,2024,January,1,1
+Estonia,2024,January,910,1
+Ethiopia,2024,January,8,1
+Fiji,2024,January,16,1
+Finland,2024,January,737,1
+France,2024,January,9919,1
+Gabon,2024,January,0,1
+Gambia,2024,January,0,1
+Georgia,2024,January,216,1
+Germany,2024,January,13593,1
+Ghana,2024,January,3,1
+Greece,2024,January,264,1
+Grenada,2024,January,1,1
+Guatemala,2024,January,2,1
+Guinea-Bissau,2024,January,0,1
+Guinea,2024,January,0,1
+Guyana,2024,January,0,1
+Haiti,2024,January,1,1
+Honduras,2024,January,1,1
+Hungary,2024,January,1544,1
+Iceland,2024,January,41,1
+India,2024,January,34399,1
+Indonesia,2024,January,224,1
+Iran,2024,January,688,1
+Iraq,2024,January,54,1
+Ireland,2024,January,797,1
+Israel,2024,January,773,1
+Italy,2024,January,3485,1
+Jamaica,2024,January,4,1
+Japan,2024,January,1993,1
+Jordan,2024,January,180,1
+Kazakhstan,2024,January,3350,1
+Kenya,2024,January,42,1
+Kiribati,2024,January,0,1
+Kosovo,2024,January,1,1
+Kuwait,2024,January,231,1
+Kyrgyzstan,2024,January,239,1
+Laos,2024,January,4,1
+Latvia,2024,January,750,1
+Lebanon,2024,January,155,1
+Lesotho,2024,January,0,1
+Liberia,2024,January,0,1
+Libya,2024,January,2,1
+Liechtenstein,2024,January,7,1
+Lithuania,2024,January,1015,1
+Luxembourg,2024,January,70,1
+Macedonia,2024,January,20,1
+Madagascar,2024,January,13,1
+Malawi,2024,January,3,1
+Malaysia,2024,January,1096,1
+Maldives,2024,January,2919,1
+Mali,2024,January,0,1
+Malta,2024,January,92,1
+Marshall Islands,2024,January,1,1
+Mauritania,2024,January,0,1
+Mauritius,2024,January,48,1
+Micronesia,2024,January,0,1
+Mexico,2024,January,96,1
+Moldova,2024,January,134,1
+Monaco,2024,January,5,1
+Mongolia,2024,January,15,1
+Montenegro,2024,January,34,1
+Morocco,2024,January,62,1
+Mozambique,2024,January,2,1
+Myanmar,2024,January,106,1
+Namibia,2024,January,3,1
+Nauru,2024,January,0,1
+Nepal,2024,January,625,1
+Netherlands,2024,January,4531,1
+Netherlands Antilles,2024,January,0,1
+New Zealand,2024,January,732,1
+Nicaragua,2024,January,1,1
+Niger,2024,January,0,1
+Nigeria,2024,January,1,1
+Norway,2024,January,1226,1
+Oman,2024,January,236,1
+Pakistan,2024,January,956,1
+Palau,2024,January,0,1
+Palestinian Territories,2024,January,25,1
+Panama,2024,January,4,1
+Papua New Guinea,2024,January,3,1
+Paraguay,2024,January,2,1
+Peru,2024,January,24,1
+Philippines,2024,January,262,1
+Poland,2024,January,7800,1
+Portugal,2024,January,487,1
+Qatar,2024,January,41,1
+Romania,2024,January,853,1
+Russian Federation,2024,January,31159,1
+Rwanda,2024,January,1,1
+Saint Kitts and Nevis,2024,January,17,1
+Saint Lucia,2024,January,1,1
+Saint Vincent and the Grenadines,2024,January,0,1
+Samoa,2024,January,0,1
+San Marino,2024,January,6,1
+Saudi Arabia,2024,January,511,1
+Senegal,2024,January,4,1
+Serbia,2024,January,314,1
+Seychelles,2024,January,211,1
+Sierra Leone,2024,January,2,1
+Singapore,2024,January,804,1
+Slovakia,2024,January,990,1
+Slovenia,2024,January,275,1
+Solomon Islands,2024,January,0,1
+Somalia,2024,January,6,1
+South Africa,2024,January,332,1
+South Korea,2024,January,1677,1
+South Sudan,2024,January,3,1
+Spain,2024,January,2004,1
+Sudan,2024,January,54,1
+Swaziland,2024,January,2,1
+Suriname,2024,January,2,1
+Sweden,2024,January,1921,1
+Switzerland,2024,January,2951,1
+Syrian Arab Republic,2024,January,2,1
+Tajikistan,2024,January,18,1
+Tanzania,2024,January,12,1
+Thailand,2024,January,505,1
+Timor-Leste,2024,January,4,1
+Togo,2024,January,0,1
+Tonga,2024,January,1,1
+Trinidad and Tobago,2024,January,6,1
+Tunisia,2024,January,56,1
+Turkey,2024,January,717,1
+Turkmenistan,2024,January,11,1
+Tuvalu,2024,January,0,1
+Uganda,2024,January,11,1
+Ukraine,2024,January,1485,1
+United Arab Emirates,2024,January,219,1
+United Kingdom,2024,January,16665,1
+United States,2024,January,5712,1
+Uruguay,2024,January,12,1
+Uzbekistan,2024,January,402,1
+Vanuatu,2024,January,1,1
+Venezuela,2024,January,3,1
+Vietnam,2024,January,166,1
+Yemen,2024,January,29,1
+Zambia,2024,January,1,1
+Zimbabwe,2024,January,36,1
+Afghanistan,2025,January,6,1
+Albania,2025,January,17,1
+Algeria,2025,January,26,1
+Andorra,2025,January,10,1
+Angola,2025,January,0,1
+Antigua and Barbuda,2025,January,3,1
+Argentina,2025,January,164,1
+Armenia,2025,January,261,1
+Australia,2025,January,9563,1
+Austria,2025,January,2492,1
+Azerbaijan,2025,January,149,1
+Bahamas,2025,January,0,1
+Bahrain,2025,January,159,1
+Bangladesh,2025,January,4626,1
+Barbados,2025,January,3,1
+Belarus,2025,January,2050,1
+Belgium,2025,January,1739,1
+Belize,2025,January,0,1
+Benin,2025,January,0,1
+Bhutan,2025,January,92,1
+Bolivia,2025,January,0,1
+Bosnia and Herzegovina,2025,January,37,1
+Botswana,2025,January,7,1
+Brazil,2025,January,234,1
+Brunei Darussalam,2025,January,12,1
+Bulgaria,2025,January,634,1
+Burkina Faso,2025,January,2,1
+Burundi,2025,January,2,1
+Cambodia,2025,January,26,1
+Cameroon,2025,January,2,1
+Canada,2025,January,4458,1
+Cape Verde,2025,January,0,1
+Central African Republic,2025,January,0,1
+Chad,2025,January,0,1
+Chile,2025,January,45,1
+China,2025,January,16709,1
+Republic of the Congo,2025,January,6,1
+Colombia,2025,January,45,1
+Comoros,2025,January,3,1
+Democratic Republic of the Congo,2025,January,0,1
+Costa Rica,2025,January,9,1
+Cote d'Ivoire,2025,January,1,1
+Croatia,2025,January,316,1
+Cuba,2025,January,3,1
+Cyprus,2025,January,87,1
+Czech Republic,2025,January,2754,1
+Denmark,2025,January,2822,1
+Djibouti,2025,January,2,1
+Dominica,2025,January,7,1
+Dominican Republic,2025,January,3,1
+Ecuador,2025,January,6,1
+Egypt,2025,January,357,1
+El Salvador,2025,January,1,1
+Eritrea,2025,January,2,1
+Equatorial Guinea,2025,January,0,1
+Estonia,2025,January,915,1
+Ethiopia,2025,January,13,1
+Fiji,2025,January,29,1
+Finland,2025,January,808,1
+France,2025,January,12619,1
+Gabon,2025,January,0,1
+Gambia,2025,January,0,1
+Georgia,2025,January,170,1
+Germany,2025,January,15050,1
+Ghana,2025,January,8,1
+Greece,2025,January,415,1
+Grenada,2025,January,0,1
+Guatemala,2025,January,6,1
+Guinea,2025,January,2,1
+Guinea-Bissau,2025,January,3,1
+Guyana,2025,January,5,1
+Haiti,2025,January,0,1
+Honduras,2025,January,1,1
+Hungary,2025,January,1388,1
+Iceland,2025,January,58,1
+India,2025,January,43375,1
+Indonesia,2025,January,280,1
+Iran,2025,January,886,1
+Iraq,2025,January,131,1
+Ireland,2025,January,986,1
+Israel,2025,January,2730,1
+Italy,2025,January,4778,1
+Jamaica,2025,January,3,1
+Japan,2025,January,2631,1
+Jordan,2025,January,178,1
+Kazakhstan,2025,January,3015,1
+Kenya,2025,January,42,1
+Kiribati,2025,January,0,1
+Kosovo,2025,January,9,1
+Kuwait,2025,January,174,1
+Kyrgyzstan,2025,January,151,1
+Laos,2025,January,37,1
+Latvia,2025,January,844,1
+Lebanon,2025,January,145,1
+Lesotho,2025,January,1,1
+Liberia,2025,January,1,1
+Libya,2025,January,2,1
+Liechtenstein,2025,January,8,1
+Lithuania,2025,January,1639,1
+Luxembourg,2025,January,73,1
+Macedonia,2025,January,25,1
+Madagascar,2025,January,15,1
+Malawi,2025,January,3,1
+Malaysia,2025,January,2125,1
+Maldives,2025,January,2999,1
+Mali,2025,January,1,1
+Malta,2025,January,129,1
+Marshall Islands,2025,January,1,1
+Mauritania,2025,January,0,1
+Mauritius,2025,January,49,1
+Mexico,2025,January,82,1
+Moldova,2025,January,130,1
+Monaco,2025,January,4,1
+Mongolia,2025,January,28,1
+Montenegro,2025,January,23,1
+Morocco,2025,January,82,1
+Mozambique,2025,January,7,1
+Myanmar,2025,January,97,1
+Namibia,2025,January,0,1
+Nauru,2025,January,0,1
+Nepal,2025,January,689,1
+Netherlands,2025,January,6484,1
+New Zealand,2025,January,997,1
+Nicaragua,2025,January,0,1
+Niger,2025,January,1,1
+Nigeria,2025,January,14,1
+North Korea,2025,January,0,1
+Norway,2025,January,1665,1
+Oman,2025,January,156,1
+Pakistan,2025,January,1430,1
+Palau,2025,January,0,1
+Palestinian Territories,2025,January,18,1
+Panama,2025,January,2,1
+Papua New Guinea,2025,January,4,1
+Paraguay,2025,January,5,1
+Peru,2025,January,16,1
+Philippines,2025,January,424,1
+Poland,2025,January,7585,1
+Portugal,2025,January,789,1
+Qatar,2025,January,33,1
+Romania,2025,January,888,1
+Russian Federation,2025,January,34096,1
+Rwanda,2025,January,6,1
+Saint Kitts and Nevis,2025,January,15,1
+Saint Lucia,2025,January,4,1
+Saint Barthelemy,2025,January,0,1
+Saint Vincent and the Grenadines,2025,January,1,1
+Samoa,2025,January,0,1
+San Marino,2025,January,2,1
+Sao Tome and Principe,2025,January,0,1
+Saudi Arabia,2025,January,487,1
+Senegal,2025,January,5,1
+Serbia,2025,January,392,1
+Seychelles,2025,January,397,1
+Sierra Leone,2025,January,5,1
+Singapore,2025,January,1048,1
+Slovakia,2025,January,1117,1
+Slovenia,2025,January,498,1
+Solomon Islands,2025,January,0,1
+Somalia,2025,January,3,1
+South Africa,2025,January,365,1
+South Korea,2025,January,2149,1
+South Sudan,2025,January,2,1
+Spain,2025,January,2696,1
+Sudan,2025,January,70,1
+Suriname,2025,January,0,1
+Swaziland,2025,January,1,1
+Sweden,2025,January,2235,1
+Switzerland,2025,January,3322,1
+Syrian Arab Republic,2025,January,2,1
+Tajikistan,2025,January,28,1
+Tanzania,2025,January,10,1
+Thailand,2025,January,625,1
+Timor-Leste,2025,January,2,1
+Togo,2025,January,0,1
+Tonga,2025,January,0,1
+Trinidad and Tobago,2025,January,8,1
+Tunisia,2025,January,43,1
+Turkey,2025,January,1152,1
+Turkmenistan,2025,January,21,1
+Tuvalu,2025,January,0,1
+Uganda,2025,January,23,1
+Ukraine,2025,January,1872,1
+United Arab Emirates,2025,January,191,1
+United Kingdom,2025,January,21730,1
+United States,2025,January,7067,1
+Uruguay,2025,January,20,1
+Uzbekistan,2025,January,140,1
+Vanuatu,2025,January,7,1
+Vatican City,2025,January,0,1
+Venezuela,2025,January,10,1
+Vietnam,2025,January,257,1
+Yemen,2025,January,56,1
+Zambia,2025,January,9,1
+Zimbabwe,2025,January,11,1
+Afghanistan,2023,February,2,2
+Albania,2023,February,8,2
+Algeria,2023,February,16,2
+Andorra,2023,February,1,2
+Angola,2023,February,0,2
+Antigua and Barbuda,2023,February,2,2
+Argentina,2023,February,43,2
+Armenia,2023,February,145,2
+Aruba,2023,February,0,2
+Australia,2023,February,3113,2
+Austria,2023,February,934,2
+Azerbaijan,2023,February,64,2
+Bahamas,2023,February,1,2
+Bahrain,2023,February,35,2
+Bangladesh,2023,February,531,2
+Barbados,2023,February,1,2
+Belarus,2023,February,1244,2
+Belgium,2023,February,725,2
+Belize,2023,February,0,2
+Benin,2023,February,0,2
+Bhutan,2023,February,19,2
+Bolivia,2023,February,1,2
+Bosnia and Herzegovina,2023,February,7,2
+Botswana,2023,February,1,2
+Brazil,2023,February,83,2
+Brunei Darussalam,2023,February,6,2
+Bulgaria,2023,February,325,2
+Burkina Faso,2023,February,1,2
+Burundi,2023,February,2,2
+Cambodia,2023,February,57,2
+Cameroon,2023,February,3,2
+Canada,2023,February,3107,2
+Cape Verde,2023,February,0,2
+Chad,2023,February,0,2
+Central African Republic,2023,February,0,2
+Chile,2023,February,45,2
+China,2023,February,1535,2
+Colombia,2023,February,38,2
+Comoros,2023,February,3,2
+Democratic Republic of the Congo,2023,February,3,2
+Costa Rica,2023,February,4,2
+Cote d'Ivoire,2023,February,2,2
+Croatia,2023,February,84,2
+Cuba,2023,February,1,2
+Cyprus,2023,February,41,2
+Czech Republic,2023,February,1206,2
+Denmark,2023,February,1110,2
+Djibouti,2023,February,3,2
+Dominica,2023,February,3,2
+Dominican Republic,2023,February,0,2
+Ecuador,2023,February,6,2
+Egypt,2023,February,241,2
+El Salvador,2023,February,2,2
+Eritrea,2023,February,0,2
+Estonia,2023,February,193,2
+Ethiopia,2023,February,6,2
+Fiji,2023,February,5,2
+Finland,2023,February,204,2
+France,2023,February,6118,2
+Gabon,2023,February,0,2
+Gambia,2023,February,1,2
+Georgia,2023,February,128,2
+Germany,2023,February,7930,2
+Ghana,2023,February,5,2
+Greece,2023,February,163,2
+Grenada,2023,February,2,2
+Guatemala,2023,February,4,2
+Guinea,2023,February,0,2
+Guyana,2023,February,0,2
+Haiti,2023,February,1,2
+Honduras,2023,February,1,2
+Hungary,2023,February,405,2
+Iceland,2023,February,25,2
+India,2023,February,13714,2
+Indonesia,2023,February,175,2
+Iran,2023,February,791,2
+Iraq,2023,February,92,2
+Ireland,2023,February,287,2
+Israel,2023,February,2188,2
+Italy,2023,February,1409,2
+Jamaica,2023,February,1,2
+Japan,2023,February,974,2
+Jordan,2023,February,227,2
+Kazakhstan,2023,February,328,2
+Kenya,2023,February,40,2
+Kiribati,2023,February,0,2
+Kosovo,2023,February,0,2
+Kuwait,2023,February,219,2
+Kyrgyzstan,2023,February,74,2
+Laos,2023,February,4,2
+Latvia,2023,February,176,2
+Lebanon,2023,February,188,2
+Lesotho,2023,February,0,2
+Liberia,2023,February,0,2
+Libya,2023,February,6,2
+Liechtenstein,2023,February,6,2
+Lithuania,2023,February,296,2
+Luxembourg,2023,February,40,2
+Macedonia,2023,February,15,2
+Madagascar,2023,February,7,2
+Malawi,2023,February,2,2
+Malaysia,2023,February,657,2
+Maldives,2023,February,1818,2
+Mali,2023,February,0,2
+Malta,2023,February,28,2
+Marshall Islands,2023,February,0,2
+Mauritania,2023,February,0,2
+Mauritius,2023,February,21,2
+Mexico,2023,February,40,2
+Moldova,2023,February,47,2
+Monaco,2023,February,0,2
+Mongolia,2023,February,12,2
+Montenegro,2023,February,9,2
+Morocco,2023,February,38,2
+Mozambique,2023,February,3,2
+Myanmar,2023,February,36,2
+Namibia,2023,February,0,2
+Nauru,2023,February,0,2
+Nepal,2023,February,247,2
+Netherlands,2023,February,1485,2
+New Zealand,2023,February,346,2
+Nicaragua,2023,February,1,2
+Niger,2023,February,2,2
+Nigeria,2023,February,2,2
+Norway,2023,February,567,2
+Oman,2023,February,229,2
+Pakistan,2023,February,724,2
+Palau,2023,February,0,2
+Palestinian Territories,2023,February,43,2
+Panama,2023,February,4,2
+Papua New Guinea,2023,February,3,2
+Paraguay,2023,February,3,2
+Peru,2023,February,10,2
+Philippines,2023,February,262,2
+Poland,2023,February,1118,2
+Portugal,2023,February,268,2
+Qatar,2023,February,46,2
+Romania,2023,February,398,2
+Russian Federation,2023,February,29084,2
+Rwanda,2023,February,0,2
+Saint Kitts and Nevis,2023,February,10,2
+Saint Lucia,2023,February,0,2
+Saint Vincent and the Grenadines,2023,February,0,2
+Samoa,2023,February,0,2
+San Marino,2023,February,1,2
+Saudi Arabia,2023,February,365,2
+Senegal,2023,February,5,2
+Serbia,2023,February,153,2
+Seychelles,2023,February,7,2
+Sierra Leone,2023,February,2,2
+Singapore,2023,February,486,2
+Slovakia,2023,February,515,2
+Slovenia,2023,February,184,2
+Solomon Islands,2023,February,2,2
+Somalia,2023,February,3,2
+South Africa,2023,February,141,2
+South Korea,2023,February,508,2
+South Sudan,2023,February,0,2
+Spain,2023,February,770,2
+Sudan,2023,February,37,2
+Swaziland,2023,February,0,2
+Suriname,2023,February,0,2
+Sweden,2023,February,836,2
+Switzerland,2023,February,1812,2
+Syrian Arab Republic,2023,February,1,2
+Taiwan Province of China,2023,February,193,2
+Tajikistan,2023,February,19,2
+Tanzania,2023,February,10,2
+Thailand,2023,February,210,2
+Timor-Leste,2023,February,0,2
+Togo,2023,February,1,2
+Tonga,2023,February,0,2
+Trinidad and Tobago,2023,February,7,2
+Tunisia,2023,February,39,2
+Turkey,2023,February,246,2
+Turkmenistan,2023,February,18,2
+Tuvalu,2023,February,0,2
+Uganda,2023,February,1,2
+Ukraine,2023,February,562,2
+United Arab Emirates,2023,February,138,2
+United Kingdom,2023,February,8575,2
+United States,2023,February,2443,2
+Uruguay,2023,February,4,2
+Uzbekistan,2023,February,383,2
+Vanuatu,2023,February,2,2
+Venezuela,2023,February,5,2
+Vietnam,2023,February,103,2
+Yemen,2023,February,26,2
+Zambia,2023,February,7,2
+Zimbabwe,2023,February,4,2
+Afghanistan,2024,February,21,2
+Albania,2024,February,6,2
+Algeria,2024,February,38,2
+Andorra,2024,February,6,2
+Angola,2024,February,0,2
+Antigua and Barbuda,2024,February,5,2
+Argentina,2024,February,79,2
+Armenia,2024,February,264,2
+Aruba,2024,February,0,2
+Australia,2024,February,6265,2
+Austria,2024,February,2372,2
+Azerbaijan,2024,February,157,2
+Bahamas,2024,February,0,2
+Bahrain,2024,February,81,2
+Bangladesh,2024,February,2389,2
+Barbados,2024,February,1,2
+Belarus,2024,February,1884,2
+Belgium,2024,February,1577,2
+Belize,2024,February,2,2
+Benin,2024,February,0,2
+Bhutan,2024,February,67,2
+Bolivia,2024,February,7,2
+Bosnia and Herzegovina,2024,February,66,2
+Botswana,2024,February,2,2
+Brazil,2024,February,212,2
+Brunei Darussalam,2024,February,11,2
+Bulgaria,2024,February,624,2
+Burkina Faso,2024,February,0,2
+Burundi,2024,February,0,2
+Cambodia,2024,February,41,2
+Cameroon,2024,February,4,2
+Canada,2024,February,3912,2
+Cape Verde,2024,February,0,2
+Chad,2024,February,0,2
+Central African Republic,2024,February,0,2
+Chile,2024,February,61,2
+China,2024,February,16279,2
+Colombia,2024,February,70,2
+Comoros,2024,February,6,2
+Democratic Republic of the Congo,2024,February,5,2
+Costa Rica,2024,February,14,2
+Cote d'Ivoire,2024,February,1,2
+Croatia,2024,February,249,2
+Cuba,2024,February,1,2
+Cyprus,2024,February,62,2
+Czech Republic,2024,February,3852,2
+Denmark,2024,February,2160,2
+Djibouti,2024,February,4,2
+Dominica,2024,February,9,2
+Dominican Republic,2024,February,1,2
+Ecuador,2024,February,13,2
+Egypt,2024,February,476,2
+El Salvador,2024,February,4,2
+Equatorial Guinea,2024,February,0,2
+Eritrea,2024,February,1,2
+Estonia,2024,February,898,2
+Ethiopia,2024,February,6,2
+Fiji,2024,February,9,2
+Finland,2024,February,666,2
+France,2024,February,12503,2
+Gabon,2024,February,0,2
+Gambia,2024,February,2,2
+Georgia,2024,February,187,2
+Germany,2024,February,16259,2
+Ghana,2024,February,4,2
+Greece,2024,February,264,2
+Grenada,2024,February,0,2
+Guatemala,2024,February,10,2
+Guinea-Bissau,2024,February,0,2
+Guinea,2024,February,2,2
+Guyana,2024,February,1,2
+Haiti,2024,February,0,2
+Honduras,2024,February,1,2
+Hungary,2024,February,1311,2
+Iceland,2024,February,28,2
+India,2024,February,30027,2
+Indonesia,2024,February,320,2
+Iran,2024,February,919,2
+Iraq,2024,February,74,2
+Ireland,2024,February,874,2
+Israel,2024,February,1988,2
+Italy,2024,February,3194,2
+Jamaica,2024,February,11,2
+Japan,2024,February,2666,2
+Jordan,2024,February,227,2
+Kazakhstan,2024,February,2682,2
+Kenya,2024,February,64,2
+Kiribati,2024,February,0,2
+Kosovo,2024,February,4,2
+Kuwait,2024,February,222,2
+Kyrgyzstan,2024,February,219,2
+Laos,2024,February,13,2
+Latvia,2024,February,654,2
+Lebanon,2024,February,293,2
+Lesotho,2024,February,1,2
+Liberia,2024,February,1,2
+Libya,2024,February,7,2
+Liechtenstein,2024,February,9,2
+Lithuania,2024,February,1601,2
+Luxembourg,2024,February,86,2
+Macedonia,2024,February,24,2
+Madagascar,2024,February,10,2
+Malawi,2024,February,0,2
+Malaysia,2024,February,2250,2
+Maldives,2024,February,3235,2
+Mali,2024,February,1,2
+Malta,2024,February,125,2
+Marshall Islands,2024,February,0,2
+Mauritania,2024,February,0,2
+Mauritius,2024,February,53,2
+Micronesia,2024,February,0,2
+Mexico,2024,February,95,2
+Moldova,2024,February,166,2
+Monaco,2024,February,11,2
+Mongolia,2024,February,6,2
+Montenegro,2024,February,19,2
+Morocco,2024,February,103,2
+Mozambique,2024,February,2,2
+Myanmar,2024,February,101,2
+Namibia,2024,February,5,2
+Nauru,2024,February,0,2
+Nepal,2024,February,508,2
+Netherlands,2024,February,4011,2
+Netherlands Antilles,2024,February,0,2
+New Zealand,2024,February,567,2
+Nicaragua,2024,February,1,2
+Niger,2024,February,1,2
+Nigeria,2024,February,11,2
+Norway,2024,February,1329,2
+Oman,2024,February,116,2
+Pakistan,2024,February,1299,2
+Palau,2024,February,0,2
+Palestinian Territories,2024,February,61,2
+Panama,2024,February,7,2
+Papua New Guinea,2024,February,1,2
+Paraguay,2024,February,2,2
+Peru,2024,February,13,2
+Philippines,2024,February,440,2
+Poland,2024,February,6909,2
+Portugal,2024,February,654,2
+Qatar,2024,February,45,2
+Romania,2024,February,940,2
+Russian Federation,2024,February,32030,2
+Rwanda,2024,February,6,2
+Saint Kitts and Nevis,2024,February,12,2
+Saint Lucia,2024,February,1,2
+Saint Vincent and the Grenadines,2024,February,1,2
+Samoa,2024,February,0,2
+San Marino,2024,February,0,2
+Saudi Arabia,2024,February,549,2
+Senegal,2024,February,2,2
+Serbia,2024,February,293,2
+Seychelles,2024,February,149,2
+Sierra Leone,2024,February,2,2
+Singapore,2024,February,862,2
+Slovakia,2024,February,1179,2
+Slovenia,2024,February,611,2
+Solomon Islands,2024,February,1,2
+Somalia,2024,February,4,2
+South Africa,2024,February,350,2
+South Korea,2024,February,830,2
+South Sudan,2024,February,1,2
+Spain,2024,February,2036,2
+Sudan,2024,February,41,2
+Swaziland,2024,February,0,2
+Suriname,2024,February,0,2
+Sweden,2024,February,1903,2
+Switzerland,2024,February,2888,2
+Syrian Arab Republic,2024,February,10,2
+Tajikistan,2024,February,8,2
+Tanzania,2024,February,25,2
+Thailand,2024,February,716,2
+Timor-Leste,2024,February,0,2
+Togo,2024,February,0,2
+Tonga,2024,February,0,2
+Trinidad and Tobago,2024,February,16,2
+Tunisia,2024,February,136,2
+Turkey,2024,February,663,2
+Turkmenistan,2024,February,5,2
+Tuvalu,2024,February,0,2
+Uganda,2024,February,33,2
+Ukraine,2024,February,1193,2
+United Arab Emirates,2024,February,227,2
+United Kingdom,2024,February,20614,2
+United States,2024,February,5709,2
+Uruguay,2024,February,16,2
+Uzbekistan,2024,February,70,2
+Vanuatu,2024,February,2,2
+Venezuela,2024,February,17,2
+Vietnam,2024,February,270,2
+Yemen,2024,February,65,2
+Zambia,2024,February,3,2
+Zimbabwe,2024,February,12,2
+Afghanistan,2025,February,15,2
+Albania,2025,February,33,2
+Algeria,2025,February,43,2
+Andorra,2025,February,7,2
+Angola,2025,February,3,2
+Antigua and Barbuda,2025,February,3,2
+Argentina,2025,February,79,2
+Armenia,2025,February,195,2
+Australia,2025,February,8778,2
+Austria,2025,February,2640,2
+Azerbaijan,2025,February,86,2
+Bahamas,2025,February,5,2
+Bahrain,2025,February,49,2
+Bangladesh,2025,February,5262,2
+Barbados,2025,February,1,2
+Belarus,2025,February,1455,2
+Belgium,2025,February,1994,2
+Belize,2025,February,0,2
+Benin,2025,February,0,2
+Bhutan,2025,February,39,2
+Bolivia,2025,February,3,2
+Bosnia and Herzegovina,2025,February,46,2
+Botswana,2025,February,1,2
+Brazil,2025,February,177,2
+Brunei Darussalam,2025,February,1,2
+Bulgaria,2025,February,838,2
+Burkina Faso,2025,February,1,2
+Burundi,2025,February,0,2
+Cambodia,2025,February,132,2
+Cameroon,2025,February,1,2
+Canada,2025,February,4550,2
+Cape Verde,2025,February,0,2
+Central African Republic,2025,February,0,2
+Chad,2025,February,0,2
+Chile,2025,February,77,2
+China,2025,February,11690,2
+Republic of the Congo,2025,February,0,2
+Colombia,2025,February,44,2
+Comoros,2025,February,1,2
+Democratic Republic of the Congo,2025,February,2,2
+Costa Rica,2025,February,13,2
+Cote d'Ivoire,2025,February,0,2
+Croatia,2025,February,360,2
+Cuba,2025,February,4,2
+Cyprus,2025,February,80,2
+Czech Republic,2025,February,3370,2
+Denmark,2025,February,2713,2
+Djibouti,2025,February,1,2
+Dominica,2025,February,9,2
+Dominican Republic,2025,February,1,2
+Ecuador,2025,February,12,2
+Egypt,2025,February,469,2
+El Salvador,2025,February,2,2
+Eritrea,2025,February,1,2
+Equatorial Guinea,2025,February,0,2
+Estonia,2025,February,934,2
+Ethiopia,2025,February,17,2
+Fiji,2025,February,23,2
+Finland,2025,February,790,2
+France,2025,February,15469,2
+Gabon,2025,February,0,2
+Gambia,2025,February,3,2
+Georgia,2025,February,81,2
+Germany,2025,February,17233,2
+Ghana,2025,February,4,2
+Greece,2025,February,395,2
+Grenada,2025,February,2,2
+Guatemala,2025,February,3,2
+Guinea,2025,February,0,2
+Guinea-Bissau,2025,February,0,2
+Guyana,2025,February,5,2
+Haiti,2025,February,1,2
+Honduras,2025,February,2,2
+Hungary,2025,February,1089,2
+Iceland,2025,February,38,2
+India,2025,February,35728,2
+Indonesia,2025,February,515,2
+Iran,2025,February,615,2
+Iraq,2025,February,114,2
+Ireland,2025,February,1067,2
+Israel,2025,February,2959,2
+Italy,2025,February,4115,2
+Jamaica,2025,February,5,2
+Japan,2025,February,3527,2
+Jordan,2025,February,297,2
+Kazakhstan,2025,February,2463,2
+Kenya,2025,February,55,2
+Kiribati,2025,February,0,2
+Kosovo,2025,February,12,2
+Kuwait,2025,February,204,2
+Kyrgyzstan,2025,February,126,2
+Laos,2025,February,31,2
+Latvia,2025,February,596,2
+Lebanon,2025,February,357,2
+Lesotho,2025,February,0,2
+Liberia,2025,February,4,2
+Libya,2025,February,5,2
+Liechtenstein,2025,February,12,2
+Lithuania,2025,February,1354,2
+Luxembourg,2025,February,96,2
+Macedonia,2025,February,8,2
+Madagascar,2025,February,11,2
+Malawi,2025,February,4,2
+Malaysia,2025,February,1415,2
+Maldives,2025,February,2843,2
+Mali,2025,February,0,2
+Malta,2025,February,130,2
+Marshall Islands,2025,February,0,2
+Mauritania,2025,February,0,2
+Mauritius,2025,February,90,2
+Mexico,2025,February,118,2
+Moldova,2025,February,167,2
+Monaco,2025,February,2,2
+Mongolia,2025,February,4,2
+Montenegro,2025,February,11,2
+Morocco,2025,February,102,2
+Mozambique,2025,February,6,2
+Myanmar,2025,February,82,2
+Namibia,2025,February,11,2
+Nauru,2025,February,0,2
+Nepal,2025,February,374,2
+Netherlands,2025,February,5589,2
+New Zealand,2025,February,741,2
+Nicaragua,2025,February,3,2
+Niger,2025,February,0,2
+Nigeria,2025,February,4,2
+North Korea,2025,February,0,2
+Norway,2025,February,1400,2
+Oman,2025,February,212,2
+Pakistan,2025,February,1152,2
+Palau,2025,February,0,2
+Palestinian Territories,2025,February,34,2
+Panama,2025,February,6,2
+Papua New Guinea,2025,February,4,2
+Paraguay,2025,February,2,2
+Peru,2025,February,24,2
+Philippines,2025,February,381,2
+Poland,2025,February,8519,2
+Portugal,2025,February,699,2
+Qatar,2025,February,46,2
+Romania,2025,February,894,2
+Russian Federation,2025,February,30295,2
+Rwanda,2025,February,3,2
+Saint Kitts and Nevis,2025,February,16,2
+Saint Lucia,2025,February,3,2
+Saint Barthelemy,2025,February,0,2
+Saint Vincent and the Grenadines,2025,February,0,2
+Samoa,2025,February,0,2
+San Marino,2025,February,4,2
+Sao Tome and Principe,2025,February,0,2
+Saudi Arabia,2025,February,358,2
+Senegal,2025,February,4,2
+Serbia,2025,February,309,2
+Seychelles,2025,February,212,2
+Sierra Leone,2025,February,1,2
+Singapore,2025,February,1024,2
+Slovakia,2025,February,1209,2
+Slovenia,2025,February,684,2
+Solomon Islands,2025,February,0,2
+Somalia,2025,February,4,2
+South Africa,2025,February,393,2
+South Korea,2025,February,1471,2
+South Sudan,2025,February,1,2
+Spain,2025,February,2528,2
+Sudan,2025,February,52,2
+Suriname,2025,February,3,2
+Swaziland,2025,February,0,2
+Sweden,2025,February,2007,2
+Switzerland,2025,February,3266,2
+Syrian Arab Republic,2025,February,0,2
+Tajikistan,2025,February,21,2
+Tanzania,2025,February,12,2
+Thailand,2025,February,719,2
+Timor-Leste,2025,February,8,2
+Togo,2025,February,0,2
+Tonga,2025,February,0,2
+Trinidad and Tobago,2025,February,8,2
+Tunisia,2025,February,124,2
+Turkey,2025,February,728,2
+Turkmenistan,2025,February,9,2
+Tuvalu,2025,February,0,2
+Uganda,2025,February,14,2
+Ukraine,2025,February,1387,2
+United Arab Emirates,2025,February,171,2
+United Kingdom,2025,February,25528,2
+United States,2025,February,6439,2
+Uruguay,2025,February,26,2
+Uzbekistan,2025,February,134,2
+Vanuatu,2025,February,3,2
+Vatican City,2025,February,0,2
+Venezuela,2025,February,15,2
+Vietnam,2025,February,253,2
+Yemen,2025,February,27,2
+Zambia,2025,February,9,2
+Zimbabwe,2025,February,15,2
+Afghanistan,2023,March,1,3
+Albania,2023,March,4,3
+Algeria,2023,March,15,3
+Andorra,2023,March,1,3
+Angola,2023,March,1,3
+Antigua and Barbuda,2023,March,2,3
+Argentina,2023,March,94,3
+Armenia,2023,March,124,3
+Aruba,2023,March,0,3
+Australia,2023,March,4725,3
+Austria,2023,March,872,3
+Azerbaijan,2023,March,343,3
+Bahamas,2023,March,3,3
+Bahrain,2023,March,56,3
+Bangladesh,2023,March,612,3
+Barbados,2023,March,3,3
+Belarus,2023,March,1399,3
+Belgium,2023,March,722,3
+Belize,2023,March,1,3
+Benin,2023,March,0,3
+Bhutan,2023,March,24,3
+Bolivia,2023,March,6,3
+Bosnia and Herzegovina,2023,March,15,3
+Botswana,2023,March,2,3
+Brazil,2023,March,112,3
+Brunei Darussalam,2023,March,1,3
+Bulgaria,2023,March,283,3
+Burkina Faso,2023,March,0,3
+Burundi,2023,March,0,3
+Cambodia,2023,March,47,3
+Cameroon,2023,March,0,3
+Canada,2023,March,4066,3
+Cape Verde,2023,March,0,3
+Chad,2023,March,0,3
+Central African Republic,2023,March,0,3
+Chile,2023,March,27,3
+China,2023,March,3096,3
+Colombia,2023,March,46,3
+Comoros,2023,March,3,3
+Democratic Republic of the Congo,2023,March,1,3
+Costa Rica,2023,March,8,3
+Cote d'Ivoire,2023,March,0,3
+Croatia,2023,March,91,3
+Cuba,2023,March,12,3
+Cyprus,2023,March,67,3
+Czech Republic,2023,March,1287,3
+Denmark,2023,March,895,3
+Djibouti,2023,March,0,3
+Dominica,2023,March,14,3
+Dominican Republic,2023,March,2,3
+Ecuador,2023,March,7,3
+Egypt,2023,March,185,3
+El Salvador,2023,March,1,3
+Eritrea,2023,March,3,3
+Estonia,2023,March,197,3
+Ethiopia,2023,March,1,3
+Fiji,2023,March,17,3
+Finland,2023,March,173,3
+France,2023,March,5786,3
+Gabon,2023,March,0,3
+Gambia,2023,March,0,3
+Georgia,2023,March,102,3
+Germany,2023,March,9702,3
+Ghana,2023,March,3,3
+Greece,2023,March,143,3
+Grenada,2023,March,0,3
+Guatemala,2023,March,8,3
+Guinea,2023,March,1,3
+Guyana,2023,March,2,3
+Haiti,2023,March,1,3
+Honduras,2023,March,6,3
+Hungary,2023,March,403,3
+Iceland,2023,March,16,3
+India,2023,March,18959,3
+Indonesia,2023,March,133,3
+Iran,2023,March,3738,3
+Iraq,2023,March,64,3
+Ireland,2023,March,463,3
+Israel,2023,March,1765,3
+Italy,2023,March,1272,3
+Jamaica,2023,March,4,3
+Japan,2023,March,1042,3
+Jordan,2023,March,245,3
+Kazakhstan,2023,March,972,3
+Kenya,2023,March,51,3
+Kiribati,2023,March,0,3
+Kosovo,2023,March,3,3
+Kuwait,2023,March,101,3
+Kyrgyzstan,2023,March,83,3
+Laos,2023,March,16,3
+Latvia,2023,March,172,3
+Lebanon,2023,March,206,3
+Lesotho,2023,March,0,3
+Liberia,2023,March,2,3
+Libya,2023,March,1,3
+Liechtenstein,2023,March,3,3
+Lithuania,2023,March,360,3
+Luxembourg,2023,March,39,3
+Macedonia,2023,March,17,3
+Madagascar,2023,March,15,3
+Malawi,2023,March,3,3
+Malaysia,2023,March,676,3
+Maldives,2023,March,1774,3
+Mali,2023,March,0,3
+Malta,2023,March,32,3
+Marshall Islands,2023,March,1,3
+Mauritania,2023,March,1,3
+Mauritius,2023,March,28,3
+Mexico,2023,March,80,3
+Moldova,2023,March,56,3
+Monaco,2023,March,5,3
+Mongolia,2023,March,7,3
+Montenegro,2023,March,6,3
+Morocco,2023,March,58,3
+Mozambique,2023,March,3,3
+Myanmar,2023,March,73,3
+Namibia,2023,March,0,3
+Nauru,2023,March,0,3
+Nepal,2023,March,295,3
+Netherlands,2023,March,1573,3
+New Zealand,2023,March,543,3
+Nicaragua,2023,March,0,3
+Niger,2023,March,0,3
+Nigeria,2023,March,3,3
+Norway,2023,March,648,3
+Oman,2023,March,63,3
+Pakistan,2023,March,824,3
+Palau,2023,March,0,3
+Palestinian Territories,2023,March,25,3
+Panama,2023,March,3,3
+Papua New Guinea,2023,March,2,3
+Paraguay,2023,March,2,3
+Peru,2023,March,10,3
+Philippines,2023,March,329,3
+Poland,2023,March,1507,3
+Portugal,2023,March,299,3
+Qatar,2023,March,67,3
+Romania,2023,March,340,3
+Russian Federation,2023,March,25553,3
+Rwanda,2023,March,1,3
+Saint Kitts and Nevis,2023,March,9,3
+Saint Lucia,2023,March,0,3
+Saint Vincent and the Grenadines,2023,March,0,3
+Samoa,2023,March,0,3
+San Marino,2023,March,0,3
+Saudi Arabia,2023,March,653,3
+Senegal,2023,March,2,3
+Serbia,2023,March,136,3
+Seychelles,2023,March,23,3
+Sierra Leone,2023,March,1,3
+Singapore,2023,March,636,3
+Slovakia,2023,March,610,3
+Slovenia,2023,March,88,3
+Solomon Islands,2023,March,0,3
+Somalia,2023,March,4,3
+South Africa,2023,March,265,3
+South Korea,2023,March,479,3
+South Sudan,2023,March,0,3
+Spain,2023,March,1125,3
+Sudan,2023,March,52,3
+Swaziland,2023,March,0,3
+Suriname,2023,March,1,3
+Sweden,2023,March,631,3
+Switzerland,2023,March,1660,3
+Syrian Arab Republic,2023,March,1,3
+Taiwan Province of China,2023,March,237,3
+Tajikistan,2023,March,14,3
+Tanzania,2023,March,9,3
+Thailand,2023,March,308,3
+Timor-Leste,2023,March,0,3
+Togo,2023,March,0,3
+Tonga,2023,March,0,3
+Trinidad and Tobago,2023,March,6,3
+Tunisia,2023,March,48,3
+Turkey,2023,March,227,3
+Turkmenistan,2023,March,11,3
+Tuvalu,2023,March,0,3
+Uganda,2023,March,9,3
+Ukraine,2023,March,516,3
+United Arab Emirates,2023,March,115,3
+United Kingdom,2023,March,11053,3
+United States,2023,March,5701,3
+Uruguay,2023,March,5,3
+Uzbekistan,2023,March,58,3
+Vanuatu,2023,March,6,3
+Venezuela,2023,March,14,3
+Vietnam,2023,March,284,3
+Yemen,2023,March,28,3
+Zambia,2023,March,4,3
+Zimbabwe,2023,March,10,3
+Afghanistan,2024,March,18,3
+Albania,2024,March,13,3
+Algeria,2024,March,10,3
+Andorra,2024,March,10,3
+Angola,2024,March,2,3
+Antigua and Barbuda,2024,March,5,3
+Argentina,2024,March,120,3
+Armenia,2024,March,326,3
+Aruba,2024,March,0,3
+Australia,2024,March,8852,3
+Austria,2024,March,1674,3
+Azerbaijan,2024,March,469,3
+Bahamas,2024,March,4,3
+Bahrain,2024,March,29,3
+Bangladesh,2024,March,1308,3
+Barbados,2024,March,13,3
+Belarus,2024,March,1665,3
+Belgium,2024,March,1565,3
+Belize,2024,March,4,3
+Benin,2024,March,0,3
+Bhutan,2024,March,68,3
+Bolivia,2024,March,2,3
+Bosnia and Herzegovina,2024,March,17,3
+Botswana,2024,March,3,3
+Brazil,2024,March,159,3
+Brunei Darussalam,2024,March,9,3
+Bulgaria,2024,March,458,3
+Burkina Faso,2024,March,0,3
+Burundi,2024,March,1,3
+Cambodia,2024,March,531,3
+Cameroon,2024,March,4,3
+Canada,2024,March,4034,3
+Cape Verde,2024,March,0,3
+Chad,2024,March,1,3
+Central African Republic,2024,March,29,3
+Chile,2024,March,77,3
+China,2024,March,13836,3
+Colombia,2024,March,69,3
+Comoros,2024,March,3,3
+Democratic Republic of the Congo,2024,March,0,3
+Costa Rica,2024,March,11,3
+Cote d'Ivoire,2024,March,2,3
+Croatia,2024,March,200,3
+Cuba,2024,March,10,3
+Cyprus,2024,March,67,3
+Czech Republic,2024,March,2988,3
+Denmark,2024,March,1497,3
+Djibouti,2024,March,5,3
+Dominica,2024,March,14,3
+Dominican Republic,2024,March,3,3
+Ecuador,2024,March,7,3
+Egypt,2024,March,99,3
+El Salvador,2024,March,4,3
+Equatorial Guinea,2024,March,0,3
+Eritrea,2024,March,1,3
+Estonia,2024,March,690,3
+Ethiopia,2024,March,10,3
+Fiji,2024,March,11,3
+Finland,2024,March,464,3
+France,2024,March,10960,3
+Gabon,2024,March,0,3
+Gambia,2024,March,0,3
+Georgia,2024,March,148,3
+Germany,2024,March,18324,3
+Ghana,2024,March,4,3
+Greece,2024,March,305,3
+Grenada,2024,March,2,3
+Guatemala,2024,March,2,3
+Guinea-Bissau,2024,March,1,3
+Guinea,2024,March,0,3
+Guyana,2024,March,4,3
+Haiti,2024,March,0,3
+Honduras,2024,March,1,3
+Hungary,2024,March,585,3
+Iceland,2024,March,26,3
+India,2024,March,31853,3
+Indonesia,2024,March,257,3
+Iran,2024,March,3589,3
+Iraq,2024,March,21,3
+Ireland,2024,March,1008,3
+Israel,2024,March,2212,3
+Italy,2024,March,2502,3
+Jamaica,2024,March,18,3
+Japan,2024,March,2575,3
+Jordan,2024,March,85,3
+Kazakhstan,2024,March,2266,3
+Kenya,2024,March,80,3
+Kiribati,2024,March,1,3
+Kosovo,2024,March,3,3
+Kuwait,2024,March,59,3
+Kyrgyzstan,2024,March,108,3
+Laos,2024,March,11,3
+Latvia,2024,March,670,3
+Lebanon,2024,March,242,3
+Lesotho,2024,March,3,3
+Liberia,2024,March,0,3
+Libya,2024,March,0,3
+Liechtenstein,2024,March,5,3
+Lithuania,2024,March,1219,3
+Luxembourg,2024,March,104,3
+Macedonia,2024,March,16,3
+Madagascar,2024,March,19,3
+Malawi,2024,March,5,3
+Malaysia,2024,March,1721,3
+Maldives,2024,March,1562,3
+Mali,2024,March,1,3
+Malta,2024,March,125,3
+Marshall Islands,2024,March,0,3
+Mauritania,2024,March,4,3
+Mauritius,2024,March,43,3
+Micronesia,2024,March,1,3
+Mexico,2024,March,111,3
+Moldova,2024,March,92,3
+Monaco,2024,March,1,3
+Mongolia,2024,March,7,3
+Montenegro,2024,March,17,3
+Morocco,2024,March,35,3
+Mozambique,2024,March,5,3
+Myanmar,2024,March,110,3
+Namibia,2024,March,5,3
+Nauru,2024,March,2,3
+Nepal,2024,March,309,3
+Netherlands,2024,March,3707,3
+Netherlands Antilles,2024,March,0,3
+New Zealand,2024,March,1032,3
+Nicaragua,2024,March,1,3
+Niger,2024,March,0,3
+Nigeria,2024,March,3,3
+Norway,2024,March,1033,3
+Oman,2024,March,28,3
+Pakistan,2024,March,941,3
+Palau,2024,March,0,3
+Palestinian Territories,2024,March,8,3
+Panama,2024,March,5,3
+Papua New Guinea,2024,March,28,3
+Paraguay,2024,March,4,3
+Peru,2024,March,24,3
+Philippines,2024,March,395,3
+Poland,2024,March,4789,3
+Portugal,2024,March,670,3
+Qatar,2024,March,16,3
+Romania,2024,March,638,3
+Russian Federation,2024,March,28016,3
+Rwanda,2024,March,3,3
+Saint Kitts and Nevis,2024,March,10,3
+Saint Lucia,2024,March,2,3
+Saint Vincent and the Grenadines,2024,March,0,3
+Samoa,2024,March,0,3
+San Marino,2024,March,0,3
+Saudi Arabia,2024,March,91,3
+Senegal,2024,March,0,3
+Serbia,2024,March,239,3
+Seychelles,2024,March,198,3
+Sierra Leone,2024,March,2,3
+Singapore,2024,March,1166,3
+Slovakia,2024,March,945,3
+Slovenia,2024,March,194,3
+Solomon Islands,2024,March,0,3
+Somalia,2024,March,10,3
+South Africa,2024,March,548,3
+South Korea,2024,March,861,3
+South Sudan,2024,March,0,3
+Spain,2024,March,2706,3
+Sudan,2024,March,14,3
+Swaziland,2024,March,1,3
+Suriname,2024,March,0,3
+Sweden,2024,March,1331,3
+Switzerland,2024,March,2522,3
+Syrian Arab Republic,2024,March,0,3
+Tajikistan,2024,March,11,3
+Tanzania,2024,March,15,3
+Thailand,2024,March,928,3
+Timor-Leste,2024,March,3,3
+Togo,2024,March,1,3
+Tonga,2024,March,0,3
+Trinidad and Tobago,2024,March,14,3
+Tunisia,2024,March,27,3
+Turkey,2024,March,473,3
+Turkmenistan,2024,March,9,3
+Tuvalu,2024,March,0,3
+Uganda,2024,March,15,3
+Ukraine,2024,March,907,3
+United Arab Emirates,2024,March,72,3
+United Kingdom,2024,March,21540,3
+United States,2024,March,7617,3
+Uruguay,2024,March,11,3
+Uzbekistan,2024,March,71,3
+Vanuatu,2024,March,6,3
+Venezuela,2024,March,19,3
+Vietnam,2024,March,304,3
+Yemen,2024,March,11,3
+Zambia,2024,March,6,3
+Zimbabwe,2024,March,25,3
+Afghanistan,2025,March,2,3
+Albania,2025,March,10,3
+Algeria,2025,March,19,3
+Andorra,2025,March,6,3
+Angola,2025,March,1,3
+Antigua and Barbuda,2025,March,0,3
+Argentina,2025,March,101,3
+Armenia,2025,March,224,3
+Australia,2025,March,9012,3
+Austria,2025,March,1756,3
+Azerbaijan,2025,March,267,3
+Bahamas,2025,March,2,3
+Bahrain,2025,March,52,3
+Bangladesh,2025,March,4713,3
+Barbados,2025,March,4,3
+Belarus,2025,March,1257,3
+Belgium,2025,March,1609,3
+Belize,2025,March,3,3
+Benin,2025,March,4,3
+Bhutan,2025,March,22,3
+Bolivia,2025,March,2,3
+Bosnia and Herzegovina,2025,March,34,3
+Botswana,2025,March,1,3
+Brazil,2025,March,213,3
+Brunei Darussalam,2025,March,2,3
+Bulgaria,2025,March,748,3
+Burkina Faso,2025,March,1,3
+Burundi,2025,March,0,3
+Cambodia,2025,March,125,3
+Cameroon,2025,March,2,3
+Canada,2025,March,4219,3
+Cape Verde,2025,March,3,3
+Central African Republic,2025,March,2,3
+Chad,2025,March,0,3
+Chile,2025,March,86,3
+China,2025,March,11114,3
+Republic of the Congo,2025,March,1,3
+Colombia,2025,March,84,3
+Comoros,2025,March,2,3
+Democratic Republic of the Congo,2025,March,5,3
+Costa Rica,2025,March,15,3
+Cote d'Ivoire,2025,March,3,3
+Croatia,2025,March,192,3
+Cuba,2025,March,5,3
+Cyprus,2025,March,105,3
+Czech Republic,2025,March,2266,3
+Denmark,2025,March,1299,3
+Djibouti,2025,March,0,3
+Dominica,2025,March,21,3
+Dominican Republic,2025,March,0,3
+Ecuador,2025,March,9,3
+Egypt,2025,March,276,3
+El Salvador,2025,March,1,3
+Eritrea,2025,March,1,3
+Equatorial Guinea,2025,March,0,3
+Estonia,2025,March,757,3
+Ethiopia,2025,March,27,3
+Fiji,2025,March,10,3
+Finland,2025,March,452,3
+France,2025,March,15278,3
+Gabon,2025,March,0,3
+Gambia,2025,March,0,3
+Georgia,2025,March,101,3
+Germany,2025,March,17918,3
+Ghana,2025,March,8,3
+Greece,2025,March,330,3
+Grenada,2025,March,4,3
+Guatemala,2025,March,5,3
+Guinea,2025,March,1,3
+Guinea-Bissau,2025,March,0,3
+Guyana,2025,March,6,3
+Haiti,2025,March,1,3
+Honduras,2025,March,1,3
+Hungary,2025,March,695,3
+Iceland,2025,March,18,3
+India,2025,March,39212,3
+Indonesia,2025,March,313,3
+Iran,2025,March,3695,3
+Iraq,2025,March,58,3
+Ireland,2025,March,1239,3
+Israel,2025,March,2069,3
+Italy,2025,March,3524,3
+Jamaica,2025,March,2,3
+Japan,2025,March,3708,3
+Jordan,2025,March,329,3
+Kazakhstan,2025,March,1808,3
+Kenya,2025,March,103,3
+Kiribati,2025,March,0,3
+Kosovo,2025,March,3,3
+Kuwait,2025,March,130,3
+Kyrgyzstan,2025,March,75,3
+Laos,2025,March,17,3
+Latvia,2025,March,791,3
+Lebanon,2025,March,474,3
+Lesotho,2025,March,0,3
+Liberia,2025,March,1,3
+Libya,2025,March,0,3
+Liechtenstein,2025,March,6,3
+Lithuania,2025,March,1263,3
+Luxembourg,2025,March,68,3
+Macedonia,2025,March,15,3
+Madagascar,2025,March,12,3
+Malawi,2025,March,3,3
+Malaysia,2025,March,2256,3
+Maldives,2025,March,1932,3
+Mali,2025,March,1,3
+Malta,2025,March,78,3
+Marshall Islands,2025,March,0,3
+Mauritania,2025,March,2,3
+Mauritius,2025,March,77,3
+Mexico,2025,March,135,3
+Moldova,2025,March,73,3
+Monaco,2025,March,3,3
+Mongolia,2025,March,12,3
+Montenegro,2025,March,20,3
+Morocco,2025,March,65,3
+Mozambique,2025,March,0,3
+Myanmar,2025,March,94,3
+Namibia,2025,March,2,3
+Nauru,2025,March,0,3
+Nepal,2025,March,307,3
+Netherlands,2025,March,4838,3
+New Zealand,2025,March,965,3
+Nicaragua,2025,March,6,3
+Niger,2025,March,0,3
+Nigeria,2025,March,6,3
+North Korea,2025,March,0,3
+Norway,2025,March,960,3
+Oman,2025,March,25,3
+Pakistan,2025,March,736,3
+Palau,2025,March,0,3
+Palestinian Territories,2025,March,23,3
+Panama,2025,March,4,3
+Papua New Guinea,2025,March,12,3
+Paraguay,2025,March,4,3
+Peru,2025,March,27,3
+Philippines,2025,March,585,3
+Poland,2025,March,5661,3
+Portugal,2025,March,876,3
+Qatar,2025,March,39,3
+Romania,2025,March,760,3
+Russian Federation,2025,March,29177,3
+Rwanda,2025,March,6,3
+Saint Kitts and Nevis,2025,March,18,3
+Saint Lucia,2025,March,5,3
+Saint Barthelemy,2025,March,0,3
+Saint Vincent and the Grenadines,2025,March,0,3
+Samoa,2025,March,3,3
+San Marino,2025,March,3,3
+Sao Tome and Principe,2025,March,0,3
+Saudi Arabia,2025,March,201,3
+Senegal,2025,March,2,3
+Serbia,2025,March,308,3
+Seychelles,2025,March,225,3
+Sierra Leone,2025,March,6,3
+Singapore,2025,March,1189,3
+Slovakia,2025,March,832,3
+Slovenia,2025,March,226,3
+Solomon Islands,2025,March,1,3
+Somalia,2025,March,1,3
+South Africa,2025,March,669,3
+South Korea,2025,March,963,3
+South Sudan,2025,March,1,3
+Spain,2025,March,2548,3
+Sudan,2025,March,22,3
+Suriname,2025,March,3,3
+Swaziland,2025,March,1,3
+Sweden,2025,March,1243,3
+Switzerland,2025,March,2740,3
+Syrian Arab Republic,2025,March,1,3
+Tajikistan,2025,March,18,3
+Tanzania,2025,March,7,3
+Thailand,2025,March,903,3
+Timor-Leste,2025,March,1,3
+Togo,2025,March,2,3
+Tonga,2025,March,0,3
+Trinidad and Tobago,2025,March,4,3
+Tunisia,2025,March,70,3
+Turkey,2025,March,992,3
+Turkmenistan,2025,March,16,3
+Tuvalu,2025,March,0,3
+Uganda,2025,March,9,3
+Ukraine,2025,March,1119,3
+United Arab Emirates,2025,March,165,3
+United Kingdom,2025,March,22447,3
+United States,2025,March,7676,3
+Uruguay,2025,March,33,3
+Uzbekistan,2025,March,64,3
+Vanuatu,2025,March,5,3
+Vatican City,2025,March,0,3
+Venezuela,2025,March,18,3
+Vietnam,2025,March,314,3
+Yemen,2025,March,14,3
+Zambia,2025,March,2,3
+Zimbabwe,2025,March,10,3
+Afghanistan,2023,April,1,4
+Albania,2023,April,6,4
+Algeria,2023,April,33,4
+Andorra,2023,April,3,4
+Angola,2023,April,1,4
+Antigua and Barbuda,2023,April,3,4
+Argentina,2023,April,71,4
+Armenia,2023,April,158,4
+Aruba,2023,April,0,4
+Australia,2023,April,4996,4
+Austria,2023,April,649,4
+Azerbaijan,2023,April,120,4
+Bahamas,2023,April,3,4
+Bahrain,2023,April,86,4
+Bangladesh,2023,April,960,4
+Barbados,2023,April,0,4
+Belarus,2023,April,627,4
+Belgium,2023,April,636,4
+Belize,2023,April,2,4
+Benin,2023,April,1,4
+Bhutan,2023,April,25,4
+Bolivia,2023,April,4,4
+Bosnia and Herzegovina,2023,April,16,4
+Botswana,2023,April,3,4
+Brazil,2023,April,208,4
+Brunei Darussalam,2023,April,2,4
+Bulgaria,2023,April,150,4
+Burkina Faso,2023,April,1,4
+Burundi,2023,April,0,4
+Cambodia,2023,April,12,4
+Cameroon,2023,April,0,4
+Canada,2023,April,3310,4
+Cape Verde,2023,April,1,4
+Chad,2023,April,0,4
+Central African Republic,2023,April,0,4
+Chile,2023,April,45,4
+China,2023,April,5118,4
+Colombia,2023,April,56,4
+Comoros,2023,April,3,4
+Democratic Republic of the Congo,2023,April,2,4
+Costa Rica,2023,April,0,4
+Cote d'Ivoire,2023,April,0,4
+Croatia,2023,April,57,4
+Cuba,2023,April,2,4
+Cyprus,2023,April,81,4
+Czech Republic,2023,April,820,4
+Denmark,2023,April,727,4
+Djibouti,2023,April,1,4
+Dominica,2023,April,4,4
+Dominican Republic,2023,April,2,4
+Ecuador,2023,April,10,4
+Egypt,2023,April,309,4
+El Salvador,2023,April,8,4
+Eritrea,2023,April,2,4
+Estonia,2023,April,60,4
+Ethiopia,2023,April,9,4
+Fiji,2023,April,4,4
+Finland,2023,April,123,4
+France,2023,April,5535,4
+Gabon,2023,April,0,4
+Gambia,2023,April,1,4
+Georgia,2023,April,87,4
+Germany,2023,April,7404,4
+Ghana,2023,April,1,4
+Greece,2023,April,148,4
+Grenada,2023,April,0,4
+Guatemala,2023,April,1,4
+Guinea,2023,April,0,4
+Guyana,2023,April,0,4
+Haiti,2023,April,0,4
+Honduras,2023,April,1,4
+Hungary,2023,April,189,4
+Iceland,2023,April,14,4
+India,2023,April,19915,4
+Indonesia,2023,April,173,4
+Iran,2023,April,420,4
+Iraq,2023,April,84,4
+Ireland,2023,April,490,4
+Israel,2023,April,1432,4
+Italy,2023,April,1384,4
+Jamaica,2023,April,6,4
+Japan,2023,April,2318,4
+Jordan,2023,April,376,4
+Kazakhstan,2023,April,159,4
+Kenya,2023,April,52,4
+Kiribati,2023,April,0,4
+Kosovo,2023,April,6,4
+Kuwait,2023,April,191,4
+Kyrgyzstan,2023,April,38,4
+Laos,2023,April,2,4
+Latvia,2023,April,59,4
+Lebanon,2023,April,616,4
+Lesotho,2023,April,0,4
+Liberia,2023,April,0,4
+Libya,2023,April,4,4
+Liechtenstein,2023,April,9,4
+Lithuania,2023,April,223,4
+Luxembourg,2023,April,93,4
+Macedonia,2023,April,28,4
+Madagascar,2023,April,7,4
+Malawi,2023,April,5,4
+Malaysia,2023,April,735,4
+Maldives,2023,April,1596,4
+Mali,2023,April,0,4
+Malta,2023,April,33,4
+Marshall Islands,2023,April,1,4
+Mauritania,2023,April,0,4
+Mauritius,2023,April,20,4
+Mexico,2023,April,82,4
+Moldova,2023,April,25,4
+Monaco,2023,April,6,4
+Mongolia,2023,April,20,4
+Montenegro,2023,April,10,4
+Morocco,2023,April,65,4
+Mozambique,2023,April,0,4
+Myanmar,2023,April,44,4
+Namibia,2023,April,0,4
+Nauru,2023,April,0,4
+Nepal,2023,April,226,4
+Netherlands,2023,April,1593,4
+New Zealand,2023,April,627,4
+Nicaragua,2023,April,1,4
+Niger,2023,April,0,4
+Nigeria,2023,April,3,4
+Norway,2023,April,487,4
+Oman,2023,April,64,4
+Pakistan,2023,April,399,4
+Palau,2023,April,0,4
+Palestinian Territories,2023,April,41,4
+Panama,2023,April,0,4
+Papua New Guinea,2023,April,0,4
+Paraguay,2023,April,3,4
+Peru,2023,April,14,4
+Philippines,2023,April,369,4
+Poland,2023,April,1129,4
+Portugal,2023,April,486,4
+Qatar,2023,April,62,4
+Romania,2023,April,315,4
+Russian Federation,2023,April,14656,4
+Rwanda,2023,April,2,4
+Saint Kitts and Nevis,2023,April,11,4
+Saint Lucia,2023,April,1,4
+Saint Vincent and the Grenadines,2023,April,0,4
+Samoa,2023,April,0,4
+San Marino,2023,April,0,4
+Saudi Arabia,2023,April,414,4
+Senegal,2023,April,3,4
+Serbia,2023,April,172,4
+Seychelles,2023,April,33,4
+Sierra Leone,2023,April,4,4
+Singapore,2023,April,500,4
+Slovakia,2023,April,475,4
+Slovenia,2023,April,197,4
+Solomon Islands,2023,April,0,4
+Somalia,2023,April,3,4
+South Africa,2023,April,315,4
+South Korea,2023,April,469,4
+South Sudan,2023,April,0,4
+Spain,2023,April,1619,4
+Sudan,2023,April,44,4
+Swaziland,2023,April,0,4
+Suriname,2023,April,1,4
+Sweden,2023,April,509,4
+Switzerland,2023,April,2091,4
+Syrian Arab Republic,2023,April,0,4
+Taiwan Province of China,2023,April,244,4
+Tajikistan,2023,April,9,4
+Tanzania,2023,April,11,4
+Thailand,2023,April,406,4
+Timor-Leste,2023,April,6,4
+Togo,2023,April,3,4
+Tonga,2023,April,0,4
+Trinidad and Tobago,2023,April,5,4
+Tunisia,2023,April,106,4
+Turkey,2023,April,289,4
+Turkmenistan,2023,April,13,4
+Tuvalu,2023,April,0,4
+Uganda,2023,April,4,4
+Ukraine,2023,April,326,4
+United Arab Emirates,2023,April,169,4
+United Kingdom,2023,April,8743,4
+United States,2023,April,3940,4
+Uruguay,2023,April,14,4
+Uzbekistan,2023,April,25,4
+Vanuatu,2023,April,5,4
+Venezuela,2023,April,18,4
+Vietnam,2023,April,141,4
+Yemen,2023,April,22,4
+Zambia,2023,April,6,4
+Zimbabwe,2023,April,16,4
+Afghanistan,2024,April,0,4
+Albania,2024,April,10,4
+Algeria,2024,April,38,4
+Andorra,2024,April,1,4
+Angola,2024,April,1,4
+Antigua and Barbuda,2024,April,3,4
+Argentina,2024,April,102,4
+Armenia,2024,April,128,4
+Aruba,2024,April,0,4
+Australia,2024,April,7202,4
+Austria,2024,April,1092,4
+Azerbaijan,2024,April,101,4
+Bahamas,2024,April,0,4
+Bahrain,2024,April,85,4
+Bangladesh,2024,April,2354,4
+Barbados,2024,April,2,4
+Belarus,2024,April,752,4
+Belgium,2024,April,914,4
+Belize,2024,April,2,4
+Benin,2024,April,1,4
+Bhutan,2024,April,24,4
+Bolivia,2024,April,6,4
+Bosnia and Herzegovina,2024,April,18,4
+Botswana,2024,April,2,4
+Brazil,2024,April,239,4
+Brunei Darussalam,2024,April,4,4
+Bulgaria,2024,April,313,4
+Burkina Faso,2024,April,1,4
+Burundi,2024,April,0,4
+Cambodia,2024,April,162,4
+Cameroon,2024,April,1,4
+Canada,2024,April,3594,4
+Cape Verde,2024,April,0,4
+Chad,2024,April,0,4
+Central African Republic,2024,April,0,4
+Chile,2024,April,53,4
+China,2024,April,8969,4
+Colombia,2024,April,88,4
+Comoros,2024,April,2,4
+Democratic Republic of the Congo,2024,April,0,4
+Costa Rica,2024,April,11,4
+Cote d'Ivoire,2024,April,0,4
+Croatia,2024,April,70,4
+Cuba,2024,April,1,4
+Cyprus,2024,April,112,4
+Czech Republic,2024,April,1279,4
+Denmark,2024,April,822,4
+Djibouti,2024,April,0,4
+Dominica,2024,April,8,4
+Dominican Republic,2024,April,1,4
+Ecuador,2024,April,9,4
+Egypt,2024,April,458,4
+El Salvador,2024,April,1,4
+Equatorial Guinea,2024,April,6,4
+Eritrea,2024,April,3,4
+Estonia,2024,April,236,4
+Ethiopia,2024,April,17,4
+Fiji,2024,April,26,4
+Finland,2024,April,238,4
+France,2024,April,8792,4
+Gabon,2024,April,0,4
+Gambia,2024,April,2,4
+Georgia,2024,April,132,4
+Germany,2024,April,9843,4
+Ghana,2024,April,3,4
+Greece,2024,April,306,4
+Grenada,2024,April,2,4
+Guatemala,2024,April,6,4
+Guinea-Bissau,2024,April,0,4
+Guinea,2024,April,2,4
+Guyana,2024,April,0,4
+Haiti,2024,April,0,4
+Honduras,2024,April,2,4
+Hungary,2024,April,237,4
+Iceland,2024,April,16,4
+India,2024,April,27304,4
+Indonesia,2024,April,248,4
+Iran,2024,April,426,4
+Iraq,2024,April,58,4
+Ireland,2024,April,846,4
+Israel,2024,April,3169,4
+Italy,2024,April,2245,4
+Jamaica,2024,April,1,4
+Japan,2024,April,1949,4
+Jordan,2024,April,313,4
+Kazakhstan,2024,April,152,4
+Kenya,2024,April,45,4
+Kiribati,2024,April,0,4
+Kosovo,2024,April,3,4
+Kuwait,2024,April,225,4
+Kyrgyzstan,2024,April,50,4
+Laos,2024,April,12,4
+Latvia,2024,April,146,4
+Lebanon,2024,April,671,4
+Lesotho,2024,April,0,4
+Liberia,2024,April,0,4
+Libya,2024,April,3,4
+Liechtenstein,2024,April,10,4
+Lithuania,2024,April,401,4
+Luxembourg,2024,April,81,4
+Macedonia,2024,April,23,4
+Madagascar,2024,April,7,4
+Malawi,2024,April,3,4
+Malaysia,2024,April,1277,4
+Maldives,2024,April,2938,4
+Mali,2024,April,1,4
+Malta,2024,April,38,4
+Marshall Islands,2024,April,0,4
+Mauritania,2024,April,1,4
+Mauritius,2024,April,59,4
+Micronesia,2024,April,0,4
+Mexico,2024,April,155,4
+Moldova,2024,April,81,4
+Monaco,2024,April,3,4
+Mongolia,2024,April,4,4
+Montenegro,2024,April,18,4
+Morocco,2024,April,131,4
+Mozambique,2024,April,1,4
+Myanmar,2024,April,125,4
+Namibia,2024,April,3,4
+Nauru,2024,April,0,4
+Nepal,2024,April,284,4
+Netherlands,2024,April,3437,4
+Netherlands Antilles,2024,April,0,4
+New Zealand,2024,April,1116,4
+Nicaragua,2024,April,1,4
+Niger,2024,April,1,4
+Nigeria,2024,April,9,4
+Norway,2024,April,548,4
+Oman,2024,April,125,4
+Pakistan,2024,April,797,4
+Palau,2024,April,0,4
+Palestinian Territories,2024,April,57,4
+Panama,2024,April,3,4
+Papua New Guinea,2024,April,3,4
+Paraguay,2024,April,2,4
+Peru,2024,April,42,4
+Philippines,2024,April,578,4
+Poland,2024,April,2349,4
+Portugal,2024,April,530,4
+Qatar,2024,April,99,4
+Romania,2024,April,655,4
+Russian Federation,2024,April,15103,4
+Rwanda,2024,April,2,4
+Saint Kitts and Nevis,2024,April,26,4
+Saint Lucia,2024,April,0,4
+Saint Vincent and the Grenadines,2024,April,0,4
+Samoa,2024,April,0,4
+San Marino,2024,April,0,4
+Saudi Arabia,2024,April,360,4
+Senegal,2024,April,3,4
+Serbia,2024,April,222,4
+Seychelles,2024,April,289,4
+Sierra Leone,2024,April,3,4
+Singapore,2024,April,858,4
+Slovakia,2024,April,535,4
+Slovenia,2024,April,338,4
+Solomon Islands,2024,April,0,4
+Somalia,2024,April,8,4
+South Africa,2024,April,474,4
+South Korea,2024,April,637,4
+South Sudan,2024,April,0,4
+Spain,2024,April,2166,4
+Sudan,2024,April,68,4
+Swaziland,2024,April,0,4
+Suriname,2024,April,3,4
+Sweden,2024,April,537,4
+Switzerland,2024,April,2557,4
+Syrian Arab Republic,2024,April,7,4
+Tajikistan,2024,April,10,4
+Tanzania,2024,April,11,4
+Thailand,2024,April,834,4
+Timor-Leste,2024,April,6,4
+Togo,2024,April,0,4
+Tonga,2024,April,2,4
+Trinidad and Tobago,2024,April,8,4
+Tunisia,2024,April,152,4
+Turkey,2024,April,910,4
+Turkmenistan,2024,April,8,4
+Tuvalu,2024,April,0,4
+Uganda,2024,April,29,4
+Ukraine,2024,April,437,4
+United Arab Emirates,2024,April,378,4
+United Kingdom,2024,April,13173,4
+United States,2024,April,5574,4
+Uruguay,2024,April,8,4
+Uzbekistan,2024,April,57,4
+Vanuatu,2024,April,4,4
+Venezuela,2024,April,25,4
+Vietnam,2024,April,235,4
+Yemen,2024,April,26,4
+Zambia,2024,April,1,4
+Zimbabwe,2024,April,16,4
+Afghanistan,2025,April,21,4
+Albania,2025,April,14,4
+Algeria,2025,April,20,4
+Andorra,2025,April,33,4
+Angola,2025,April,2,4
+Antigua and Barbuda,2025,April,3,4
+Argentina,2025,April,62,4
+Armenia,2025,April,124,4
+Australia,2025,April,10744,4
+Austria,2025,April,1087,4
+Azerbaijan,2025,April,64,4
+Bahamas,2025,April,1,4
+Bahrain,2025,April,77,4
+Bangladesh,2025,April,5428,4
+Barbados,2025,April,1,4
+Belarus,2025,April,436,4
+Belgium,2025,April,1623,4
+Belize,2025,April,2,4
+Benin,2025,April,3,4
+Bhutan,2025,April,72,4
+Bolivia,2025,April,1,4
+Bosnia and Herzegovina,2025,April,67,4
+Botswana,2025,April,4,4
+Brazil,2025,April,178,4
+Brunei Darussalam,2025,April,6,4
+Bulgaria,2025,April,288,4
+Burkina Faso,2025,April,0,4
+Burundi,2025,April,0,4
+Cambodia,2025,April,551,4
+Cameroon,2025,April,1,4
+Canada,2025,April,3238,4
+Cape Verde,2025,April,0,4
+Central African Republic,2025,April,0,4
+Chad,2025,April,0,4
+Chile,2025,April,61,4
+China,2025,April,8667,4
+Republic of the Congo,2025,April,0,4
+Colombia,2025,April,62,4
+Comoros,2025,April,4,4
+Democratic Republic of the Congo,2025,April,1,4
+Costa Rica,2025,April,9,4
+Cote d'Ivoire,2025,April,0,4
+Croatia,2025,April,150,4
+Cuba,2025,April,2,4
+Cyprus,2025,April,110,4
+Czech Republic,2025,April,1227,4
+Denmark,2025,April,1316,4
+Djibouti,2025,April,0,4
+Dominica,2025,April,12,4
+Dominican Republic,2025,April,4,4
+Ecuador,2025,April,11,4
+Egypt,2025,April,434,4
+El Salvador,2025,April,0,4
+Eritrea,2025,April,0,4
+Equatorial Guinea,2025,April,0,4
+Estonia,2025,April,108,4
+Ethiopia,2025,April,13,4
+Fiji,2025,April,20,4
+Finland,2025,April,236,4
+France,2025,April,8276,4
+Gabon,2025,April,0,4
+Gambia,2025,April,0,4
+Georgia,2025,April,30,4
+Germany,2025,April,11654,4
+Ghana,2025,April,3,4
+Greece,2025,April,423,4
+Grenada,2025,April,1,4
+Guatemala,2025,April,7,4
+Guinea,2025,April,2,4
+Guinea-Bissau,2025,April,0,4
+Guyana,2025,April,2,4
+Haiti,2025,April,2,4
+Honduras,2025,April,1,4
+Hungary,2025,April,421,4
+Iceland,2025,April,28,4
+India,2025,April,38744,4
+Indonesia,2025,April,446,4
+Iran,2025,April,232,4
+Iraq,2025,April,89,4
+Ireland,2025,April,953,4
+Israel,2025,April,1821,4
+Italy,2025,April,3633,4
+Jamaica,2025,April,2,4
+Japan,2025,April,2374,4
+Jordan,2025,April,210,4
+Kazakhstan,2025,April,121,4
+Kenya,2025,April,79,4
+Kiribati,2025,April,0,4
+Kosovo,2025,April,7,4
+Kuwait,2025,April,132,4
+Kyrgyzstan,2025,April,24,4
+Laos,2025,April,14,4
+Latvia,2025,April,96,4
+Lebanon,2025,April,353,4
+Lesotho,2025,April,2,4
+Liberia,2025,April,0,4
+Libya,2025,April,6,4
+Liechtenstein,2025,April,25,4
+Lithuania,2025,April,178,4
+Luxembourg,2025,April,114,4
+Macedonia,2025,April,23,4
+Madagascar,2025,April,14,4
+Malawi,2025,April,2,4
+Malaysia,2025,April,1486,4
+Maldives,2025,April,2516,4
+Mali,2025,April,1,4
+Malta,2025,April,118,4
+Marshall Islands,2025,April,0,4
+Mauritania,2025,April,3,4
+Mauritius,2025,April,82,4
+Mexico,2025,April,107,4
+Moldova,2025,April,18,4
+Monaco,2025,April,0,4
+Mongolia,2025,April,16,4
+Montenegro,2025,April,15,4
+Morocco,2025,April,95,4
+Mozambique,2025,April,2,4
+Myanmar,2025,April,166,4
+Namibia,2025,April,1,4
+Nauru,2025,April,0,4
+Nepal,2025,April,527,4
+Netherlands,2025,April,4476,4
+New Zealand,2025,April,1434,4
+Nicaragua,2025,April,1,4
+Niger,2025,April,0,4
+Nigeria,2025,April,4,4
+North Korea,2025,April,0,4
+Norway,2025,April,878,4
+Oman,2025,April,183,4
+Pakistan,2025,April,1156,4
+Palau,2025,April,1,4
+Palestinian Territories,2025,April,72,4
+Panama,2025,April,1,4
+Papua New Guinea,2025,April,46,4
+Paraguay,2025,April,3,4
+Peru,2025,April,30,4
+Philippines,2025,April,565,4
+Poland,2025,April,2098,4
+Portugal,2025,April,763,4
+Qatar,2025,April,107,4
+Romania,2025,April,456,4
+Russian Federation,2025,April,13525,4
+Rwanda,2025,April,6,4
+Saint Kitts and Nevis,2025,April,6,4
+Saint Lucia,2025,April,7,4
+Saint Barthelemy,2025,April,0,4
+Saint Vincent and the Grenadines,2025,April,0,4
+Samoa,2025,April,1,4
+San Marino,2025,April,2,4
+Sao Tome and Principe,2025,April,0,4
+Saudi Arabia,2025,April,416,4
+Senegal,2025,April,4,4
+Serbia,2025,April,227,4
+Seychelles,2025,April,365,4
+Sierra Leone,2025,April,2,4
+Singapore,2025,April,1060,4
+Slovakia,2025,April,627,4
+Slovenia,2025,April,338,4
+Solomon Islands,2025,April,0,4
+Somalia,2025,April,14,4
+South Africa,2025,April,370,4
+South Korea,2025,April,584,4
+South Sudan,2025,April,0,4
+Spain,2025,April,3144,4
+Sudan,2025,April,102,4
+Suriname,2025,April,4,4
+Swaziland,2025,April,0,4
+Sweden,2025,April,696,4
+Switzerland,2025,April,3241,4
+Syrian Arab Republic,2025,April,0,4
+Tajikistan,2025,April,46,4
+Tanzania,2025,April,13,4
+Thailand,2025,April,1220,4
+Timor-Leste,2025,April,0,4
+Togo,2025,April,0,4
+Tonga,2025,April,0,4
+Trinidad and Tobago,2025,April,2,4
+Tunisia,2025,April,60,4
+Turkey,2025,April,533,4
+Turkmenistan,2025,April,13,4
+Tuvalu,2025,April,0,4
+Uganda,2025,April,11,4
+Ukraine,2025,April,411,4
+United Arab Emirates,2025,April,502,4
+United Kingdom,2025,April,17348,4
+United States,2025,April,4202,4
+Uruguay,2025,April,46,4
+Uzbekistan,2025,April,47,4
+Vanuatu,2025,April,3,4
+Vatican City,2025,April,0,4
+Venezuela,2025,April,8,4
+Vietnam,2025,April,778,4
+Yemen,2025,April,38,4
+Zambia,2025,April,4,4
+Zimbabwe,2025,April,13,4
+Afghanistan,2023,May,24,5
+Albania,2023,May,7,5
+Algeria,2023,May,22,5
+Andorra,2023,May,2,5
+Angola,2023,May,0,5
+Antigua and Barbuda,2023,May,1,5
+Argentina,2023,May,66,5
+Armenia,2023,May,74,5
+Aruba,2023,May,1,5
+Australia,2023,May,4201,5
+Austria,2023,May,440,5
+Azerbaijan,2023,May,54,5
+Bahamas,2023,May,0,5
+Bahrain,2023,May,78,5
+Bangladesh,2023,May,1145,5
+Barbados,2023,May,1,5
+Belarus,2023,May,428,5
+Belgium,2023,May,420,5
+Belize,2023,May,0,5
+Benin,2023,May,0,5
+Bhutan,2023,May,21,5
+Bolivia,2023,May,5,5
+Bosnia and Herzegovina,2023,May,18,5
+Botswana,2023,May,7,5
+Brazil,2023,May,74,5
+Brunei Darussalam,2023,May,0,5
+Bulgaria,2023,May,18,5
+Burkina Faso,2023,May,4,5
+Burundi,2023,May,0,5
+Cambodia,2023,May,75,5
+Cameroon,2023,May,2,5
+Canada,2023,May,3753,5
+Cape Verde,2023,May,0,5
+Chad,2023,May,0,5
+Central African Republic,2023,May,0,5
+Chile,2023,May,33,5
+China,2023,May,4173,5
+Colombia,2023,May,33,5
+Comoros,2023,May,5,5
+Democratic Republic of the Congo,2023,May,2,5
+Costa Rica,2023,May,3,5
+Cote d'Ivoire,2023,May,0,5
+Croatia,2023,May,24,5
+Cuba,2023,May,6,5
+Cyprus,2023,May,28,5
+Czech Republic,2023,May,259,5
+Denmark,2023,May,348,5
+Djibouti,2023,May,0,5
+Dominica,2023,May,4,5
+Dominican Republic,2023,May,1,5
+Ecuador,2023,May,6,5
+Egypt,2023,May,164,5
+El Salvador,2023,May,4,5
+Eritrea,2023,May,4,5
+Estonia,2023,May,35,5
+Ethiopia,2023,May,5,5
+Fiji,2023,May,8,5
+Finland,2023,May,93,5
+France,2023,May,2414,5
+Gabon,2023,May,0,5
+Gambia,2023,May,0,5
+Georgia,2023,May,51,5
+Germany,2023,May,6854,5
+Ghana,2023,May,5,5
+Greece,2023,May,48,5
+Grenada,2023,May,1,5
+Guatemala,2023,May,1,5
+Guinea,2023,May,0,5
+Guyana,2023,May,1,5
+Haiti,2023,May,0,5
+Honduras,2023,May,2,5
+Hungary,2023,May,72,5
+Iceland,2023,May,16,5
+India,2023,May,23016,5
+Indonesia,2023,May,142,5
+Iran,2023,May,259,5
+Iraq,2023,May,58,5
+Ireland,2023,May,186,5
+Israel,2023,May,863,5
+Italy,2023,May,680,5
+Jamaica,2023,May,3,5
+Japan,2023,May,876,5
+Jordan,2023,May,249,5
+Kazakhstan,2023,May,75,5
+Kenya,2023,May,24,5
+Kiribati,2023,May,0,5
+Kosovo,2023,May,9,5
+Kuwait,2023,May,99,5
+Kyrgyzstan,2023,May,36,5
+Laos,2023,May,8,5
+Latvia,2023,May,39,5
+Lebanon,2023,May,161,5
+Lesotho,2023,May,0,5
+Liberia,2023,May,0,5
+Libya,2023,May,5,5
+Liechtenstein,2023,May,10,5
+Lithuania,2023,May,59,5
+Luxembourg,2023,May,33,5
+Macedonia,2023,May,4,5
+Madagascar,2023,May,9,5
+Malawi,2023,May,4,5
+Malaysia,2023,May,895,5
+Maldives,2023,May,2438,5
+Mali,2023,May,1,5
+Malta,2023,May,17,5
+Marshall Islands,2023,May,0,5
+Mauritania,2023,May,0,5
+Mauritius,2023,May,25,5
+Mexico,2023,May,46,5
+Moldova,2023,May,14,5
+Monaco,2023,May,0,5
+Mongolia,2023,May,2,5
+Montenegro,2023,May,2,5
+Morocco,2023,May,40,5
+Mozambique,2023,May,0,5
+Myanmar,2023,May,90,5
+Namibia,2023,May,4,5
+Nauru,2023,May,0,5
+Nepal,2023,May,361,5
+Netherlands,2023,May,1072,5
+New Zealand,2023,May,540,5
+Nicaragua,2023,May,1,5
+Niger,2023,May,1,5
+Nigeria,2023,May,4,5
+Norway,2023,May,344,5
+Oman,2023,May,93,5
+Pakistan,2023,May,580,5
+Palau,2023,May,0,5
+Palestinian Territories,2023,May,41,5
+Panama,2023,May,1,5
+Papua New Guinea,2023,May,0,5
+Paraguay,2023,May,2,5
+Peru,2023,May,6,5
+Philippines,2023,May,300,5
+Poland,2023,May,616,5
+Portugal,2023,May,155,5
+Qatar,2023,May,25,5
+Romania,2023,May,163,5
+Russian Federation,2023,May,7760,5
+Rwanda,2023,May,3,5
+Saint Kitts and Nevis,2023,May,7,5
+Saint Lucia,2023,May,0,5
+Saint Vincent and the Grenadines,2023,May,0,5
+Samoa,2023,May,0,5
+San Marino,2023,May,1,5
+Saudi Arabia,2023,May,372,5
+Senegal,2023,May,0,5
+Serbia,2023,May,41,5
+Seychelles,2023,May,30,5
+Sierra Leone,2023,May,0,5
+Singapore,2023,May,691,5
+Slovakia,2023,May,172,5
+Slovenia,2023,May,25,5
+Solomon Islands,2023,May,0,5
+Somalia,2023,May,4,5
+South Africa,2023,May,145,5
+South Korea,2023,May,498,5
+South Sudan,2023,May,8,5
+Spain,2023,May,857,5
+Sudan,2023,May,31,5
+Swaziland,2023,May,2,5
+Suriname,2023,May,0,5
+Sweden,2023,May,287,5
+Switzerland,2023,May,1208,5
+Syrian Arab Republic,2023,May,2,5
+Taiwan Province of China,2023,May,211,5
+Tajikistan,2023,May,11,5
+Tanzania,2023,May,9,5
+Thailand,2023,May,455,5
+Timor-Leste,2023,May,0,5
+Togo,2023,May,1,5
+Tonga,2023,May,4,5
+Trinidad and Tobago,2023,May,5,5
+Tunisia,2023,May,27,5
+Turkey,2023,May,141,5
+Turkmenistan,2023,May,7,5
+Tuvalu,2023,May,0,5
+Uganda,2023,May,7,5
+Ukraine,2023,May,167,5
+United Arab Emirates,2023,May,155,5
+United Kingdom,2023,May,5987,5
+United States,2023,May,3240,5
+Uruguay,2023,May,5,5
+Uzbekistan,2023,May,26,5
+Vanuatu,2023,May,3,5
+Venezuela,2023,May,3,5
+Vietnam,2023,May,233,5
+Yemen,2023,May,25,5
+Zambia,2023,May,3,5
+Zimbabwe,2023,May,10,5
+Afghanistan,2024,May,20,5
+Albania,2024,May,11,5
+Algeria,2024,May,28,5
+Andorra,2024,May,7,5
+Angola,2024,May,5,5
+Antigua and Barbuda,2024,May,1,5
+Argentina,2024,May,44,5
+Armenia,2024,May,60,5
+Aruba,2024,May,0,5
+Australia,2024,May,5465,5
+Austria,2024,May,544,5
+Azerbaijan,2024,May,39,5
+Bahamas,2024,May,0,5
+Bahrain,2024,May,68,5
+Bangladesh,2024,May,2878,5
+Barbados,2024,May,0,5
+Belarus,2024,May,195,5
+Belgium,2024,May,549,5
+Belize,2024,May,0,5
+Benin,2024,May,2,5
+Bhutan,2024,May,52,5
+Bolivia,2024,May,5,5
+Bosnia and Herzegovina,2024,May,15,5
+Botswana,2024,May,1,5
+Brazil,2024,May,106,5
+Brunei Darussalam,2024,May,3,5
+Bulgaria,2024,May,71,5
+Burkina Faso,2024,May,1,5
+Burundi,2024,May,1,5
+Cambodia,2024,May,82,5
+Cameroon,2024,May,0,5
+Canada,2024,May,3294,5
+Cape Verde,2024,May,0,5
+Chad,2024,May,0,5
+Central African Republic,2024,May,0,5
+Chile,2024,May,42,5
+China,2024,May,7930,5
+Colombia,2024,May,40,5
+Comoros,2024,May,10,5
+Democratic Republic of the Congo,2024,May,2,5
+Costa Rica,2024,May,7,5
+Cote d'Ivoire,2024,May,0,5
+Croatia,2024,May,35,5
+Cuba,2024,May,1,5
+Cyprus,2024,May,31,5
+Czech Republic,2024,May,314,5
+Denmark,2024,May,410,5
+Djibouti,2024,May,0,5
+Dominica,2024,May,11,5
+Dominican Republic,2024,May,4,5
+Ecuador,2024,May,8,5
+Egypt,2024,May,223,5
+El Salvador,2024,May,1,5
+Equatorial Guinea,2024,May,0,5
+Eritrea,2024,May,2,5
+Estonia,2024,May,11,5
+Ethiopia,2024,May,6,5
+Fiji,2024,May,13,5
+Finland,2024,May,159,5
+France,2024,May,4064,5
+Gabon,2024,May,0,5
+Gambia,2024,May,4,5
+Georgia,2024,May,39,5
+Germany,2024,May,7495,5
+Ghana,2024,May,1,5
+Greece,2024,May,133,5
+Grenada,2024,May,0,5
+Guatemala,2024,May,6,5
+Guinea-Bissau,2024,May,0,5
+Guinea,2024,May,1,5
+Guyana,2024,May,0,5
+Haiti,2024,May,0,5
+Honduras,2024,May,2,5
+Hungary,2024,May,78,5
+Iceland,2024,May,22,5
+India,2024,May,32254,5
+Indonesia,2024,May,218,5
+Iran,2024,May,280,5
+Iraq,2024,May,101,5
+Ireland,2024,May,315,5
+Israel,2024,May,1506,5
+Italy,2024,May,1010,5
+Jamaica,2024,May,7,5
+Japan,2024,May,1581,5
+Jordan,2024,May,149,5
+Kazakhstan,2024,May,65,5
+Kenya,2024,May,45,5
+Kiribati,2024,May,0,5
+Kosovo,2024,May,5,5
+Kuwait,2024,May,77,5
+Kyrgyzstan,2024,May,32,5
+Laos,2024,May,18,5
+Latvia,2024,May,22,5
+Lebanon,2024,May,216,5
+Lesotho,2024,May,0,5
+Liberia,2024,May,0,5
+Libya,2024,May,11,5
+Liechtenstein,2024,May,2,5
+Lithuania,2024,May,69,5
+Luxembourg,2024,May,37,5
+Macedonia,2024,May,29,5
+Madagascar,2024,May,5,5
+Malawi,2024,May,4,5
+Malaysia,2024,May,1204,5
+Maldives,2024,May,8040,5
+Mali,2024,May,0,5
+Malta,2024,May,21,5
+Marshall Islands,2024,May,0,5
+Mauritania,2024,May,1,5
+Mauritius,2024,May,25,5
+Micronesia,2024,May,0,5
+Mexico,2024,May,57,5
+Moldova,2024,May,8,5
+Monaco,2024,May,0,5
+Mongolia,2024,May,8,5
+Montenegro,2024,May,2,5
+Morocco,2024,May,59,5
+Mozambique,2024,May,7,5
+Myanmar,2024,May,83,5
+Namibia,2024,May,0,5
+Nauru,2024,May,0,5
+Nepal,2024,May,282,5
+Netherlands,2024,May,1845,5
+Netherlands Antilles,2024,May,0,5
+New Zealand,2024,May,664,5
+Nicaragua,2024,May,0,5
+Niger,2024,May,0,5
+Nigeria,2024,May,0,5
+Norway,2024,May,379,5
+Oman,2024,May,139,5
+Pakistan,2024,May,938,5
+Palau,2024,May,0,5
+Palestinian Territories,2024,May,31,5
+Panama,2024,May,2,5
+Papua New Guinea,2024,May,0,5
+Paraguay,2024,May,2,5
+Peru,2024,May,16,5
+Philippines,2024,May,395,5
+Poland,2024,May,1002,5
+Portugal,2024,May,314,5
+Qatar,2024,May,39,5
+Romania,2024,May,147,5
+Russian Federation,2024,May,4384,5
+Rwanda,2024,May,1,5
+Saint Kitts and Nevis,2024,May,10,5
+Saint Lucia,2024,May,0,5
+Saint Vincent and the Grenadines,2024,May,1,5
+Samoa,2024,May,0,5
+San Marino,2024,May,2,5
+Saudi Arabia,2024,May,213,5
+Senegal,2024,May,0,5
+Serbia,2024,May,32,5
+Seychelles,2024,May,117,5
+Sierra Leone,2024,May,0,5
+Singapore,2024,May,914,5
+Slovakia,2024,May,173,5
+Slovenia,2024,May,46,5
+Solomon Islands,2024,May,0,5
+Somalia,2024,May,5,5
+South Africa,2024,May,195,5
+South Korea,2024,May,571,5
+South Sudan,2024,May,0,5
+Spain,2024,May,1369,5
+Sudan,2024,May,69,5
+Swaziland,2024,May,2,5
+Suriname,2024,May,0,5
+Sweden,2024,May,278,5
+Switzerland,2024,May,1345,5
+Syrian Arab Republic,2024,May,3,5
+Tajikistan,2024,May,10,5
+Tanzania,2024,May,14,5
+Thailand,2024,May,583,5
+Timor-Leste,2024,May,2,5
+Togo,2024,May,1,5
+Tonga,2024,May,3,5
+Trinidad and Tobago,2024,May,10,5
+Tunisia,2024,May,57,5
+Turkey,2024,May,294,5
+Turkmenistan,2024,May,3,5
+Tuvalu,2024,May,0,5
+Uganda,2024,May,16,5
+Ukraine,2024,May,203,5
+United Arab Emirates,2024,May,229,5
+United Kingdom,2024,May,8094,5
+United States,2024,May,4082,5
+Uruguay,2024,May,20,5
+Uzbekistan,2024,May,32,5
+Vanuatu,2024,May,2,5
+Venezuela,2024,May,6,5
+Vietnam,2024,May,290,5
+Yemen,2024,May,14,5
+Zambia,2024,May,2,5
+Zimbabwe,2024,May,11,5
+Afghanistan,2025,May,10,5
+Albania,2025,May,13,5
+Algeria,2025,May,31,5
+Andorra,2025,May,6,5
+Angola,2025,May,0,5
+Antigua and Barbuda,2025,May,3,5
+Argentina,2025,May,60,5
+Armenia,2025,May,74,5
+Australia,2025,May,5929,5
+Austria,2025,May,483,5
+Azerbaijan,2025,May,54,5
+Bahamas,2025,May,1,5
+Bahrain,2025,May,54,5
+Bangladesh,2025,May,7282,5
+Barbados,2025,May,1,5
+Belarus,2025,May,148,5
+Belgium,2025,May,664,5
+Belize,2025,May,3,5
+Benin,2025,May,1,5
+Bhutan,2025,May,55,5
+Bolivia,2025,May,2,5
+Bosnia and Herzegovina,2025,May,20,5
+Botswana,2025,May,8,5
+Brazil,2025,May,132,5
+Brunei Darussalam,2025,May,17,5
+Bulgaria,2025,May,88,5
+Burkina Faso,2025,May,3,5
+Burundi,2025,May,0,5
+Cambodia,2025,May,28,5
+Cameroon,2025,May,2,5
+Canada,2025,May,3412,5
+Cape Verde,2025,May,1,5
+Central African Republic,2025,May,0,5
+Chad,2025,May,2,5
+Chile,2025,May,41,5
+China,2025,May,8803,5
+Republic of the Congo,2025,May,2,5
+Colombia,2025,May,56,5
+Comoros,2025,May,6,5
+Democratic Republic of the Congo,2025,May,3,5
+Costa Rica,2025,May,12,5
+Cote d'Ivoire,2025,May,3,5
+Croatia,2025,May,32,5
+Cuba,2025,May,2,5
+Cyprus,2025,May,51,5
+Czech Republic,2025,May,354,5
+Denmark,2025,May,500,5
+Djibouti,2025,May,3,5
+Dominica,2025,May,10,5
+Dominican Republic,2025,May,8,5
+Ecuador,2025,May,12,5
+Egypt,2025,May,298,5
+El Salvador,2025,May,3,5
+Eritrea,2025,May,1,5
+Equatorial Guinea,2025,May,1,5
+Estonia,2025,May,28,5
+Ethiopia,2025,May,11,5
+Fiji,2025,May,6,5
+Finland,2025,May,208,5
+France,2025,May,5470,5
+Gabon,2025,May,1,5
+Gambia,2025,May,1,5
+Georgia,2025,May,26,5
+Germany,2025,May,7223,5
+Ghana,2025,May,3,5
+Greece,2025,May,140,5
+Grenada,2025,May,1,5
+Guatemala,2025,May,10,5
+Guinea,2025,May,2,5
+Guinea-Bissau,2025,May,0,5
+Guyana,2025,May,3,5
+Haiti,2025,May,1,5
+Honduras,2025,May,3,5
+Hungary,2025,May,133,5
+Iceland,2025,May,13,5
+India,2025,May,47001,5
+Indonesia,2025,May,471,5
+Iran,2025,May,354,5
+Iraq,2025,May,65,5
+Ireland,2025,May,473,5
+Israel,2025,May,896,5
+Italy,2025,May,1333,5
+Jamaica,2025,May,3,5
+Japan,2025,May,2126,5
+Jordan,2025,May,169,5
+Kazakhstan,2025,May,207,5
+Kenya,2025,May,71,5
+Kiribati,2025,May,0,5
+Kosovo,2025,May,4,5
+Kuwait,2025,May,106,5
+Kyrgyzstan,2025,May,72,5
+Laos,2025,May,18,5
+Latvia,2025,May,50,5
+Lebanon,2025,May,169,5
+Lesotho,2025,May,5,5
+Liberia,2025,May,0,5
+Libya,2025,May,5,5
+Liechtenstein,2025,May,7,5
+Lithuania,2025,May,102,5
+Luxembourg,2025,May,23,5
+Macedonia,2025,May,19,5
+Madagascar,2025,May,17,5
+Malawi,2025,May,4,5
+Malaysia,2025,May,1920,5
+Maldives,2025,May,3006,5
+Mali,2025,May,4,5
+Malta,2025,May,18,5
+Marshall Islands,2025,May,0,5
+Mauritania,2025,May,3,5
+Mauritius,2025,May,56,5
+Mexico,2025,May,88,5
+Moldova,2025,May,11,5
+Monaco,2025,May,3,5
+Mongolia,2025,May,20,5
+Montenegro,2025,May,5,5
+Morocco,2025,May,108,5
+Mozambique,2025,May,2,5
+Myanmar,2025,May,203,5
+Namibia,2025,May,7,5
+Nauru,2025,May,0,5
+Nepal,2025,May,403,5
+Netherlands,2025,May,2329,5
+New Zealand,2025,May,840,5
+Nicaragua,2025,May,1,5
+Niger,2025,May,0,5
+Nigeria,2025,May,14,5
+North Korea,2025,May,0,5
+Norway,2025,May,355,5
+Oman,2025,May,136,5
+Pakistan,2025,May,946,5
+Palau,2025,May,0,5
+Palestinian Territories,2025,May,43,5
+Panama,2025,May,2,5
+Papua New Guinea,2025,May,21,5
+Paraguay,2025,May,4,5
+Peru,2025,May,20,5
+Philippines,2025,May,472,5
+Poland,2025,May,1078,5
+Portugal,2025,May,312,5
+Qatar,2025,May,47,5
+Romania,2025,May,190,5
+Russian Federation,2025,May,3328,5
+Rwanda,2025,May,0,5
+Saint Kitts and Nevis,2025,May,4,5
+Saint Lucia,2025,May,1,5
+Saint Barthelemy,2025,May,0,5
+Saint Vincent and the Grenadines,2025,May,7,5
+Samoa,2025,May,0,5
+San Marino,2025,May,2,5
+Sao Tome and Principe,2025,May,1,5
+Saudi Arabia,2025,May,433,5
+Senegal,2025,May,5,5
+Serbia,2025,May,56,5
+Seychelles,2025,May,192,5
+Sierra Leone,2025,May,2,5
+Singapore,2025,May,1054,5
+Slovakia,2025,May,212,5
+Slovenia,2025,May,55,5
+Solomon Islands,2025,May,1,5
+Somalia,2025,May,9,5
+South Africa,2025,May,198,5
+South Korea,2025,May,544,5
+South Sudan,2025,May,0,5
+Spain,2025,May,1593,5
+Sudan,2025,May,66,5
+Suriname,2025,May,2,5
+Swaziland,2025,May,1,5
+Sweden,2025,May,286,5
+Switzerland,2025,May,1424,5
+Syrian Arab Republic,2025,May,0,5
+Tajikistan,2025,May,35,5
+Tanzania,2025,May,19,5
+Thailand,2025,May,556,5
+Timor-Leste,2025,May,1,5
+Togo,2025,May,0,5
+Tonga,2025,May,1,5
+Trinidad and Tobago,2025,May,4,5
+Tunisia,2025,May,61,5
+Turkey,2025,May,384,5
+Turkmenistan,2025,May,9,5
+Tuvalu,2025,May,0,5
+Uganda,2025,May,21,5
+Ukraine,2025,May,234,5
+United Arab Emirates,2025,May,400,5
+United Kingdom,2025,May,9221,5
+United States,2025,May,3607,5
+Uruguay,2025,May,12,5
+Uzbekistan,2025,May,54,5
+Vanuatu,2025,May,4,5
+Vatican City,2025,May,0,5
+Venezuela,2025,May,13,5
+Vietnam,2025,May,250,5
+Yemen,2025,May,28,5
+Zambia,2025,May,10,5
+Zimbabwe,2025,May,11,5
+Afghanistan,2023,June,6,6
+Albania,2023,June,9,6
+Algeria,2023,June,25,6
+Andorra,2023,June,2,6
+Angola,2023,June,0,6
+Antigua and Barbuda,2023,June,0,6
+Argentina,2023,June,37,6
+Armenia,2023,June,85,6
+Aruba,2023,June,0,6
+Australia,2023,June,6195,6
+Austria,2023,June,299,6
+Azerbaijan,2023,June,71,6
+Bahamas,2023,June,2,6
+Bahrain,2023,June,171,6
+Bangladesh,2023,June,1072,6
+Barbados,2023,June,1,6
+Belarus,2023,June,441,6
+Belgium,2023,June,438,6
+Belize,2023,June,1,6
+Benin,2023,June,0,6
+Bhutan,2023,June,39,6
+Bolivia,2023,June,2,6
+Bosnia and Herzegovina,2023,June,3,6
+Botswana,2023,June,3,6
+Brazil,2023,June,84,6
+Brunei Darussalam,2023,June,3,6
+Bulgaria,2023,June,16,6
+Burkina Faso,2023,June,0,6
+Burundi,2023,June,0,6
+Cambodia,2023,June,75,6
+Cameroon,2023,June,2,6
+Canada,2023,June,4509,6
+Cape Verde,2023,June,0,6
+Chad,2023,June,0,6
+Central African Republic,2023,June,0,6
+Chile,2023,June,42,6
+China,2023,June,5105,6
+Colombia,2023,June,42,6
+Comoros,2023,June,12,6
+Democratic Republic of the Congo,2023,June,3,6
+Costa Rica,2023,June,7,6
+Cote d'Ivoire,2023,June,1,6
+Croatia,2023,June,23,6
+Cuba,2023,June,2,6
+Cyprus,2023,June,49,6
+Czech Republic,2023,June,277,6
+Denmark,2023,June,680,6
+Djibouti,2023,June,1,6
+Dominica,2023,June,7,6
+Dominican Republic,2023,June,3,6
+Ecuador,2023,June,8,6
+Egypt,2023,June,260,6
+El Salvador,2023,June,2,6
+Eritrea,2023,June,3,6
+Estonia,2023,June,19,6
+Ethiopia,2023,June,12,6
+Fiji,2023,June,9,6
+Finland,2023,June,116,6
+France,2023,June,2895,6
+Gabon,2023,June,1,6
+Gambia,2023,June,0,6
+Georgia,2023,June,44,6
+Germany,2023,June,5090,6
+Ghana,2023,June,3,6
+Greece,2023,June,38,6
+Grenada,2023,June,0,6
+Guatemala,2023,June,0,6
+Guinea,2023,June,1,6
+Guyana,2023,June,1,6
+Haiti,2023,June,1,6
+Honduras,2023,June,2,6
+Hungary,2023,June,98,6
+Iceland,2023,June,11,6
+India,2023,June,26830,6
+Indonesia,2023,June,200,6
+Iran,2023,June,330,6
+Iraq,2023,June,85,6
+Ireland,2023,June,423,6
+Israel,2023,June,856,6
+Italy,2023,June,1265,6
+Jamaica,2023,June,7,6
+Japan,2023,June,1017,6
+Jordan,2023,June,396,6
+Kazakhstan,2023,June,96,6
+Kenya,2023,June,35,6
+Kiribati,2023,June,2,6
+Kosovo,2023,June,0,6
+Kuwait,2023,June,183,6
+Kyrgyzstan,2023,June,30,6
+Laos,2023,June,7,6
+Latvia,2023,June,31,6
+Lebanon,2023,June,279,6
+Lesotho,2023,June,2,6
+Liberia,2023,June,1,6
+Libya,2023,June,3,6
+Liechtenstein,2023,June,3,6
+Lithuania,2023,June,77,6
+Luxembourg,2023,June,14,6
+Macedonia,2023,June,15,6
+Madagascar,2023,June,10,6
+Malawi,2023,June,2,6
+Malaysia,2023,June,779,6
+Maldives,2023,June,4080,6
+Mali,2023,June,1,6
+Malta,2023,June,32,6
+Marshall Islands,2023,June,0,6
+Mauritania,2023,June,0,6
+Mauritius,2023,June,29,6
+Mexico,2023,June,34,6
+Moldova,2023,June,17,6
+Monaco,2023,June,1,6
+Mongolia,2023,June,7,6
+Montenegro,2023,June,1,6
+Morocco,2023,June,86,6
+Mozambique,2023,June,1,6
+Myanmar,2023,June,53,6
+Namibia,2023,June,1,6
+Nauru,2023,June,5,6
+Nepal,2023,June,374,6
+Netherlands,2023,June,1258,6
+New Zealand,2023,June,853,6
+Nicaragua,2023,June,1,6
+Niger,2023,June,0,6
+Nigeria,2023,June,15,6
+Norway,2023,June,1281,6
+Oman,2023,June,212,6
+Pakistan,2023,June,711,6
+Palau,2023,June,0,6
+Palestinian Territories,2023,June,65,6
+Panama,2023,June,2,6
+Papua New Guinea,2023,June,8,6
+Paraguay,2023,June,2,6
+Peru,2023,June,8,6
+Philippines,2023,June,410,6
+Poland,2023,June,702,6
+Portugal,2023,June,181,6
+Qatar,2023,June,145,6
+Romania,2023,June,148,6
+Russian Federation,2023,June,7968,6
+Rwanda,2023,June,3,6
+Saint Kitts and Nevis,2023,June,12,6
+Saint Lucia,2023,June,0,6
+Saint Vincent and the Grenadines,2023,June,0,6
+Samoa,2023,June,0,6
+San Marino,2023,June,0,6
+Saudi Arabia,2023,June,595,6
+Senegal,2023,June,1,6
+Serbia,2023,June,31,6
+Seychelles,2023,June,110,6
+Sierra Leone,2023,June,0,6
+Singapore,2023,June,1164,6
+Slovakia,2023,June,129,6
+Slovenia,2023,June,49,6
+Solomon Islands,2023,June,1,6
+Somalia,2023,June,4,6
+South Africa,2023,June,291,6
+South Korea,2023,June,516,6
+South Sudan,2023,June,1,6
+Spain,2023,June,1229,6
+Sudan,2023,June,73,6
+Swaziland,2023,June,0,6
+Suriname,2023,June,2,6
+Sweden,2023,June,622,6
+Switzerland,2023,June,1334,6
+Syrian Arab Republic,2023,June,1,6
+Taiwan Province of China,2023,June,637,6
+Tajikistan,2023,June,11,6
+Tanzania,2023,June,8,6
+Thailand,2023,June,414,6
+Timor-Leste,2023,June,6,6
+Togo,2023,June,1,6
+Tonga,2023,June,0,6
+Trinidad and Tobago,2023,June,4,6
+Tunisia,2023,June,50,6
+Turkey,2023,June,275,6
+Turkmenistan,2023,June,5,6
+Tuvalu,2023,June,0,6
+Uganda,2023,June,15,6
+Ukraine,2023,June,200,6
+United Arab Emirates,2023,June,404,6
+United Kingdom,2023,June,7981,6
+United States,2023,June,3806,6
+Uruguay,2023,June,5,6
+Uzbekistan,2023,June,33,6
+Vanuatu,2023,June,2,6
+Venezuela,2023,June,8,6
+Vietnam,2023,June,192,6
+Yemen,2023,June,23,6
+Zambia,2023,June,2,6
+Zimbabwe,2023,June,9,6
+Afghanistan,2024,June,2,6
+Albania,2024,June,7,6
+Algeria,2024,June,48,6
+Andorra,2024,June,6,6
+Angola,2024,June,0,6
+Antigua and Barbuda,2024,June,0,6
+Argentina,2024,June,51,6
+Armenia,2024,June,71,6
+Aruba,2024,June,0,6
+Australia,2024,June,6317,6
+Austria,2024,June,384,6
+Azerbaijan,2024,June,83,6
+Bahamas,2024,June,3,6
+Bahrain,2024,June,197,6
+Bangladesh,2024,June,4374,6
+Barbados,2024,June,5,6
+Belarus,2024,June,175,6
+Belgium,2024,June,872,6
+Belize,2024,June,1,6
+Benin,2024,June,1,6
+Bhutan,2024,June,33,6
+Bolivia,2024,June,4,6
+Bosnia and Herzegovina,2024,June,10,6
+Botswana,2024,June,5,6
+Brazil,2024,June,111,6
+Brunei Darussalam,2024,June,15,6
+Bulgaria,2024,June,26,6
+Burkina Faso,2024,June,0,6
+Burundi,2024,June,1,6
+Cambodia,2024,June,50,6
+Cameroon,2024,June,0,6
+Canada,2024,June,3263,6
+Cape Verde,2024,June,0,6
+Chad,2024,June,0,6
+Central African Republic,2024,June,0,6
+Chile,2024,June,32,6
+China,2024,June,9222,6
+Colombia,2024,June,44,6
+Comoros,2024,June,8,6
+Democratic Republic of the Congo,2024,June,3,6
+Costa Rica,2024,June,3,6
+Cote d'Ivoire,2024,June,0,6
+Croatia,2024,June,23,6
+Cuba,2024,June,10,6
+Cyprus,2024,June,57,6
+Czech Republic,2024,June,526,6
+Denmark,2024,June,714,6
+Djibouti,2024,June,1,6
+Dominica,2024,June,9,6
+Dominican Republic,2024,June,3,6
+Ecuador,2024,June,9,6
+Egypt,2024,June,365,6
+El Salvador,2024,June,5,6
+Equatorial Guinea,2024,June,0,6
+Eritrea,2024,June,6,6
+Estonia,2024,June,30,6
+Ethiopia,2024,June,13,6
+Fiji,2024,June,9,6
+Finland,2024,June,130,6
+France,2024,June,3102,6
+Gabon,2024,June,0,6
+Gambia,2024,June,2,6
+Georgia,2024,June,26,6
+Germany,2024,June,4556,6
+Ghana,2024,June,0,6
+Greece,2024,June,82,6
+Grenada,2024,June,5,6
+Guatemala,2024,June,5,6
+Guinea-Bissau,2024,June,0,6
+Guinea,2024,June,5,6
+Guyana,2024,June,3,6
+Haiti,2024,June,1,6
+Honduras,2024,June,0,6
+Hungary,2024,June,160,6
+Iceland,2024,June,6,6
+India,2024,June,28631,6
+Indonesia,2024,June,272,6
+Iran,2024,June,318,6
+Iraq,2024,June,93,6
+Ireland,2024,June,673,6
+Israel,2024,June,1515,6
+Italy,2024,June,1792,6
+Jamaica,2024,June,12,6
+Japan,2024,June,1666,6
+Jordan,2024,June,373,6
+Kazakhstan,2024,June,96,6
+Kenya,2024,June,29,6
+Kiribati,2024,June,0,6
+Kosovo,2024,June,2,6
+Kuwait,2024,June,231,6
+Kyrgyzstan,2024,June,25,6
+Laos,2024,June,19,6
+Latvia,2024,June,30,6
+Lebanon,2024,June,308,6
+Lesotho,2024,June,0,6
+Liberia,2024,June,1,6
+Libya,2024,June,4,6
+Liechtenstein,2024,June,3,6
+Lithuania,2024,June,73,6
+Luxembourg,2024,June,13,6
+Macedonia,2024,June,10,6
+Madagascar,2024,June,7,6
+Malawi,2024,June,1,6
+Malaysia,2024,June,1384,6
+Maldives,2024,June,5109,6
+Mali,2024,June,1,6
+Malta,2024,June,14,6
+Marshall Islands,2024,June,0,6
+Mauritania,2024,June,0,6
+Mauritius,2024,June,25,6
+Micronesia,2024,June,0,6
+Mexico,2024,June,38,6
+Moldova,2024,June,2,6
+Monaco,2024,June,0,6
+Mongolia,2024,June,22,6
+Montenegro,2024,June,3,6
+Morocco,2024,June,80,6
+Mozambique,2024,June,4,6
+Myanmar,2024,June,117,6
+Namibia,2024,June,2,6
+Nauru,2024,June,0,6
+Nepal,2024,June,200,6
+Netherlands,2024,June,1935,6
+Netherlands Antilles,2024,June,0,6
+New Zealand,2024,June,853,6
+Nicaragua,2024,June,1,6
+Niger,2024,June,0,6
+Nigeria,2024,June,1,6
+Norway,2024,June,1452,6
+Oman,2024,June,322,6
+Pakistan,2024,June,1399,6
+Palau,2024,June,0,6
+Palestinian Territories,2024,June,81,6
+Panama,2024,June,0,6
+Papua New Guinea,2024,June,4,6
+Paraguay,2024,June,1,6
+Peru,2024,June,11,6
+Philippines,2024,June,544,6
+Poland,2024,June,1047,6
+Portugal,2024,June,281,6
+Qatar,2024,June,80,6
+Romania,2024,June,192,6
+Russian Federation,2024,June,3412,6
+Rwanda,2024,June,5,6
+Saint Kitts and Nevis,2024,June,10,6
+Saint Lucia,2024,June,4,6
+Saint Vincent and the Grenadines,2024,June,0,6
+Samoa,2024,June,1,6
+San Marino,2024,June,4,6
+Saudi Arabia,2024,June,990,6
+Senegal,2024,June,1,6
+Serbia,2024,June,52,6
+Seychelles,2024,June,238,6
+Sierra Leone,2024,June,1,6
+Singapore,2024,June,1284,6
+Slovakia,2024,June,163,6
+Slovenia,2024,June,115,6
+Solomon Islands,2024,June,1,6
+Somalia,2024,June,4,6
+South Africa,2024,June,349,6
+South Korea,2024,June,579,6
+South Sudan,2024,June,0,6
+Spain,2024,June,2081,6
+Sudan,2024,June,116,6
+Swaziland,2024,June,0,6
+Suriname,2024,June,1,6
+Sweden,2024,June,568,6
+Switzerland,2024,June,1291,6
+Syrian Arab Republic,2024,June,1,6
+Tajikistan,2024,June,12,6
+Tanzania,2024,June,18,6
+Thailand,2024,June,364,6
+Timor-Leste,2024,June,2,6
+Togo,2024,June,1,6
+Tonga,2024,June,4,6
+Trinidad and Tobago,2024,June,7,6
+Tunisia,2024,June,59,6
+Turkey,2024,June,572,6
+Turkmenistan,2024,June,1,6
+Tuvalu,2024,June,2,6
+Uganda,2024,June,13,6
+Ukraine,2024,June,206,6
+United Arab Emirates,2024,June,591,6
+United Kingdom,2024,June,9266,6
+United States,2024,June,4023,6
+Uruguay,2024,June,5,6
+Uzbekistan,2024,June,42,6
+Vanuatu,2024,June,13,6
+Venezuela,2024,June,11,6
+Vietnam,2024,June,237,6
+Yemen,2024,June,43,6
+Zambia,2024,June,1,6
+Zimbabwe,2024,June,14,6
+Afghanistan,2025,June,2,6
+Albania,2025,June,3,6
+Algeria,2025,June,37,6
+Andorra,2025,June,9,6
+Angola,2025,June,0,6
+Antigua and Barbuda,2025,June,1,6
+Argentina,2025,June,56,6
+Armenia,2025,June,71,6
+Australia,2025,June,7299,6
+Austria,2025,June,487,6
+Azerbaijan,2025,June,78,6
+Bahamas,2025,June,1,6
+Bahrain,2025,June,230,6
+Bangladesh,2025,June,5826,6
+Barbados,2025,June,2,6
+Belarus,2025,June,86,6
+Belgium,2025,June,1135,6
+Belize,2025,June,1,6
+Benin,2025,June,1,6
+Bhutan,2025,June,49,6
+Bolivia,2025,June,3,6
+Bosnia and Herzegovina,2025,June,20,6
+Botswana,2025,June,3,6
+Brazil,2025,June,119,6
+Brunei Darussalam,2025,June,1,6
+Bulgaria,2025,June,51,6
+Burkina Faso,2025,June,2,6
+Burundi,2025,June,1,6
+Cambodia,2025,June,63,6
+Cameroon,2025,June,1,6
+Canada,2025,June,4239,6
+Cape Verde,2025,June,2,6
+Central African Republic,2025,June,0,6
+Chad,2025,June,7,6
+Chile,2025,June,23,6
+China,2025,June,8804,6
+Republic of the Congo,2025,June,1,6
+Colombia,2025,June,43,6
+Comoros,2025,June,13,6
+Democratic Republic of the Congo,2025,June,4,6
+Costa Rica,2025,June,6,6
+Cote d'Ivoire,2025,June,0,6
+Croatia,2025,June,28,6
+Cuba,2025,June,3,6
+Cyprus,2025,June,38,6
+Czech Republic,2025,June,625,6
+Denmark,2025,June,816,6
+Djibouti,2025,June,0,6
+Dominica,2025,June,28,6
+Dominican Republic,2025,June,2,6
+Ecuador,2025,June,11,6
+Egypt,2025,June,425,6
+El Salvador,2025,June,1,6
+Eritrea,2025,June,1,6
+Equatorial Guinea,2025,June,0,6
+Estonia,2025,June,19,6
+Ethiopia,2025,June,15,6
+Fiji,2025,June,11,6
+Finland,2025,June,145,6
+France,2025,June,4345,6
+Gabon,2025,June,0,6
+Gambia,2025,June,3,6
+Georgia,2025,June,12,6
+Germany,2025,June,5498,6
+Ghana,2025,June,15,6
+Greece,2025,June,106,6
+Grenada,2025,June,6,6
+Guatemala,2025,June,6,6
+Guinea,2025,June,0,6
+Guinea-Bissau,2025,June,0,6
+Guyana,2025,June,0,6
+Haiti,2025,June,0,6
+Honduras,2025,June,7,6
+Hungary,2025,June,126,6
+Iceland,2025,June,28,6
+India,2025,June,37934,6
+Indonesia,2025,June,376,6
+Iran,2025,June,196,6
+Iraq,2025,June,188,6
+Ireland,2025,June,700,6
+Israel,2025,June,573,6
+Italy,2025,June,2174,6
+Jamaica,2025,June,4,6
+Japan,2025,June,2093,6
+Jordan,2025,June,286,6
+Kazakhstan,2025,June,96,6
+Kenya,2025,June,308,6
+Kiribati,2025,June,0,6
+Kosovo,2025,June,1,6
+Kuwait,2025,June,190,6
+Kyrgyzstan,2025,June,23,6
+Laos,2025,June,28,6
+Latvia,2025,June,26,6
+Lebanon,2025,June,263,6
+Lesotho,2025,June,0,6
+Liberia,2025,June,0,6
+Libya,2025,June,5,6
+Liechtenstein,2025,June,7,6
+Lithuania,2025,June,126,6
+Luxembourg,2025,June,18,6
+Macedonia,2025,June,2,6
+Madagascar,2025,June,48,6
+Malawi,2025,June,7,6
+Malaysia,2025,June,1830,6
+Maldives,2025,June,3157,6
+Mali,2025,June,2,6
+Malta,2025,June,30,6
+Marshall Islands,2025,June,0,6
+Mauritania,2025,June,1,6
+Mauritius,2025,June,37,6
+Mexico,2025,June,61,6
+Moldova,2025,June,9,6
+Monaco,2025,June,0,6
+Mongolia,2025,June,11,6
+Montenegro,2025,June,0,6
+Morocco,2025,June,84,6
+Mozambique,2025,June,3,6
+Myanmar,2025,June,131,6
+Namibia,2025,June,0,6
+Nauru,2025,June,0,6
+Nepal,2025,June,352,6
+Netherlands,2025,June,2423,6
+New Zealand,2025,June,1084,6
+Nicaragua,2025,June,2,6
+Niger,2025,June,1,6
+Nigeria,2025,June,12,6
+North Korea,2025,June,0,6
+Norway,2025,June,1473,6
+Oman,2025,June,286,6
+Pakistan,2025,June,6833,6
+Palau,2025,June,0,6
+Palestinian Territories,2025,June,53,6
+Panama,2025,June,1,6
+Papua New Guinea,2025,June,4,6
+Paraguay,2025,June,2,6
+Peru,2025,June,22,6
+Philippines,2025,June,745,6
+Poland,2025,June,1138,6
+Portugal,2025,June,644,6
+Qatar,2025,June,109,6
+Romania,2025,June,219,6
+Russian Federation,2025,June,1891,6
+Rwanda,2025,June,0,6
+Saint Kitts and Nevis,2025,June,23,6
+Saint Lucia,2025,June,1,6
+Saint Barthelemy,2025,June,0,6
+Saint Vincent and the Grenadines,2025,June,1,6
+Samoa,2025,June,0,6
+San Marino,2025,June,5,6
+Sao Tome and Principe,2025,June,0,6
+Saudi Arabia,2025,June,660,6
+Senegal,2025,June,7,6
+Serbia,2025,June,90,6
+Seychelles,2025,June,280,6
+Sierra Leone,2025,June,0,6
+Singapore,2025,June,1830,6
+Slovakia,2025,June,133,6
+Slovenia,2025,June,123,6
+Solomon Islands,2025,June,2,6
+Somalia,2025,June,1,6
+South Africa,2025,June,344,6
+South Korea,2025,June,660,6
+South Sudan,2025,June,1,6
+Spain,2025,June,2331,6
+Sudan,2025,June,113,6
+Suriname,2025,June,2,6
+Swaziland,2025,June,0,6
+Sweden,2025,June,628,6
+Switzerland,2025,June,1589,6
+Syrian Arab Republic,2025,June,0,6
+Tajikistan,2025,June,16,6
+Tanzania,2025,June,259,6
+Thailand,2025,June,597,6
+Timor-Leste,2025,June,1,6
+Togo,2025,June,0,6
+Tonga,2025,June,1,6
+Trinidad and Tobago,2025,June,7,6
+Tunisia,2025,June,71,6
+Turkey,2025,June,607,6
+Turkmenistan,2025,June,19,6
+Tuvalu,2025,June,0,6
+Uganda,2025,June,20,6
+Ukraine,2025,June,214,6
+United Arab Emirates,2025,June,720,6
+United Kingdom,2025,June,11628,6
+United States,2025,June,5422,6
+Uruguay,2025,June,12,6
+Uzbekistan,2025,June,38,6
+Vanuatu,2025,June,3,6
+Vatican City,2025,June,0,6
+Venezuela,2025,June,9,6
+Vietnam,2025,June,255,6
+Yemen,2025,June,64,6
+Zambia,2025,June,6,6
+Zimbabwe,2025,June,26,6
+Afghanistan,2023,July,30,7
+Albania,2023,July,12,7
+Algeria,2023,July,29,7
+Andorra,2023,July,7,7
+Angola,2023,July,1,7
+Antigua and Barbuda,2023,July,1,7
+Argentina,2023,July,34,7
+Armenia,2023,July,123,7
+Aruba,2023,July,0,7
+Australia,2023,July,5323,7
+Austria,2023,July,979,7
+Azerbaijan,2023,July,191,7
+Bahamas,2023,July,3,7
+Bahrain,2023,July,204,7
+Bangladesh,2023,July,1520,7
+Barbados,2023,July,1,7
+Belarus,2023,July,453,7
+Belgium,2023,July,2259,7
+Belize,2023,July,0,7
+Benin,2023,July,0,7
+Bhutan,2023,July,41,7
+Bolivia,2023,July,2,7
+Bosnia and Herzegovina,2023,July,10,7
+Botswana,2023,July,11,7
+Brazil,2023,July,69,7
+Brunei Darussalam,2023,July,5,7
+Bulgaria,2023,July,45,7
+Burkina Faso,2023,July,0,7
+Burundi,2023,July,1,7
+Cambodia,2023,July,47,7
+Cameroon,2023,July,2,7
+Canada,2023,July,5737,7
+Cape Verde,2023,July,1,7
+Chad,2023,July,0,7
+Central African Republic,2023,July,0,7
+Chile,2023,July,27,7
+China,2023,July,10062,7
+Colombia,2023,July,22,7
+Comoros,2023,July,16,7
+Democratic Republic of the Congo,2023,July,2,7
+Costa Rica,2023,July,3,7
+Cote d'Ivoire,2023,July,0,7
+Croatia,2023,July,59,7
+Cuba,2023,July,2,7
+Cyprus,2023,July,112,7
+Czech Republic,2023,July,789,7
+Denmark,2023,July,1721,7
+Djibouti,2023,July,2,7
+Dominica,2023,July,6,7
+Dominican Republic,2023,July,1,7
+Ecuador,2023,July,6,7
+Egypt,2023,July,292,7
+El Salvador,2023,July,5,7
+Eritrea,2023,July,1,7
+Estonia,2023,July,15,7
+Ethiopia,2023,July,19,7
+Fiji,2023,July,18,7
+Finland,2023,July,106,7
+France,2023,July,7432,7
+Gabon,2023,July,0,7
+Gambia,2023,July,0,7
+Georgia,2023,July,24,7
+Germany,2023,July,8013,7
+Ghana,2023,July,1,7
+Greece,2023,July,101,7
+Grenada,2023,July,0,7
+Guatemala,2023,July,4,7
+Guinea,2023,July,2,7
+Guyana,2023,July,0,7
+Haiti,2023,July,1,7
+Honduras,2023,July,1,7
+Hungary,2023,July,200,7
+Iceland,2023,July,27,7
+India,2023,July,23461,7
+Indonesia,2023,July,249,7
+Iran,2023,July,264,7
+Iraq,2023,July,100,7
+Ireland,2023,July,517,7
+Israel,2023,July,1919,7
+Italy,2023,July,2370,7
+Jamaica,2023,July,3,7
+Japan,2023,July,1454,7
+Jordan,2023,July,545,7
+Kazakhstan,2023,July,106,7
+Kenya,2023,July,44,7
+Kiribati,2023,July,0,7
+Kosovo,2023,July,5,7
+Kuwait,2023,July,259,7
+Kyrgyzstan,2023,July,61,7
+Laos,2023,July,6,7
+Latvia,2023,July,31,7
+Lebanon,2023,July,321,7
+Lesotho,2023,July,2,7
+Liberia,2023,July,0,7
+Libya,2023,July,3,7
+Liechtenstein,2023,July,10,7
+Lithuania,2023,July,113,7
+Luxembourg,2023,July,61,7
+Macedonia,2023,July,13,7
+Madagascar,2023,July,9,7
+Malawi,2023,July,1,7
+Malaysia,2023,July,915,7
+Maldives,2023,July,6286,7
+Mali,2023,July,1,7
+Malta,2023,July,39,7
+Marshall Islands,2023,July,0,7
+Mauritania,2023,July,0,7
+Mauritius,2023,July,21,7
+Mexico,2023,July,44,7
+Moldova,2023,July,13,7
+Monaco,2023,July,0,7
+Mongolia,2023,July,11,7
+Montenegro,2023,July,1,7
+Morocco,2023,July,81,7
+Mozambique,2023,July,7,7
+Myanmar,2023,July,93,7
+Namibia,2023,July,1,7
+Nauru,2023,July,0,7
+Nepal,2023,July,375,7
+Netherlands,2023,July,6796,7
+New Zealand,2023,July,734,7
+Nicaragua,2023,July,0,7
+Niger,2023,July,0,7
+Nigeria,2023,July,9,7
+Norway,2023,July,1643,7
+Oman,2023,July,427,7
+Pakistan,2023,July,1223,7
+Palau,2023,July,0,7
+Palestinian Territories,2023,July,76,7
+Panama,2023,July,1,7
+Papua New Guinea,2023,July,1,7
+Paraguay,2023,July,4,7
+Peru,2023,July,21,7
+Philippines,2023,July,448,7
+Poland,2023,July,999,7
+Portugal,2023,July,282,7
+Qatar,2023,July,179,7
+Romania,2023,July,172,7
+Russian Federation,2023,July,8009,7
+Rwanda,2023,July,1,7
+Saint Kitts and Nevis,2023,July,3,7
+Saint Lucia,2023,July,0,7
+Saint Vincent and the Grenadines,2023,July,0,7
+Samoa,2023,July,0,7
+San Marino,2023,July,0,7
+Saudi Arabia,2023,July,1564,7
+Senegal,2023,July,0,7
+Serbia,2023,July,63,7
+Seychelles,2023,July,267,7
+Sierra Leone,2023,July,2,7
+Singapore,2023,July,656,7
+Slovakia,2023,July,254,7
+Slovenia,2023,July,351,7
+Solomon Islands,2023,July,0,7
+Somalia,2023,July,6,7
+South Africa,2023,July,232,7
+South Korea,2023,July,628,7
+South Sudan,2023,July,3,7
+Spain,2023,July,2751,7
+Sudan,2023,July,154,7
+Swaziland,2023,July,1,7
+Suriname,2023,July,4,7
+Sweden,2023,July,560,7
+Switzerland,2023,July,4329,7
+Syrian Arab Republic,2023,July,0,7
+Taiwan Province of China,2023,July,411,7
+Tajikistan,2023,July,11,7
+Tanzania,2023,July,9,7
+Thailand,2023,July,633,7
+Timor-Leste,2023,July,7,7
+Togo,2023,July,1,7
+Tonga,2023,July,1,7
+Trinidad and Tobago,2023,July,2,7
+Tunisia,2023,July,71,7
+Turkey,2023,July,251,7
+Turkmenistan,2023,July,11,7
+Tuvalu,2023,July,1,7
+Uganda,2023,July,27,7
+Ukraine,2023,July,185,7
+United Arab Emirates,2023,July,576,7
+United Kingdom,2023,July,17482,7
+United States,2023,July,4120,7
+Uruguay,2023,July,7,7
+Uzbekistan,2023,July,48,7
+Vanuatu,2023,July,4,7
+Venezuela,2023,July,9,7
+Vietnam,2023,July,195,7
+Yemen,2023,July,55,7
+Zambia,2023,July,5,7
+Zimbabwe,2023,July,16,7
+Afghanistan,2024,July,15,7
+Albania,2024,July,11,7
+Algeria,2024,July,54,7
+Andorra,2024,July,20,7
+Angola,2024,July,0,7
+Antigua and Barbuda,2024,July,5,7
+Argentina,2024,July,50,7
+Armenia,2024,July,128,7
+Aruba,2024,July,0,7
+Australia,2024,July,7371,7
+Austria,2024,July,1722,7
+Azerbaijan,2024,July,150,7
+Bahamas,2024,July,3,7
+Bahrain,2024,July,162,7
+Bangladesh,2024,July,4607,7
+Barbados,2024,July,4,7
+Belarus,2024,July,203,7
+Belgium,2024,July,3435,7
+Belize,2024,July,4,7
+Benin,2024,July,1,7
+Bhutan,2024,July,29,7
+Bolivia,2024,July,2,7
+Bosnia and Herzegovina,2024,July,18,7
+Botswana,2024,July,3,7
+Brazil,2024,July,134,7
+Brunei Darussalam,2024,July,7,7
+Bulgaria,2024,July,34,7
+Burkina Faso,2024,July,0,7
+Burundi,2024,July,0,7
+Cambodia,2024,July,24,7
+Cameroon,2024,July,2,7
+Canada,2024,July,4821,7
+Cape Verde,2024,July,1,7
+Chad,2024,July,0,7
+Central African Republic,2024,July,1,7
+Chile,2024,July,36,7
+China,2024,July,13685,7
+Colombia,2024,July,51,7
+Comoros,2024,July,17,7
+Democratic Republic of the Congo,2024,July,2,7
+Costa Rica,2024,July,3,7
+Cote d'Ivoire,2024,July,0,7
+Croatia,2024,July,78,7
+Cuba,2024,July,4,7
+Cyprus,2024,July,191,7
+Czech Republic,2024,July,1133,7
+Denmark,2024,July,2147,7
+Djibouti,2024,July,0,7
+Dominica,2024,July,17,7
+Dominican Republic,2024,July,1,7
+Ecuador,2024,July,11,7
+Egypt,2024,July,326,7
+El Salvador,2024,July,4,7
+Equatorial Guinea,2024,July,0,7
+Eritrea,2024,July,0,7
+Estonia,2024,July,24,7
+Ethiopia,2024,July,11,7
+Fiji,2024,July,9,7
+Finland,2024,July,94,7
+France,2024,July,9405,7
+Gabon,2024,July,0,7
+Gambia,2024,July,1,7
+Georgia,2024,July,30,7
+Germany,2024,July,10618,7
+Ghana,2024,July,4,7
+Greece,2024,July,119,7
+Grenada,2024,July,2,7
+Guatemala,2024,July,1,7
+Guinea-Bissau,2024,July,1,7
+Guinea,2024,July,0,7
+Guyana,2024,July,1,7
+Haiti,2024,July,2,7
+Honduras,2024,July,2,7
+Hungary,2024,July,210,7
+Iceland,2024,July,29,7
+India,2024,July,41173,7
+Indonesia,2024,July,275,7
+Iran,2024,July,339,7
+Iraq,2024,July,119,7
+Ireland,2024,July,715,7
+Israel,2024,July,2962,7
+Italy,2024,July,3630,7
+Jamaica,2024,July,7,7
+Japan,2024,July,2202,7
+Jordan,2024,July,275,7
+Kazakhstan,2024,July,168,7
+Kenya,2024,July,128,7
+Kiribati,2024,July,0,7
+Kosovo,2024,July,1,7
+Kuwait,2024,July,198,7
+Kyrgyzstan,2024,July,65,7
+Laos,2024,July,11,7
+Latvia,2024,July,30,7
+Lebanon,2024,July,283,7
+Lesotho,2024,July,1,7
+Liberia,2024,July,4,7
+Libya,2024,July,2,7
+Liechtenstein,2024,July,10,7
+Lithuania,2024,July,174,7
+Luxembourg,2024,July,77,7
+Macedonia,2024,July,25,7
+Madagascar,2024,July,28,7
+Malawi,2024,July,10,7
+Malaysia,2024,July,1596,7
+Maldives,2024,July,3097,7
+Mali,2024,July,1,7
+Malta,2024,July,61,7
+Marshall Islands,2024,July,0,7
+Mauritania,2024,July,0,7
+Mauritius,2024,July,33,7
+Micronesia,2024,July,0,7
+Mexico,2024,July,44,7
+Moldova,2024,July,13,7
+Monaco,2024,July,4,7
+Mongolia,2024,July,10,7
+Montenegro,2024,July,6,7
+Morocco,2024,July,87,7
+Mozambique,2024,July,1,7
+Myanmar,2024,July,194,7
+Namibia,2024,July,6,7
+Nauru,2024,July,0,7
+Nepal,2024,July,382,7
+Netherlands,2024,July,11431,7
+Netherlands Antilles,2024,July,0,7
+New Zealand,2024,July,1017,7
+Nicaragua,2024,July,0,7
+Niger,2024,July,0,7
+Nigeria,2024,July,9,7
+Norway,2024,July,1800,7
+Oman,2024,July,685,7
+Pakistan,2024,July,1848,7
+Palau,2024,July,0,7
+Palestinian Territories,2024,July,96,7
+Panama,2024,July,3,7
+Papua New Guinea,2024,July,2,7
+Paraguay,2024,July,1,7
+Peru,2024,July,16,7
+Philippines,2024,July,500,7
+Poland,2024,July,2257,7
+Portugal,2024,July,351,7
+Qatar,2024,July,156,7
+Romania,2024,July,264,7
+Russian Federation,2024,July,4578,7
+Rwanda,2024,July,4,7
+Saint Kitts and Nevis,2024,July,8,7
+Saint Lucia,2024,July,1,7
+Saint Vincent and the Grenadines,2024,July,1,7
+Samoa,2024,July,0,7
+San Marino,2024,July,0,7
+Saudi Arabia,2024,July,1276,7
+Senegal,2024,July,2,7
+Serbia,2024,July,91,7
+Seychelles,2024,July,222,7
+Sierra Leone,2024,July,4,7
+Singapore,2024,July,853,7
+Slovakia,2024,July,292,7
+Slovenia,2024,July,417,7
+Solomon Islands,2024,July,1,7
+Somalia,2024,July,6,7
+South Africa,2024,July,333,7
+South Korea,2024,July,1009,7
+South Sudan,2024,July,0,7
+Spain,2024,July,4224,7
+Sudan,2024,July,122,7
+Swaziland,2024,July,3,7
+Suriname,2024,July,2,7
+Sweden,2024,July,716,7
+Switzerland,2024,July,5089,7
+Syrian Arab Republic,2024,July,0,7
+Tajikistan,2024,July,11,7
+Tanzania,2024,July,74,7
+Thailand,2024,July,483,7
+Timor-Leste,2024,July,0,7
+Togo,2024,July,0,7
+Tonga,2024,July,1,7
+Trinidad and Tobago,2024,July,5,7
+Tunisia,2024,July,79,7
+Turkey,2024,July,403,7
+Turkmenistan,2024,July,14,7
+Tuvalu,2024,July,0,7
+Uganda,2024,July,18,7
+Ukraine,2024,July,214,7
+United Arab Emirates,2024,July,836,7
+United Kingdom,2024,July,20837,7
+United States,2024,July,4962,7
+Uruguay,2024,July,3,7
+Uzbekistan,2024,July,64,7
+Vanuatu,2024,July,6,7
+Venezuela,2024,July,8,7
+Vietnam,2024,July,279,7
+Yemen,2024,July,73,7
+Zambia,2024,July,0,7
+Zimbabwe,2024,July,13,7
+Afghanistan,2025,July,1,7
+Albania,2025,July,8,7
+Algeria,2025,July,23,7
+Andorra,2025,July,17,7
+Angola,2025,July,4,7
+Antigua and Barbuda,2025,July,5,7
+Argentina,2025,July,45,7
+Armenia,2025,July,161,7
+Australia,2025,July,9117,7
+Austria,2025,July,1846,7
+Azerbaijan,2025,July,91,7
+Bahamas,2025,July,1,7
+Bahrain,2025,July,232,7
+Bangladesh,2025,July,3274,7
+Barbados,2025,July,0,7
+Belarus,2025,July,137,7
+Belgium,2025,July,4511,7
+Belize,2025,July,4,7
+Benin,2025,July,0,7
+Bhutan,2025,July,44,7
+Bolivia,2025,July,5,7
+Bosnia and Herzegovina,2025,July,10,7
+Botswana,2025,July,2,7
+Brazil,2025,July,124,7
+Brunei Darussalam,2025,July,17,7
+Bulgaria,2025,July,52,7
+Burkina Faso,2025,July,2,7
+Burundi,2025,July,0,7
+Cambodia,2025,July,46,7
+Cameroon,2025,July,1,7
+Canada,2025,July,5462,7
+Cape Verde,2025,July,0,7
+Central African Republic,2025,July,0,7
+Chad,2025,July,1,7
+Chile,2025,July,79,7
+China,2025,July,12982,7
+Republic of the Congo,2025,July,1,7
+Colombia,2025,July,69,7
+Comoros,2025,July,15,7
+Democratic Republic of the Congo,2025,July,1,7
+Costa Rica,2025,July,8,7
+Cote d'Ivoire,2025,July,1,7
+Croatia,2025,July,92,7
+Cuba,2025,July,2,7
+Cyprus,2025,July,150,7
+Czech Republic,2025,July,1367,7
+Denmark,2025,July,2509,7
+Djibouti,2025,July,4,7
+Dominica,2025,July,7,7
+Dominican Republic,2025,July,2,7
+Ecuador,2025,July,12,7
+Egypt,2025,July,328,7
+El Salvador,2025,July,1,7
+Eritrea,2025,July,1,7
+Equatorial Guinea,2025,July,0,7
+Estonia,2025,July,21,7
+Ethiopia,2025,July,23,7
+Fiji,2025,July,19,7
+Finland,2025,July,150,7
+France,2025,July,11059,7
+Gabon,2025,July,0,7
+Gambia,2025,July,1,7
+Georgia,2025,July,18,7
+Germany,2025,July,10568,7
+Ghana,2025,July,2,7
+Greece,2025,July,162,7
+Grenada,2025,July,9,7
+Guatemala,2025,July,5,7
+Guinea,2025,July,1,7
+Guinea-Bissau,2025,July,0,7
+Guyana,2025,July,5,7
+Haiti,2025,July,1,7
+Honduras,2025,July,0,7
+Hungary,2025,July,265,7
+Iceland,2025,July,19,7
+India,2025,July,37128,7
+Indonesia,2025,July,361,7
+Iran,2025,July,151,7
+Iraq,2025,July,114,7
+Ireland,2025,July,873,7
+Israel,2025,July,1966,7
+Italy,2025,July,4886,7
+Jamaica,2025,July,7,7
+Japan,2025,July,3076,7
+Jordan,2025,July,262,7
+Kazakhstan,2025,July,78,7
+Kenya,2025,July,84,7
+Kiribati,2025,July,0,7
+Kosovo,2025,July,4,7
+Kuwait,2025,July,219,7
+Kyrgyzstan,2025,July,23,7
+Laos,2025,July,21,7
+Latvia,2025,July,40,7
+Lebanon,2025,July,248,7
+Lesotho,2025,July,0,7
+Liberia,2025,July,0,7
+Libya,2025,July,6,7
+Liechtenstein,2025,July,14,7
+Lithuania,2025,July,144,7
+Luxembourg,2025,July,70,7
+Macedonia,2025,July,12,7
+Madagascar,2025,July,19,7
+Malawi,2025,July,3,7
+Malaysia,2025,July,1712,7
+Maldives,2025,July,4755,7
+Mali,2025,July,1,7
+Malta,2025,July,99,7
+Marshall Islands,2025,July,0,7
+Mauritania,2025,July,2,7
+Mauritius,2025,July,81,7
+Mexico,2025,July,44,7
+Moldova,2025,July,10,7
+Monaco,2025,July,4,7
+Mongolia,2025,July,8,7
+Montenegro,2025,July,4,7
+Morocco,2025,July,91,7
+Mozambique,2025,July,0,7
+Myanmar,2025,July,392,7
+Namibia,2025,July,2,7
+Nauru,2025,July,0,7
+Nepal,2025,July,442,7
+Netherlands,2025,July,15556,7
+New Zealand,2025,July,1106,7
+Nicaragua,2025,July,0,7
+Niger,2025,July,0,7
+Nigeria,2025,July,10,7
+North Korea,2025,July,0,7
+Norway,2025,July,1982,7
+Oman,2025,July,518,7
+Pakistan,2025,July,2002,7
+Palau,2025,July,0,7
+Palestinian Territories,2025,July,102,7
+Panama,2025,July,1,7
+Papua New Guinea,2025,July,4,7
+Paraguay,2025,July,2,7
+Peru,2025,July,22,7
+Philippines,2025,July,608,7
+Poland,2025,July,3469,7
+Portugal,2025,July,578,7
+Qatar,2025,July,159,7
+Romania,2025,July,231,7
+Russian Federation,2025,July,3158,7
+Rwanda,2025,July,1,7
+Saint Kitts and Nevis,2025,July,4,7
+Saint Lucia,2025,July,1,7
+Saint Barthelemy,2025,July,1,7
+Saint Vincent and the Grenadines,2025,July,0,7
+Samoa,2025,July,1,7
+San Marino,2025,July,1,7
+Sao Tome and Principe,2025,July,0,7
+Saudi Arabia,2025,July,1068,7
+Senegal,2025,July,5,7
+Serbia,2025,July,100,7
+Seychelles,2025,July,190,7
+Sierra Leone,2025,July,3,7
+Singapore,2025,July,1297,7
+Slovakia,2025,July,320,7
+Slovenia,2025,July,430,7
+Solomon Islands,2025,July,1,7
+Somalia,2025,July,6,7
+South Africa,2025,July,419,7
+South Korea,2025,July,932,7
+South Sudan,2025,July,0,7
+Spain,2025,July,5912,7
+Sudan,2025,July,121,7
+Suriname,2025,July,1,7
+Swaziland,2025,July,0,7
+Sweden,2025,July,689,7
+Switzerland,2025,July,4990,7
+Syrian Arab Republic,2025,July,0,7
+Tajikistan,2025,July,4,7
+Tanzania,2025,July,29,7
+Thailand,2025,July,506,7
+Timor-Leste,2025,July,2,7
+Togo,2025,July,1,7
+Tonga,2025,July,0,7
+Trinidad and Tobago,2025,July,14,7
+Tunisia,2025,July,63,7
+Turkey,2025,July,660,7
+Turkmenistan,2025,July,14,7
+Tuvalu,2025,July,0,7
+Uganda,2025,July,28,7
+Ukraine,2025,July,279,7
+United Arab Emirates,2025,July,862,7
+United Kingdom,2025,July,23475,7
+United States,2025,July,5222,7
+Uruguay,2025,July,7,7
+Uzbekistan,2025,July,60,7
+Vanuatu,2025,July,1,7
+Vatican City,2025,July,0,7
+Venezuela,2025,July,11,7
+Vietnam,2025,July,266,7
+Yemen,2025,July,70,7
+Zambia,2025,July,4,7
+Zimbabwe,2025,July,7,7
+Afghanistan,2023,August,41,8
+Albania,2023,August,9,8
+Algeria,2023,August,36,8
+Andorra,2023,August,15,8
+Angola,2023,August,1,8
+Antigua and Barbuda,2023,August,6,8
+Argentina,2023,August,52,8
+Armenia,2023,August,144,8
+Aruba,2023,August,0,8
+Australia,2023,August,5522,8
+Austria,2023,August,866,8
+Azerbaijan,2023,August,156,8
+Bahamas,2023,August,0,8
+Bahrain,2023,August,176,8
+Bangladesh,2023,August,1533,8
+Barbados,2023,August,5,8
+Belarus,2023,August,497,8
+Belgium,2023,August,1330,8
+Belize,2023,August,1,8
+Benin,2023,August,1,8
+Bhutan,2023,August,60,8
+Bolivia,2023,August,2,8
+Bosnia and Herzegovina,2023,August,15,8
+Botswana,2023,August,2,8
+Brazil,2023,August,77,8
+Brunei Darussalam,2023,August,2,8
+Bulgaria,2023,August,46,8
+Burkina Faso,2023,August,1,8
+Burundi,2023,August,2,8
+Cambodia,2023,August,9,8
+Cameroon,2023,August,2,8
+Canada,2023,August,4735,8
+Cape Verde,2023,August,0,8
+Chad,2023,August,0,8
+Central African Republic,2023,August,0,8
+Chile,2023,August,28,8
+China,2023,August,9262,8
+Colombia,2023,August,52,8
+Comoros,2023,August,6,8
+Democratic Republic of the Congo,2023,August,2,8
+Costa Rica,2023,August,2,8
+Cote d'Ivoire,2023,August,1,8
+Croatia,2023,August,73,8
+Cuba,2023,August,2,8
+Cyprus,2023,August,282,8
+Czech Republic,2023,August,525,8
+Denmark,2023,August,552,8
+Djibouti,2023,August,0,8
+Dominica,2023,August,4,8
+Dominican Republic,2023,August,1,8
+Ecuador,2023,August,4,8
+Egypt,2023,August,239,8
+El Salvador,2023,August,4,8
+Eritrea,2023,August,4,8
+Estonia,2023,August,26,8
+Ethiopia,2023,August,6,8
+Fiji,2023,August,18,8
+Finland,2023,August,61,8
+France,2023,August,6223,8
+Gabon,2023,August,0,8
+Gambia,2023,August,2,8
+Georgia,2023,August,45,8
+Germany,2023,August,8472,8
+Ghana,2023,August,0,8
+Greece,2023,August,307,8
+Grenada,2023,August,2,8
+Guatemala,2023,August,2,8
+Guinea,2023,August,0,8
+Guyana,2023,August,3,8
+Haiti,2023,August,0,8
+Honduras,2023,August,1,8
+Hungary,2023,August,166,8
+Iceland,2023,August,5,8
+India,2023,August,30593,8
+Indonesia,2023,August,208,8
+Iran,2023,August,279,8
+Iraq,2023,August,103,8
+Ireland,2023,August,380,8
+Israel,2023,August,3396,8
+Italy,2023,August,5110,8
+Jamaica,2023,August,7,8
+Japan,2023,August,2604,8
+Jordan,2023,August,389,8
+Kazakhstan,2023,August,75,8
+Kenya,2023,August,106,8
+Kiribati,2023,August,0,8
+Kosovo,2023,August,2,8
+Kuwait,2023,August,293,8
+Kyrgyzstan,2023,August,44,8
+Laos,2023,August,9,8
+Latvia,2023,August,31,8
+Lebanon,2023,August,250,8
+Lesotho,2023,August,0,8
+Liberia,2023,August,0,8
+Libya,2023,August,11,8
+Liechtenstein,2023,August,2,8
+Lithuania,2023,August,91,8
+Luxembourg,2023,August,78,8
+Macedonia,2023,August,9,8
+Madagascar,2023,August,8,8
+Malawi,2023,August,1,8
+Malaysia,2023,August,1207,8
+Maldives,2023,August,2596,8
+Mali,2023,August,2,8
+Malta,2023,August,77,8
+Marshall Islands,2023,August,5,8
+Mauritania,2023,August,0,8
+Mauritius,2023,August,23,8
+Mexico,2023,August,45,8
+Moldova,2023,August,8,8
+Monaco,2023,August,1,8
+Mongolia,2023,August,8,8
+Montenegro,2023,August,9,8
+Morocco,2023,August,82,8
+Mozambique,2023,August,2,8
+Myanmar,2023,August,355,8
+Namibia,2023,August,1,8
+Nauru,2023,August,3,8
+Nepal,2023,August,476,8
+Netherlands,2023,August,3429,8
+New Zealand,2023,August,575,8
+Nicaragua,2023,August,0,8
+Niger,2023,August,1,8
+Nigeria,2023,August,7,8
+Norway,2023,August,481,8
+Oman,2023,August,386,8
+Pakistan,2023,August,1264,8
+Palau,2023,August,2,8
+Palestinian Territories,2023,August,133,8
+Panama,2023,August,0,8
+Papua New Guinea,2023,August,2,8
+Paraguay,2023,August,4,8
+Peru,2023,August,10,8
+Philippines,2023,August,468,8
+Poland,2023,August,1029,8
+Portugal,2023,August,368,8
+Qatar,2023,August,134,8
+Romania,2023,August,304,8
+Russian Federation,2023,August,6853,8
+Rwanda,2023,August,1,8
+Saint Kitts and Nevis,2023,August,12,8
+Saint Lucia,2023,August,1,8
+Saint Vincent and the Grenadines,2023,August,7,8
+Samoa,2023,August,1,8
+San Marino,2023,August,3,8
+Saudi Arabia,2023,August,708,8
+Senegal,2023,August,3,8
+Serbia,2023,August,88,8
+Seychelles,2023,August,243,8
+Sierra Leone,2023,August,1,8
+Singapore,2023,August,904,8
+Slovakia,2023,August,227,8
+Slovenia,2023,August,154,8
+Solomon Islands,2023,August,0,8
+Somalia,2023,August,2,8
+South Africa,2023,August,338,8
+South Korea,2023,August,666,8
+South Sudan,2023,August,0,8
+Spain,2023,August,4455,8
+Sudan,2023,August,88,8
+Swaziland,2023,August,0,8
+Suriname,2023,August,5,8
+Sweden,2023,August,317,8
+Switzerland,2023,August,1483,8
+Syrian Arab Republic,2023,August,0,8
+Taiwan Province of China,2023,August,611,8
+Tajikistan,2023,August,8,8
+Tanzania,2023,August,10,8
+Thailand,2023,August,480,8
+Timor-Leste,2023,August,0,8
+Togo,2023,August,0,8
+Tonga,2023,August,0,8
+Trinidad and Tobago,2023,August,3,8
+Tunisia,2023,August,46,8
+Turkey,2023,August,262,8
+Turkmenistan,2023,August,2,8
+Tuvalu,2023,August,2,8
+Uganda,2023,August,12,8
+Ukraine,2023,August,183,8
+United Arab Emirates,2023,August,379,8
+United Kingdom,2023,August,15035,8
+United States,2023,August,3107,8
+Uruguay,2023,August,7,8
+Uzbekistan,2023,August,39,8
+Vanuatu,2023,August,3,8
+Venezuela,2023,August,15,8
+Vietnam,2023,August,238,8
+Yemen,2023,August,83,8
+Zambia,2023,August,4,8
+Zimbabwe,2023,August,14,8
+Afghanistan,2024,August,18,8
+Albania,2024,August,13,8
+Algeria,2024,August,49,8
+Andorra,2024,August,25,8
+Angola,2024,August,2,8
+Antigua and Barbuda,2024,August,2,8
+Argentina,2024,August,43,8
+Armenia,2024,August,136,8
+Aruba,2024,August,0,8
+Australia,2024,August,6687,8
+Austria,2024,August,1150,8
+Azerbaijan,2024,August,97,8
+Bahamas,2024,August,0,8
+Bahrain,2024,August,140,8
+Bangladesh,2024,August,3877,8
+Barbados,2024,August,3,8
+Belarus,2024,August,199,8
+Belgium,2024,August,1751,8
+Belize,2024,August,1,8
+Benin,2024,August,0,8
+Bhutan,2024,August,51,8
+Bolivia,2024,August,6,8
+Bosnia and Herzegovina,2024,August,19,8
+Botswana,2024,August,7,8
+Brazil,2024,August,129,8
+Brunei Darussalam,2024,August,6,8
+Bulgaria,2024,August,43,8
+Burkina Faso,2024,August,0,8
+Burundi,2024,August,1,8
+Cambodia,2024,August,25,8
+Cameroon,2024,August,0,8
+Canada,2024,August,3868,8
+Cape Verde,2024,August,1,8
+Chad,2024,August,1,8
+Central African Republic,2024,August,1,8
+Chile,2024,August,42,8
+China,2024,August,12088,8
+Colombia,2024,August,51,8
+Comoros,2024,August,14,8
+Democratic Republic of the Congo,2024,August,3,8
+Costa Rica,2024,August,2,8
+Cote d'Ivoire,2024,August,1,8
+Croatia,2024,August,133,8
+Cuba,2024,August,6,8
+Cyprus,2024,August,307,8
+Czech Republic,2024,August,822,8
+Denmark,2024,August,606,8
+Djibouti,2024,August,2,8
+Dominica,2024,August,6,8
+Dominican Republic,2024,August,2,8
+Ecuador,2024,August,1,8
+Egypt,2024,August,265,8
+El Salvador,2024,August,1,8
+Equatorial Guinea,2024,August,0,8
+Eritrea,2024,August,0,8
+Estonia,2024,August,15,8
+Ethiopia,2024,August,14,8
+Fiji,2024,August,7,8
+Finland,2024,August,100,8
+France,2024,August,8596,8
+Gabon,2024,August,0,8
+Gambia,2024,August,3,8
+Georgia,2024,August,26,8
+Germany,2024,August,10623,8
+Ghana,2024,August,4,8
+Greece,2024,August,339,8
+Grenada,2024,August,5,8
+Guatemala,2024,August,3,8
+Guinea-Bissau,2024,August,0,8
+Guinea,2024,August,2,8
+Guyana,2024,August,2,8
+Haiti,2024,August,0,8
+Honduras,2024,August,2,8
+Hungary,2024,August,261,8
+Iceland,2024,August,21,8
+India,2024,August,33031,8
+Indonesia,2024,August,291,8
+Iran,2024,August,883,8
+Iraq,2024,August,172,8
+Ireland,2024,August,586,8
+Israel,2024,August,3248,8
+Italy,2024,August,9586,8
+Jamaica,2024,August,5,8
+Japan,2024,August,4102,8
+Jordan,2024,August,173,8
+Kazakhstan,2024,August,71,8
+Kenya,2024,August,54,8
+Kiribati,2024,August,0,8
+Kosovo,2024,August,1,8
+Kuwait,2024,August,207,8
+Kyrgyzstan,2024,August,21,8
+Laos,2024,August,9,8
+Latvia,2024,August,23,8
+Lebanon,2024,August,244,8
+Lesotho,2024,August,1,8
+Liberia,2024,August,1,8
+Libya,2024,August,6,8
+Liechtenstein,2024,August,5,8
+Lithuania,2024,August,111,8
+Luxembourg,2024,August,109,8
+Macedonia,2024,August,14,8
+Madagascar,2024,August,11,8
+Malawi,2024,August,2,8
+Malaysia,2024,August,1571,8
+Maldives,2024,August,3198,8
+Mali,2024,August,2,8
+Malta,2024,August,136,8
+Marshall Islands,2024,August,0,8
+Mauritania,2024,August,0,8
+Mauritius,2024,August,57,8
+Micronesia,2024,August,1,8
+Mexico,2024,August,58,8
+Moldova,2024,August,11,8
+Monaco,2024,August,2,8
+Mongolia,2024,August,1,8
+Montenegro,2024,August,9,8
+Morocco,2024,August,112,8
+Mozambique,2024,August,1,8
+Myanmar,2024,August,417,8
+Namibia,2024,August,0,8
+Nauru,2024,August,0,8
+Nepal,2024,August,252,8
+Netherlands,2024,August,5355,8
+Netherlands Antilles,2024,August,0,8
+New Zealand,2024,August,1011,8
+Nicaragua,2024,August,0,8
+Niger,2024,August,0,8
+Nigeria,2024,August,5,8
+Norway,2024,August,486,8
+Oman,2024,August,473,8
+Pakistan,2024,August,1040,8
+Palau,2024,August,0,8
+Palestinian Territories,2024,August,65,8
+Panama,2024,August,1,8
+Papua New Guinea,2024,August,5,8
+Paraguay,2024,August,0,8
+Peru,2024,August,25,8
+Philippines,2024,August,465,8
+Poland,2024,August,2240,8
+Portugal,2024,August,667,8
+Qatar,2024,August,102,8
+Romania,2024,August,336,8
+Russian Federation,2024,August,4351,8
+Rwanda,2024,August,2,8
+Saint Kitts and Nevis,2024,August,8,8
+Saint Lucia,2024,August,1,8
+Saint Vincent and the Grenadines,2024,August,0,8
+Samoa,2024,August,0,8
+San Marino,2024,August,1,8
+Saudi Arabia,2024,August,330,8
+Senegal,2024,August,0,8
+Serbia,2024,August,107,8
+Seychelles,2024,August,327,8
+Sierra Leone,2024,August,3,8
+Singapore,2024,August,1215,8
+Slovakia,2024,August,290,8
+Slovenia,2024,August,186,8
+Solomon Islands,2024,August,1,8
+Somalia,2024,August,19,8
+South Africa,2024,August,324,8
+South Korea,2024,August,698,8
+South Sudan,2024,August,1,8
+Spain,2024,August,7262,8
+Sudan,2024,August,77,8
+Swaziland,2024,August,4,8
+Suriname,2024,August,2,8
+Sweden,2024,August,290,8
+Switzerland,2024,August,1856,8
+Syrian Arab Republic,2024,August,0,8
+Tajikistan,2024,August,20,8
+Tanzania,2024,August,15,8
+Thailand,2024,August,598,8
+Timor-Leste,2024,August,0,8
+Togo,2024,August,3,8
+Tonga,2024,August,1,8
+Trinidad and Tobago,2024,August,6,8
+Tunisia,2024,August,54,8
+Turkey,2024,August,448,8
+Turkmenistan,2024,August,6,8
+Tuvalu,2024,August,0,8
+Uganda,2024,August,13,8
+Ukraine,2024,August,203,8
+United Arab Emirates,2024,August,562,8
+United Kingdom,2024,August,17587,8
+United States,2024,August,3539,8
+Uruguay,2024,August,4,8
+Uzbekistan,2024,August,28,8
+Vanuatu,2024,August,9,8
+Venezuela,2024,August,9,8
+Vietnam,2024,August,293,8
+Yemen,2024,August,45,8
+Zambia,2024,August,3,8
+Zimbabwe,2024,August,11,8
+Afghanistan,2025,August,3,8
+Albania,2025,August,30,8
+Algeria,2025,August,54,8
+Andorra,2025,August,22,8
+Angola,2025,August,3,8
+Antigua and Barbuda,2025,August,0,8
+Argentina,2025,August,54,8
+Armenia,2025,August,123,8
+Australia,2025,August,7833,8
+Austria,2025,August,1425,8
+Azerbaijan,2025,August,133,8
+Bahamas,2025,August,5,8
+Bahrain,2025,August,134,8
+Bangladesh,2025,August,4074,8
+Barbados,2025,August,2,8
+Belarus,2025,August,181,8
+Belgium,2025,August,2047,8
+Belize,2025,August,3,8
+Benin,2025,August,6,8
+Bhutan,2025,August,44,8
+Bolivia,2025,August,2,8
+Bosnia and Herzegovina,2025,August,14,8
+Botswana,2025,August,2,8
+Brazil,2025,August,134,8
+Brunei Darussalam,2025,August,6,8
+Bulgaria,2025,August,57,8
+Burkina Faso,2025,August,0,8
+Burundi,2025,August,0,8
+Cambodia,2025,August,37,8
+Cameroon,2025,August,1,8
+Canada,2025,August,4333,8
+Cape Verde,2025,August,2,8
+Central African Republic,2025,August,0,8
+Chad,2025,August,0,8
+Chile,2025,August,39,8
+China,2025,August,12294,8
+Republic of the Congo,2025,August,0,8
+Colombia,2025,August,60,8
+Comoros,2025,August,15,8
+Democratic Republic of the Congo,2025,August,5,8
+Costa Rica,2025,August,6,8
+Cote d'Ivoire,2025,August,2,8
+Croatia,2025,August,157,8
+Cuba,2025,August,6,8
+Cyprus,2025,August,312,8
+Czech Republic,2025,August,874,8
+Denmark,2025,August,739,8
+Djibouti,2025,August,0,8
+Dominica,2025,August,12,8
+Dominican Republic,2025,August,2,8
+Ecuador,2025,August,11,8
+Egypt,2025,August,274,8
+El Salvador,2025,August,4,8
+Eritrea,2025,August,1,8
+Equatorial Guinea,2025,August,0,8
+Estonia,2025,August,16,8
+Ethiopia,2025,August,27,8
+Fiji,2025,August,15,8
+Finland,2025,August,113,8
+France,2025,August,10495,8
+Gabon,2025,August,0,8
+Gambia,2025,August,4,8
+Georgia,2025,August,55,8
+Germany,2025,August,12500,8
+Ghana,2025,August,9,8
+Greece,2025,August,844,8
+Grenada,2025,August,3,8
+Guatemala,2025,August,5,8
+Guinea,2025,August,1,8
+Guinea-Bissau,2025,August,0,8
+Guyana,2025,August,0,8
+Haiti,2025,August,1,8
+Honduras,2025,August,1,8
+Hungary,2025,August,239,8
+Iceland,2025,August,7,8
+India,2025,August,46473,8
+Indonesia,2025,August,487,8
+Iran,2025,August,485,8
+Iraq,2025,August,204,8
+Ireland,2025,August,738,8
+Israel,2025,August,2403,8
+Italy,2025,August,12247,8
+Jamaica,2025,August,5,8
+Japan,2025,August,5127,8
+Jordan,2025,August,191,8
+Kazakhstan,2025,August,60,8
+Kenya,2025,August,93,8
+Kiribati,2025,August,0,8
+Kosovo,2025,August,3,8
+Kuwait,2025,August,232,8
+Kyrgyzstan,2025,August,67,8
+Laos,2025,August,13,8
+Latvia,2025,August,28,8
+Lebanon,2025,August,240,8
+Lesotho,2025,August,0,8
+Liberia,2025,August,0,8
+Libya,2025,August,9,8
+Liechtenstein,2025,August,7,8
+Lithuania,2025,August,117,8
+Luxembourg,2025,August,144,8
+Macedonia,2025,August,13,8
+Madagascar,2025,August,10,8
+Malawi,2025,August,6,8
+Malaysia,2025,August,2157,8
+Maldives,2025,August,3003,8
+Mali,2025,August,1,8
+Malta,2025,August,151,8
+Marshall Islands,2025,August,0,8
+Mauritania,2025,August,0,8
+Mauritius,2025,August,60,8
+Mexico,2025,August,73,8
+Moldova,2025,August,11,8
+Monaco,2025,August,0,8
+Mongolia,2025,August,33,8
+Montenegro,2025,August,2,8
+Morocco,2025,August,132,8
+Mozambique,2025,August,1,8
+Myanmar,2025,August,527,8
+Namibia,2025,August,3,8
+Nauru,2025,August,1,8
+Nepal,2025,August,583,8
+Netherlands,2025,August,6082,8
+New Zealand,2025,August,1044,8
+Nicaragua,2025,August,2,8
+Niger,2025,August,1,8
+Nigeria,2025,August,12,8
+North Korea,2025,August,0,8
+Norway,2025,August,514,8
+Oman,2025,August,388,8
+Pakistan,2025,August,1580,8
+Palau,2025,August,0,8
+Palestinian Territories,2025,August,79,8
+Panama,2025,August,3,8
+Papua New Guinea,2025,August,6,8
+Paraguay,2025,August,3,8
+Peru,2025,August,28,8
+Philippines,2025,August,678,8
+Poland,2025,August,3404,8
+Portugal,2025,August,648,8
+Qatar,2025,August,159,8
+Romania,2025,August,397,8
+Russian Federation,2025,August,3446,8
+Rwanda,2025,August,8,8
+Saint Kitts and Nevis,2025,August,25,8
+Saint Lucia,2025,August,2,8
+Saint Barthelemy,2025,August,0,8
+Saint Vincent and the Grenadines,2025,August,0,8
+Samoa,2025,August,0,8
+San Marino,2025,August,2,8
+Sao Tome and Principe,2025,August,0,8
+Saudi Arabia,2025,August,690,8
+Senegal,2025,August,6,8
+Serbia,2025,August,73,8
+Seychelles,2025,August,510,8
+Sierra Leone,2025,August,0,8
+Singapore,2025,August,1262,8
+Slovakia,2025,August,346,8
+Slovenia,2025,August,217,8
+Solomon Islands,2025,August,1,8
+Somalia,2025,August,14,8
+South Africa,2025,August,460,8
+South Korea,2025,August,808,8
+South Sudan,2025,August,0,8
+Spain,2025,August,8843,8
+Sudan,2025,August,288,8
+Suriname,2025,August,3,8
+Swaziland,2025,August,0,8
+Sweden,2025,August,341,8
+Switzerland,2025,August,2067,8
+Syrian Arab Republic,2025,August,0,8
+Tajikistan,2025,August,6,8
+Tanzania,2025,August,35,8
+Thailand,2025,August,682,8
+Timor-Leste,2025,August,2,8
+Togo,2025,August,3,8
+Tonga,2025,August,1,8
+Trinidad and Tobago,2025,August,11,8
+Tunisia,2025,August,56,8
+Turkey,2025,August,606,8
+Turkmenistan,2025,August,7,8
+Tuvalu,2025,August,0,8
+Uganda,2025,August,17,8
+Ukraine,2025,August,272,8
+United Arab Emirates,2025,August,820,8
+United Kingdom,2025,August,19764,8
+United States,2025,August,4970,8
+Uruguay,2025,August,9,8
+Uzbekistan,2025,August,57,8
+Vanuatu,2025,August,7,8
+Vatican City,2025,August,1,8
+Venezuela,2025,August,12,8
+Vietnam,2025,August,308,8
+Yemen,2025,August,75,8
+Zambia,2025,August,8,8
+Zimbabwe,2025,August,14,8
+Afghanistan,2023,September,21,9
+Albania,2023,September,3,9
+Algeria,2023,September,39,9
+Andorra,2023,September,4,9
+Angola,2023,September,0,9
+Antigua and Barbuda,2023,September,3,9
+Argentina,2023,September,42,9
+Armenia,2023,September,101,9
+Aruba,2023,September,0,9
+Australia,2023,September,5969,9
+Austria,2023,September,726,9
+Azerbaijan,2023,September,82,9
+Bahamas,2023,September,2,9
+Bahrain,2023,September,52,9
+Bangladesh,2023,September,1441,9
+Barbados,2023,September,1,9
+Belarus,2023,September,778,9
+Belgium,2023,September,1061,9
+Belize,2023,September,1,9
+Benin,2023,September,3,9
+Bhutan,2023,September,32,9
+Bolivia,2023,September,0,9
+Bosnia and Herzegovina,2023,September,8,9
+Botswana,2023,September,2,9
+Brazil,2023,September,82,9
+Brunei Darussalam,2023,September,4,9
+Bulgaria,2023,September,60,9
+Burkina Faso,2023,September,0,9
+Burundi,2023,September,2,9
+Cambodia,2023,September,26,9
+Cameroon,2023,September,1,9
+Canada,2023,September,2426,9
+Cape Verde,2023,September,0,9
+Chad,2023,September,1,9
+Central African Republic,2023,September,0,9
+Chile,2023,September,19,9
+China,2023,September,8445,9
+Colombia,2023,September,49,9
+Comoros,2023,September,7,9
+Democratic Republic of the Congo,2023,September,2,9
+Costa Rica,2023,September,5,9
+Cote d'Ivoire,2023,September,0,9
+Croatia,2023,September,48,9
+Cuba,2023,September,1,9
+Cyprus,2023,September,15,9
+Czech Republic,2023,September,413,9
+Denmark,2023,September,472,9
+Djibouti,2023,September,1,9
+Dominica,2023,September,8,9
+Dominican Republic,2023,September,5,9
+Ecuador,2023,September,6,9
+Egypt,2023,September,189,9
+El Salvador,2023,September,2,9
+Eritrea,2023,September,1,9
+Estonia,2023,September,47,9
+Ethiopia,2023,September,13,9
+Fiji,2023,September,6,9
+Finland,2023,September,132,9
+France,2023,September,2661,9
+Gabon,2023,September,0,9
+Gambia,2023,September,2,9
+Georgia,2023,September,19,9
+Germany,2023,September,7231,9
+Ghana,2023,September,5,9
+Greece,2023,September,51,9
+Grenada,2023,September,2,9
+Guatemala,2023,September,6,9
+Guinea,2023,September,0,9
+Guyana,2023,September,1,9
+Haiti,2023,September,0,9
+Honduras,2023,September,3,9
+Hungary,2023,September,97,9
+Iceland,2023,September,16,9
+India,2023,September,30063,9
+Indonesia,2023,September,184,9
+Iran,2023,September,1593,9
+Iraq,2023,September,73,9
+Ireland,2023,September,293,9
+Israel,2023,September,4162,9
+Italy,2023,September,1257,9
+Jamaica,2023,September,3,9
+Japan,2023,September,1830,9
+Jordan,2023,September,242,9
+Kazakhstan,2023,September,91,9
+Kenya,2023,September,40,9
+Kiribati,2023,September,0,9
+Kosovo,2023,September,3,9
+Kuwait,2023,September,147,9
+Kyrgyzstan,2023,September,37,9
+Laos,2023,September,13,9
+Latvia,2023,September,28,9
+Lebanon,2023,September,292,9
+Lesotho,2023,September,0,9
+Liberia,2023,September,0,9
+Libya,2023,September,6,9
+Liechtenstein,2023,September,1,9
+Lithuania,2023,September,113,9
+Luxembourg,2023,September,35,9
+Macedonia,2023,September,9,9
+Madagascar,2023,September,17,9
+Malawi,2023,September,2,9
+Malaysia,2023,September,924,9
+Maldives,2023,September,2287,9
+Mali,2023,September,2,9
+Malta,2023,September,105,9
+Marshall Islands,2023,September,0,9
+Mauritania,2023,September,0,9
+Mauritius,2023,September,29,9
+Mexico,2023,September,119,9
+Moldova,2023,September,14,9
+Monaco,2023,September,4,9
+Mongolia,2023,September,15,9
+Montenegro,2023,September,2,9
+Morocco,2023,September,49,9
+Mozambique,2023,September,1,9
+Myanmar,2023,September,47,9
+Namibia,2023,September,2,9
+Nauru,2023,September,0,9
+Nepal,2023,September,593,9
+Netherlands,2023,September,3177,9
+New Zealand,2023,September,648,9
+Nicaragua,2023,September,3,9
+Niger,2023,September,1,9
+Nigeria,2023,September,6,9
+Norway,2023,September,547,9
+Oman,2023,September,74,9
+Pakistan,2023,September,1391,9
+Palau,2023,September,1,9
+Palestinian Territories,2023,September,40,9
+Panama,2023,September,2,9
+Papua New Guinea,2023,September,5,9
+Paraguay,2023,September,0,9
+Peru,2023,September,9,9
+Philippines,2023,September,328,9
+Poland,2023,September,1599,9
+Portugal,2023,September,286,9
+Qatar,2023,September,23,9
+Romania,2023,September,166,9
+Russian Federation,2023,September,7163,9
+Rwanda,2023,September,0,9
+Saint Kitts and Nevis,2023,September,3,9
+Saint Lucia,2023,September,4,9
+Saint Vincent and the Grenadines,2023,September,1,9
+Samoa,2023,September,0,9
+San Marino,2023,September,0,9
+Saudi Arabia,2023,September,331,9
+Senegal,2023,September,4,9
+Serbia,2023,September,76,9
+Seychelles,2023,September,103,9
+Sierra Leone,2023,September,0,9
+Singapore,2023,September,759,9
+Slovakia,2023,September,258,9
+Slovenia,2023,September,108,9
+Solomon Islands,2023,September,0,9
+Somalia,2023,September,1,9
+South Africa,2023,September,185,9
+South Korea,2023,September,656,9
+South Sudan,2023,September,0,9
+Spain,2023,September,2414,9
+Sudan,2023,September,33,9
+Swaziland,2023,September,0,9
+Suriname,2023,September,12,9
+Sweden,2023,September,327,9
+Switzerland,2023,September,1638,9
+Syrian Arab Republic,2023,September,0,9
+Taiwan Province of China,2023,September,616,9
+Tajikistan,2023,September,8,9
+Tanzania,2023,September,18,9
+Thailand,2023,September,326,9
+Timor-Leste,2023,September,11,9
+Togo,2023,September,0,9
+Tonga,2023,September,1,9
+Trinidad and Tobago,2023,September,2,9
+Tunisia,2023,September,40,9
+Turkey,2023,September,256,9
+Turkmenistan,2023,September,5,9
+Tuvalu,2023,September,0,9
+Uganda,2023,September,11,9
+Ukraine,2023,September,233,9
+United Arab Emirates,2023,September,228,9
+United Kingdom,2023,September,7504,9
+United States,2023,September,2357,9
+Uruguay,2023,September,7,9
+Uzbekistan,2023,September,52,9
+Vanuatu,2023,September,2,9
+Venezuela,2023,September,1,9
+Vietnam,2023,September,154,9
+Yemen,2023,September,31,9
+Zambia,2023,September,3,9
+Zimbabwe,2023,September,10,9
+Afghanistan,2024,September,5,9
+Albania,2024,September,6,9
+Algeria,2024,September,25,9
+Andorra,2024,September,23,9
+Angola,2024,September,1,9
+Antigua and Barbuda,2024,September,1,9
+Argentina,2024,September,45,9
+Armenia,2024,September,107,9
+Aruba,2024,September,0,9
+Australia,2024,September,7200,9
+Austria,2024,September,757,9
+Azerbaijan,2024,September,100,9
+Bahamas,2024,September,1,9
+Bahrain,2024,September,54,9
+Bangladesh,2024,September,4178,9
+Barbados,2024,September,0,9
+Belarus,2024,September,177,9
+Belgium,2024,September,1669,9
+Belize,2024,September,1,9
+Benin,2024,September,2,9
+Bhutan,2024,September,45,9
+Bolivia,2024,September,3,9
+Bosnia and Herzegovina,2024,September,26,9
+Botswana,2024,September,2,9
+Brazil,2024,September,100,9
+Brunei Darussalam,2024,September,0,9
+Bulgaria,2024,September,32,9
+Burkina Faso,2024,September,0,9
+Burundi,2024,September,3,9
+Cambodia,2024,September,55,9
+Cameroon,2024,September,0,9
+Canada,2024,September,2095,9
+Cape Verde,2024,September,0,9
+Chad,2024,September,0,9
+Central African Republic,2024,September,0,9
+Chile,2024,September,32,9
+China,2024,September,9685,9
+Colombia,2024,September,26,9
+Comoros,2024,September,5,9
+Democratic Republic of the Congo,2024,September,0,9
+Costa Rica,2024,September,2,9
+Cote d'Ivoire,2024,September,0,9
+Croatia,2024,September,95,9
+Cuba,2024,September,6,9
+Cyprus,2024,September,45,9
+Czech Republic,2024,September,496,9
+Denmark,2024,September,566,9
+Djibouti,2024,September,2,9
+Dominica,2024,September,2,9
+Dominican Republic,2024,September,1,9
+Ecuador,2024,September,11,9
+Egypt,2024,September,232,9
+El Salvador,2024,September,3,9
+Equatorial Guinea,2024,September,0,9
+Eritrea,2024,September,0,9
+Estonia,2024,September,45,9
+Ethiopia,2024,September,12,9
+Fiji,2024,September,2,9
+Finland,2024,September,165,9
+France,2024,September,3749,9
+Gabon,2024,September,2,9
+Gambia,2024,September,1,9
+Georgia,2024,September,27,9
+Germany,2024,September,8260,9
+Ghana,2024,September,6,9
+Greece,2024,September,106,9
+Grenada,2024,September,3,9
+Guatemala,2024,September,4,9
+Guinea-Bissau,2024,September,2,9
+Guinea,2024,September,0,9
+Guyana,2024,September,3,9
+Haiti,2024,September,1,9
+Honduras,2024,September,2,9
+Hungary,2024,September,137,9
+Iceland,2024,September,12,9
+India,2024,September,27884,9
+Indonesia,2024,September,431,9
+Iran,2024,September,1227,9
+Iraq,2024,September,81,9
+Ireland,2024,September,434,9
+Israel,2024,September,3142,9
+Italy,2024,September,1902,9
+Jamaica,2024,September,12,9
+Japan,2024,September,3526,9
+Jordan,2024,September,151,9
+Kazakhstan,2024,September,99,9
+Kenya,2024,September,79,9
+Kiribati,2024,September,0,9
+Kosovo,2024,September,6,9
+Kuwait,2024,September,119,9
+Kyrgyzstan,2024,September,35,9
+Laos,2024,September,4,9
+Latvia,2024,September,29,9
+Lebanon,2024,September,163,9
+Lesotho,2024,September,3,9
+Liberia,2024,September,1,9
+Libya,2024,September,0,9
+Liechtenstein,2024,September,3,9
+Lithuania,2024,September,92,9
+Luxembourg,2024,September,13,9
+Macedonia,2024,September,16,9
+Madagascar,2024,September,6,9
+Malawi,2024,September,2,9
+Malaysia,2024,September,1954,9
+Maldives,2024,September,4359,9
+Mali,2024,September,3,9
+Malta,2024,September,108,9
+Marshall Islands,2024,September,0,9
+Mauritania,2024,September,1,9
+Mauritius,2024,September,20,9
+Micronesia,2024,September,0,9
+Mexico,2024,September,100,9
+Moldova,2024,September,6,9
+Monaco,2024,September,1,9
+Mongolia,2024,September,20,9
+Montenegro,2024,September,1,9
+Morocco,2024,September,78,9
+Mozambique,2024,September,2,9
+Myanmar,2024,September,33,9
+Namibia,2024,September,2,9
+Nauru,2024,September,0,9
+Nepal,2024,September,234,9
+Netherlands,2024,September,3725,9
+Netherlands Antilles,2024,September,1,9
+New Zealand,2024,September,1033,9
+Nicaragua,2024,September,1,9
+Niger,2024,September,0,9
+Nigeria,2024,September,18,9
+Norway,2024,September,443,9
+Oman,2024,September,185,9
+Pakistan,2024,September,556,9
+Palau,2024,September,33,9
+Palestinian Territories,2024,September,0,9
+Panama,2024,September,4,9
+Papua New Guinea,2024,September,9,9
+Paraguay,2024,September,0,9
+Peru,2024,September,13,9
+Philippines,2024,September,398,9
+Poland,2024,September,2243,9
+Portugal,2024,September,410,9
+Qatar,2024,September,19,9
+Romania,2024,September,254,9
+Russian Federation,2024,September,4199,9
+Rwanda,2024,September,8,9
+Saint Kitts and Nevis,2024,September,9,9
+Saint Lucia,2024,September,1,9
+Saint Vincent and the Grenadines,2024,September,0,9
+Samoa,2024,September,0,9
+San Marino,2024,September,2,9
+Saudi Arabia,2024,September,319,9
+Senegal,2024,September,0,9
+Serbia,2024,September,103,9
+Seychelles,2024,September,196,9
+Sierra Leone,2024,September,1,9
+Singapore,2024,September,710,9
+Slovakia,2024,September,255,9
+Slovenia,2024,September,188,9
+Solomon Islands,2024,September,3,9
+Somalia,2024,September,7,9
+South Africa,2024,September,299,9
+South Korea,2024,September,608,9
+South Sudan,2024,September,0,9
+Spain,2024,September,4166,9
+Sudan,2024,September,62,9
+Swaziland,2024,September,1,9
+Suriname,2024,September,0,9
+Sweden,2024,September,345,9
+Switzerland,2024,September,1778,9
+Syrian Arab Republic,2024,September,0,9
+Tajikistan,2024,September,8,9
+Tanzania,2024,September,20,9
+Thailand,2024,September,384,9
+Timor-Leste,2024,September,0,9
+Togo,2024,September,0,9
+Tonga,2024,September,0,9
+Trinidad and Tobago,2024,September,4,9
+Tunisia,2024,September,45,9
+Turkey,2024,September,361,9
+Turkmenistan,2024,September,2,9
+Tuvalu,2024,September,0,9
+Uganda,2024,September,10,9
+Ukraine,2024,September,191,9
+United Arab Emirates,2024,September,270,9
+United Kingdom,2024,September,8688,9
+United States,2024,September,2460,9
+Uruguay,2024,September,7,9
+Uzbekistan,2024,September,31,9
+Vanuatu,2024,September,5,9
+Venezuela,2024,September,8,9
+Vietnam,2024,September,183,9
+Yemen,2024,September,11,9
+Zambia,2024,September,1,9
+Zimbabwe,2024,September,3,9
+Afghanistan,2025,September,5,9
+Albania,2025,September,14,9
+Algeria,2025,September,64,9
+Andorra,2025,September,4,9
+Angola,2025,September,0,9
+Antigua and Barbuda,2025,September,1,9
+Argentina,2025,September,83,9
+Armenia,2025,September,138,9
+Australia,2025,September,9105,9
+Austria,2025,September,708,9
+Azerbaijan,2025,September,51,9
+Bahamas,2025,September,6,9
+Bahrain,2025,September,76,9
+Bangladesh,2025,September,4953,9
+Barbados,2025,September,4,9
+Belarus,2025,September,208,9
+Belgium,2025,September,1732,9
+Belize,2025,September,1,9
+Benin,2025,September,4,9
+Bhutan,2025,September,70,9
+Bolivia,2025,September,6,9
+Bosnia and Herzegovina,2025,September,14,9
+Botswana,2025,September,4,9
+Brazil,2025,September,123,9
+Brunei Darussalam,2025,September,2,9
+Bulgaria,2025,September,97,9
+Burkina Faso,2025,September,4,9
+Burundi,2025,September,3,9
+Cambodia,2025,September,25,9
+Cameroon,2025,September,4,9
+Canada,2025,September,2513,9
+Cape Verde,2025,September,1,9
+Central African Republic,2025,September,2,9
+Chad,2025,September,1,9
+Chile,2025,September,38,9
+China,2025,September,10527,9
+Republic of the Congo,2025,September,4,9
+Colombia,2025,September,58,9
+Comoros,2025,September,11,9
+Democratic Republic of the Congo,2025,September,5,9
+Costa Rica,2025,September,5,9
+Cote d'Ivoire,2025,September,1,9
+Croatia,2025,September,31,9
+Cuba,2025,September,7,9
+Cyprus,2025,September,36,9
+Czech Republic,2025,September,641,9
+Denmark,2025,September,601,9
+Djibouti,2025,September,0,9
+Dominica,2025,September,12,9
+Dominican Republic,2025,September,2,9
+Ecuador,2025,September,15,9
+Egypt,2025,September,261,9
+El Salvador,2025,September,5,9
+Eritrea,2025,September,1,9
+Equatorial Guinea,2025,September,2,9
+Estonia,2025,September,39,9
+Ethiopia,2025,September,25,9
+Fiji,2025,September,26,9
+Finland,2025,September,193,9
+France,2025,September,5144,9
+Gabon,2025,September,1,9
+Gambia,2025,September,3,9
+Georgia,2025,September,20,9
+Germany,2025,September,9344,9
+Ghana,2025,September,39,9
+Greece,2025,September,220,9
+Grenada,2025,September,2,9
+Guatemala,2025,September,9,9
+Guinea,2025,September,2,9
+Guinea-Bissau,2025,September,0,9
+Guyana,2025,September,0,9
+Haiti,2025,September,2,9
+Honduras,2025,September,4,9
+Hungary,2025,September,136,9
+Iceland,2025,September,9,9
+India,2025,September,49697,9
+Indonesia,2025,September,378,9
+Iran,2025,September,846,9
+Iraq,2025,September,302,9
+Ireland,2025,September,609,9
+Israel,2025,September,2136,9
+Italy,2025,September,2340,9
+Jamaica,2025,September,5,9
+Japan,2025,September,4137,9
+Jordan,2025,September,177,9
+Kazakhstan,2025,September,118,9
+Kenya,2025,September,68,9
+Kiribati,2025,September,2,9
+Kosovo,2025,September,4,9
+Kuwait,2025,September,142,9
+Kyrgyzstan,2025,September,75,9
+Laos,2025,September,23,9
+Latvia,2025,September,49,9
+Lebanon,2025,September,261,9
+Lesotho,2025,September,1,9
+Liberia,2025,September,3,9
+Libya,2025,September,1,9
+Liechtenstein,2025,September,5,9
+Lithuania,2025,September,144,9
+Luxembourg,2025,September,37,9
+Macedonia,2025,September,25,9
+Madagascar,2025,September,8,9
+Malawi,2025,September,1,9
+Malaysia,2025,September,2570,9
+Maldives,2025,September,3930,9
+Mali,2025,September,10,9
+Malta,2025,September,113,9
+Marshall Islands,2025,September,0,9
+Mauritania,2025,September,1,9
+Mauritius,2025,September,47,9
+Mexico,2025,September,76,9
+Moldova,2025,September,15,9
+Monaco,2025,September,0,9
+Mongolia,2025,September,26,9
+Montenegro,2025,September,2,9
+Morocco,2025,September,89,9
+Mozambique,2025,September,7,9
+Myanmar,2025,September,166,9
+Namibia,2025,September,2,9
+Nauru,2025,September,0,9
+Nepal,2025,September,595,9
+Netherlands,2025,September,4433,9
+New Zealand,2025,September,1200,9
+Nicaragua,2025,September,2,9
+Niger,2025,September,0,9
+Nigeria,2025,September,30,9
+North Korea,2025,September,0,9
+Norway,2025,September,515,9
+Oman,2025,September,199,9
+Pakistan,2025,September,1468,9
+Palau,2025,September,0,9
+Palestinian Territories,2025,September,33,9
+Panama,2025,September,4,9
+Papua New Guinea,2025,September,13,9
+Paraguay,2025,September,2,9
+Peru,2025,September,33,9
+Philippines,2025,September,643,9
+Poland,2025,September,2654,9
+Portugal,2025,September,459,9
+Qatar,2025,September,34,9
+Romania,2025,September,198,9
+Russian Federation,2025,September,3228,9
+Rwanda,2025,September,10,9
+Saint Kitts and Nevis,2025,September,16,9
+Saint Lucia,2025,September,3,9
+Saint Barthelemy,2025,September,0,9
+Saint Vincent and the Grenadines,2025,September,1,9
+Samoa,2025,September,0,9
+San Marino,2025,September,1,9
+Sao Tome and Principe,2025,September,0,9
+Saudi Arabia,2025,September,326,9
+Senegal,2025,September,4,9
+Serbia,2025,September,69,9
+Seychelles,2025,September,119,9
+Sierra Leone,2025,September,1,9
+Singapore,2025,September,1053,9
+Slovakia,2025,September,335,9
+Slovenia,2025,September,146,9
+Solomon Islands,2025,September,0,9
+Somalia,2025,September,3,9
+South Africa,2025,September,409,9
+South Korea,2025,September,567,9
+South Sudan,2025,September,0,9
+Spain,2025,September,4841,9
+Sudan,2025,September,82,9
+Suriname,2025,September,3,9
+Swaziland,2025,September,2,9
+Sweden,2025,September,401,9
+Switzerland,2025,September,2193,9
+Syrian Arab Republic,2025,September,1,9
+Tajikistan,2025,September,14,9
+Tanzania,2025,September,12,9
+Thailand,2025,September,449,9
+Timor-Leste,2025,September,3,9
+Togo,2025,September,3,9
+Tonga,2025,September,0,9
+Trinidad and Tobago,2025,September,16,9
+Tunisia,2025,September,65,9
+Turkey,2025,September,423,9
+Turkmenistan,2025,September,8,9
+Tuvalu,2025,September,0,9
+Uganda,2025,September,23,9
+Ukraine,2025,September,303,9
+United Arab Emirates,2025,September,464,9
+United Kingdom,2025,September,10752,9
+United States,2025,September,3569,9
+Uruguay,2025,September,16,9
+Uzbekistan,2025,September,65,9
+Vanuatu,2025,September,4,9
+Vatican City,2025,September,0,9
+Venezuela,2025,September,14,9
+Vietnam,2025,September,216,9
+Yemen,2025,September,40,9
+Zambia,2025,September,3,9
+Zimbabwe,2025,September,25,9
+Afghanistan,2023,October,5,10
+Albania,2023,October,4,10
+Algeria,2023,October,19,10
+Andorra,2023,October,7,10
+Angola,2023,October,0,10
+Antigua and Barbuda,2023,October,0,10
+Argentina,2023,October,49,10
+Armenia,2023,October,301,10
+Aruba,2023,October,0,10
+Australia,2023,October,4977,10
+Austria,2023,October,778,10
+Azerbaijan,2023,October,94,10
+Bahamas,2023,October,0,10
+Bahrain,2023,October,54,10
+Bangladesh,2023,October,2456,10
+Barbados,2023,October,1,10
+Belarus,2023,October,824,10
+Belgium,2023,October,666,10
+Belize,2023,October,2,10
+Benin,2023,October,1,10
+Bhutan,2023,October,39,10
+Bolivia,2023,October,5,10
+Bosnia and Herzegovina,2023,October,9,10
+Botswana,2023,October,2,10
+Brazil,2023,October,94,10
+Brunei Darussalam,2023,October,1,10
+Bulgaria,2023,October,94,10
+Burkina Faso,2023,October,2,10
+Burundi,2023,October,2,10
+Cambodia,2023,October,70,10
+Cameroon,2023,October,4,10
+Canada,2023,October,2302,10
+Cape Verde,2023,October,0,10
+Chad,2023,October,0,10
+Central African Republic,2023,October,0,10
+Chile,2023,October,30,10
+China,2023,October,6211,10
+Colombia,2023,October,30,10
+Comoros,2023,October,1,10
+Democratic Republic of the Congo,2023,October,3,10
+Costa Rica,2023,October,8,10
+Cote d'Ivoire,2023,October,3,10
+Croatia,2023,October,104,10
+Cuba,2023,October,4,10
+Cyprus,2023,October,59,10
+Czech Republic,2023,October,681,10
+Denmark,2023,October,556,10
+Djibouti,2023,October,1,10
+Dominica,2023,October,4,10
+Dominican Republic,2023,October,6,10
+Ecuador,2023,October,11,10
+Egypt,2023,October,269,10
+El Salvador,2023,October,1,10
+Eritrea,2023,October,1,10
+Estonia,2023,October,99,10
+Ethiopia,2023,October,11,10
+Fiji,2023,October,16,10
+Finland,2023,October,197,10
+France,2023,October,2956,10
+Gabon,2023,October,0,10
+Gambia,2023,October,4,10
+Georgia,2023,October,88,10
+Germany,2023,October,7548,10
+Ghana,2023,October,3,10
+Greece,2023,October,135,10
+Grenada,2023,October,3,10
+Guatemala,2023,October,5,10
+Guinea,2023,October,1,10
+Guyana,2023,October,2,10
+Haiti,2023,October,1,10
+Honduras,2023,October,1,10
+Hungary,2023,October,211,10
+Iceland,2023,October,17,10
+India,2023,October,28222,10
+Indonesia,2023,October,256,10
+Iran,2023,October,530,10
+Iraq,2023,October,49,10
+Ireland,2023,October,512,10
+Israel,2023,October,460,10
+Italy,2023,October,967,10
+Jamaica,2023,October,7,10
+Japan,2023,October,1295,10
+Jordan,2023,October,218,10
+Kazakhstan,2023,October,166,10
+Kenya,2023,October,42,10
+Kiribati,2023,October,0,10
+Kosovo,2023,October,2,10
+Kuwait,2023,October,85,10
+Kyrgyzstan,2023,October,35,10
+Laos,2023,October,6,10
+Latvia,2023,October,99,10
+Lebanon,2023,October,268,10
+Lesotho,2023,October,0,10
+Liberia,2023,October,0,10
+Libya,2023,October,3,10
+Liechtenstein,2023,October,7,10
+Lithuania,2023,October,226,10
+Luxembourg,2023,October,20,10
+Macedonia,2023,October,29,10
+Madagascar,2023,October,21,10
+Malawi,2023,October,9,10
+Malaysia,2023,October,788,10
+Maldives,2023,October,3862,10
+Mali,2023,October,3,10
+Malta,2023,October,42,10
+Marshall Islands,2023,October,0,10
+Mauritania,2023,October,1,10
+Mauritius,2023,October,22,10
+Mexico,2023,October,54,10
+Moldova,2023,October,14,10
+Monaco,2023,October,0,10
+Mongolia,2023,October,18,10
+Montenegro,2023,October,6,10
+Morocco,2023,October,45,10
+Mozambique,2023,October,7,10
+Myanmar,2023,October,63,10
+Namibia,2023,October,1,10
+Nauru,2023,October,0,10
+Nepal,2023,October,632,10
+Netherlands,2023,October,2117,10
+New Zealand,2023,October,561,10
+Nicaragua,2023,October,1,10
+Niger,2023,October,3,10
+Nigeria,2023,October,15,10
+Norway,2023,October,394,10
+Oman,2023,October,77,10
+Pakistan,2023,October,903,10
+Palau,2023,October,1,10
+Palestinian Territories,2023,October,29,10
+Panama,2023,October,2,10
+Papua New Guinea,2023,October,3,10
+Paraguay,2023,October,3,10
+Peru,2023,October,9,10
+Philippines,2023,October,318,10
+Poland,2023,October,1418,10
+Portugal,2023,October,304,10
+Qatar,2023,October,47,10
+Romania,2023,October,299,10
+Russian Federation,2023,October,10629,10
+Rwanda,2023,October,2,10
+Saint Kitts and Nevis,2023,October,6,10
+Saint Lucia,2023,October,0,10
+Saint Vincent and the Grenadines,2023,October,0,10
+Samoa,2023,October,2,10
+San Marino,2023,October,0,10
+Saudi Arabia,2023,October,290,10
+Senegal,2023,October,8,10
+Serbia,2023,October,82,10
+Seychelles,2023,October,143,10
+Sierra Leone,2023,October,0,10
+Singapore,2023,October,600,10
+Slovakia,2023,October,394,10
+Slovenia,2023,October,203,10
+Solomon Islands,2023,October,0,10
+Somalia,2023,October,12,10
+South Africa,2023,October,232,10
+South Korea,2023,October,604,10
+South Sudan,2023,October,1,10
+Spain,2023,October,2488,10
+Sudan,2023,October,36,10
+Swaziland,2023,October,0,10
+Suriname,2023,October,1,10
+Sweden,2023,October,617,10
+Switzerland,2023,October,1608,10
+Syrian Arab Republic,2023,October,0,10
+Taiwan Province of China,2023,October,761,10
+Tajikistan,2023,October,23,10
+Tanzania,2023,October,17,10
+Thailand,2023,October,394,10
+Timor-Leste,2023,October,0,10
+Togo,2023,October,4,10
+Tonga,2023,October,0,10
+Trinidad and Tobago,2023,October,4,10
+Tunisia,2023,October,65,10
+Turkey,2023,October,349,10
+Turkmenistan,2023,October,9,10
+Tuvalu,2023,October,0,10
+Uganda,2023,October,16,10
+Ukraine,2023,October,305,10
+United Arab Emirates,2023,October,190,10
+United Kingdom,2023,October,8454,10
+United States,2023,October,2651,10
+Uruguay,2023,October,6,10
+Uzbekistan,2023,October,68,10
+Vanuatu,2023,October,2,10
+Venezuela,2023,October,5,10
+Vietnam,2023,October,113,10
+Yemen,2023,October,52,10
+Zambia,2023,October,4,10
+Zimbabwe,2023,October,10,10
+Afghanistan,2024,October,7,10
+Albania,2024,October,8,10
+Algeria,2024,October,26,10
+Andorra,2024,October,14,10
+Angola,2024,October,2,10
+Antigua and Barbuda,2024,October,9,10
+Argentina,2024,October,91,10
+Armenia,2024,October,371,10
+Aruba,2024,October,0,10
+Australia,2024,October,6523,10
+Austria,2024,October,917,10
+Azerbaijan,2024,October,98,10
+Bahamas,2024,October,4,10
+Bahrain,2024,October,64,10
+Bangladesh,2024,October,3732,10
+Barbados,2024,October,7,10
+Belarus,2024,October,504,10
+Belgium,2024,October,847,10
+Belize,2024,October,2,10
+Benin,2024,October,0,10
+Bhutan,2024,October,41,10
+Bolivia,2024,October,3,10
+Bosnia and Herzegovina,2024,October,14,10
+Botswana,2024,October,4,10
+Brazil,2024,October,125,10
+Brunei Darussalam,2024,October,2,10
+Bulgaria,2024,October,233,10
+Burkina Faso,2024,October,2,10
+Burundi,2024,October,0,10
+Cambodia,2024,October,59,10
+Cameroon,2024,October,4,10
+Canada,2024,October,2339,10
+Cape Verde,2024,October,0,10
+Chad,2024,October,1,10
+Central African Republic,2024,October,0,10
+Chile,2024,October,40,10
+China,2024,October,9164,10
+Colombia,2024,October,62,10
+Comoros,2024,October,13,10
+Democratic Republic of the Congo,2024,October,0,10
+Costa Rica,2024,October,5,10
+Cote d'Ivoire,2024,October,2,10
+Croatia,2024,October,110,10
+Cuba,2024,October,4,10
+Cyprus,2024,October,52,10
+Czech Republic,2024,October,729,10
+Denmark,2024,October,739,10
+Djibouti,2024,October,3,10
+Dominica,2024,October,14,10
+Dominican Republic,2024,October,5,10
+Ecuador,2024,October,13,10
+Egypt,2024,October,282,10
+El Salvador,2024,October,2,10
+Equatorial Guinea,2024,October,0,10
+Eritrea,2024,October,1,10
+Estonia,2024,October,131,10
+Ethiopia,2024,October,12,10
+Fiji,2024,October,10,10
+Finland,2024,October,215,10
+France,2024,October,4688,10
+Gabon,2024,October,0,10
+Gambia,2024,October,0,10
+Georgia,2024,October,24,10
+Germany,2024,October,9217,10
+Ghana,2024,October,11,10
+Greece,2024,October,142,10
+Grenada,2024,October,3,10
+Guatemala,2024,October,4,10
+Guinea-Bissau,2024,October,0,10
+Guinea,2024,October,1,10
+Guyana,2024,October,9,10
+Haiti,2024,October,3,10
+Honduras,2024,October,2,10
+Hungary,2024,October,431,10
+Iceland,2024,October,20,10
+India,2024,October,36417,10
+Indonesia,2024,October,297,10
+Iran,2024,October,591,10
+Iraq,2024,October,64,10
+Ireland,2024,October,706,10
+Israel,2024,October,1398,10
+Italy,2024,October,1431,10
+Jamaica,2024,October,9,10
+Japan,2024,October,2392,10
+Jordan,2024,October,315,10
+Kazakhstan,2024,October,213,10
+Kenya,2024,October,42,10
+Kiribati,2024,October,0,10
+Kosovo,2024,October,3,10
+Kuwait,2024,October,70,10
+Kyrgyzstan,2024,October,34,10
+Laos,2024,October,1,10
+Latvia,2024,October,152,10
+Lebanon,2024,October,110,10
+Lesotho,2024,October,0,10
+Liberia,2024,October,2,10
+Libya,2024,October,5,10
+Liechtenstein,2024,October,7,10
+Lithuania,2024,October,285,10
+Luxembourg,2024,October,29,10
+Macedonia,2024,October,30,10
+Madagascar,2024,October,10,10
+Malawi,2024,October,5,10
+Malaysia,2024,October,1013,10
+Maldives,2024,October,2880,10
+Mali,2024,October,1,10
+Malta,2024,October,23,10
+Marshall Islands,2024,October,1,10
+Mauritania,2024,October,2,10
+Mauritius,2024,October,21,10
+Micronesia,2024,October,1,10
+Mexico,2024,October,90,10
+Moldova,2024,October,18,10
+Monaco,2024,October,3,10
+Mongolia,2024,October,2,10
+Montenegro,2024,October,5,10
+Morocco,2024,October,100,10
+Mozambique,2024,October,3,10
+Myanmar,2024,October,82,10
+Namibia,2024,October,1,10
+Nauru,2024,October,0,10
+Nepal,2024,October,552,10
+Netherlands,2024,October,2859,10
+Netherlands Antilles,2024,October,0,10
+New Zealand,2024,October,780,10
+Nicaragua,2024,October,0,10
+Niger,2024,October,0,10
+Nigeria,2024,October,7,10
+Norway,2024,October,442,10
+Oman,2024,October,155,10
+Pakistan,2024,October,1140,10
+Palau,2024,October,0,10
+Palestinian Territories,2024,October,36,10
+Panama,2024,October,3,10
+Papua New Guinea,2024,October,6,10
+Paraguay,2024,October,1,10
+Peru,2024,October,32,10
+Philippines,2024,October,407,10
+Poland,2024,October,2132,10
+Portugal,2024,October,633,10
+Qatar,2024,October,33,10
+Romania,2024,October,354,10
+Russian Federation,2024,October,10367,10
+Rwanda,2024,October,3,10
+Saint Kitts and Nevis,2024,October,9,10
+Saint Lucia,2024,October,15,10
+Saint Vincent and the Grenadines,2024,October,1,10
+Samoa,2024,October,1,10
+San Marino,2024,October,3,10
+Saudi Arabia,2024,October,251,10
+Senegal,2024,October,2,10
+Serbia,2024,October,147,10
+Seychelles,2024,October,143,10
+Sierra Leone,2024,October,2,10
+Singapore,2024,October,717,10
+Slovakia,2024,October,439,10
+Slovenia,2024,October,297,10
+Solomon Islands,2024,October,1,10
+Somalia,2024,October,12,10
+South Africa,2024,October,259,10
+South Korea,2024,October,876,10
+South Sudan,2024,October,3,10
+Spain,2024,October,3458,10
+Sudan,2024,October,112,10
+Swaziland,2024,October,5,10
+Suriname,2024,October,0,10
+Sweden,2024,October,716,10
+Switzerland,2024,October,1816,10
+Syrian Arab Republic,2024,October,1,10
+Tajikistan,2024,October,17,10
+Tanzania,2024,October,18,10
+Thailand,2024,October,581,10
+Timor-Leste,2024,October,1,10
+Togo,2024,October,2,10
+Tonga,2024,October,1,10
+Trinidad and Tobago,2024,October,8,10
+Tunisia,2024,October,165,10
+Turkey,2024,October,409,10
+Turkmenistan,2024,October,21,10
+Tuvalu,2024,October,0,10
+Uganda,2024,October,8,10
+Ukraine,2024,October,350,10
+United Arab Emirates,2024,October,304,10
+United Kingdom,2024,October,10206,10
+United States,2024,October,3170,10
+Uruguay,2024,October,4,10
+Uzbekistan,2024,October,70,10
+Vanuatu,2024,October,6,10
+Venezuela,2024,October,10,10
+Vietnam,2024,October,202,10
+Yemen,2024,October,21,10
+Zambia,2024,October,11,10
+Zimbabwe,2024,October,14,10
+Afghanistan,2025,October,4,10
+Albania,2025,October,10,10
+Algeria,2025,October,38,10
+Andorra,2025,October,0,10
+Angola,2025,October,0,10
+Antigua and Barbuda,2025,October,2,10
+Argentina,2025,October,70,10
+Armenia,2025,October,376,10
+Australia,2025,October,7903,10
+Austria,2025,October,878,10
+Azerbaijan,2025,October,79,10
+Bahamas,2025,October,13,10
+Bahrain,2025,October,61,10
+Bangladesh,2025,October,5521,10
+Barbados,2025,October,0,10
+Belarus,2025,October,719,10
+Belgium,2025,October,877,10
+Belize,2025,October,2,10
+Benin,2025,October,6,10
+Bhutan,2025,October,51,10
+Bolivia,2025,October,5,10
+Bosnia and Herzegovina,2025,October,20,10
+Botswana,2025,October,1,10
+Brazil,2025,October,156,10
+Brunei Darussalam,2025,October,1,10
+Bulgaria,2025,October,228,10
+Burkina Faso,2025,October,0,10
+Burundi,2025,October,0,10
+Cambodia,2025,October,29,10
+Cameroon,2025,October,0,10
+Canada,2025,October,2444,10
+Cape Verde,2025,October,2,10
+Central African Republic,2025,October,0,10
+Chad,2025,October,1,10
+Chile,2025,October,54,10
+China,2025,October,10864,10
+Republic of the Congo,2025,October,0,10
+Colombia,2025,October,67,10
+Comoros,2025,October,11,10
+Democratic Republic of the Congo,2025,October,2,10
+Costa Rica,2025,October,11,10
+Cote d'Ivoire,2025,October,1,10
+Croatia,2025,October,104,10
+Cuba,2025,October,3,10
+Cyprus,2025,October,75,10
+Czech Republic,2025,October,875,10
+Denmark,2025,October,969,10
+Djibouti,2025,October,0,10
+Dominica,2025,October,14,10
+Dominican Republic,2025,October,4,10
+Ecuador,2025,October,10,10
+Egypt,2025,October,305,10
+El Salvador,2025,October,1,10
+Eritrea,2025,October,2,10
+Equatorial Guinea,2025,October,0,10
+Estonia,2025,October,176,10
+Ethiopia,2025,October,17,10
+Fiji,2025,October,25,10
+Finland,2025,October,450,10
+France,2025,October,5157,10
+Gabon,2025,October,0,10
+Gambia,2025,October,1,10
+Georgia,2025,October,25,10
+Germany,2025,October,9753,10
+Ghana,2025,October,4,10
+Greece,2025,October,269,10
+Grenada,2025,October,2,10
+Guatemala,2025,October,9,10
+Guinea,2025,October,0,10
+Guinea-Bissau,2025,October,1,10
+Guyana,2025,October,1,10
+Haiti,2025,October,0,10
+Honduras,2025,October,4,10
+Hungary,2025,October,434,10
+Iceland,2025,October,10,10
+India,2025,October,48113,10
+Indonesia,2025,October,356,10
+Iran,2025,October,632,10
+Iraq,2025,October,194,10
+Ireland,2025,October,767,10
+Israel,2025,October,1929,10
+Italy,2025,October,1913,10
+Jamaica,2025,October,5,10
+Japan,2025,October,2253,10
+Jordan,2025,October,254,10
+Kazakhstan,2025,October,246,10
+Kenya,2025,October,88,10
+Kiribati,2025,October,0,10
+Kosovo,2025,October,2,10
+Kuwait,2025,October,111,10
+Kyrgyzstan,2025,October,33,10
+Laos,2025,October,7,10
+Latvia,2025,October,165,10
+Lebanon,2025,October,242,10
+Lesotho,2025,October,1,10
+Liberia,2025,October,0,10
+Libya,2025,October,9,10
+Liechtenstein,2025,October,2,10
+Lithuania,2025,October,271,10
+Luxembourg,2025,October,21,10
+Macedonia,2025,October,39,10
+Madagascar,2025,October,3,10
+Malawi,2025,October,5,10
+Malaysia,2025,October,1810,10
+Maldives,2025,October,2780,10
+Mali,2025,October,1,10
+Malta,2025,October,25,10
+Marshall Islands,2025,October,0,10
+Mauritania,2025,October,1,10
+Mauritius,2025,October,69,10
+Mexico,2025,October,94,10
+Moldova,2025,October,46,10
+Monaco,2025,October,0,10
+Mongolia,2025,October,17,10
+Montenegro,2025,October,17,10
+Morocco,2025,October,82,10
+Mozambique,2025,October,1,10
+Myanmar,2025,October,172,10
+Namibia,2025,October,0,10
+Nauru,2025,October,0,10
+Nepal,2025,October,455,10
+Netherlands,2025,October,3441,10
+New Zealand,2025,October,1069,10
+Nicaragua,2025,October,1,10
+Niger,2025,October,0,10
+Nigeria,2025,October,39,10
+North Korea,2025,October,2,10
+Norway,2025,October,574,10
+Oman,2025,October,200,10
+Pakistan,2025,October,1677,10
+Palau,2025,October,0,10
+Palestinian Territories,2025,October,38,10
+Panama,2025,October,2,10
+Papua New Guinea,2025,October,13,10
+Paraguay,2025,October,4,10
+Peru,2025,October,16,10
+Philippines,2025,October,588,10
+Poland,2025,October,2182,10
+Portugal,2025,October,492,10
+Qatar,2025,October,38,10
+Romania,2025,October,352,10
+Russian Federation,2025,October,11496,10
+Rwanda,2025,October,1,10
+Saint Kitts and Nevis,2025,October,14,10
+Saint Lucia,2025,October,2,10
+Saint Barthelemy,2025,October,0,10
+Saint Vincent and the Grenadines,2025,October,0,10
+Samoa,2025,October,0,10
+San Marino,2025,October,1,10
+Sao Tome and Principe,2025,October,0,10
+Saudi Arabia,2025,October,321,10
+Senegal,2025,October,2,10
+Serbia,2025,October,154,10
+Seychelles,2025,October,159,10
+Sierra Leone,2025,October,1,10
+Singapore,2025,October,1011,10
+Slovakia,2025,October,385,10
+Slovenia,2025,October,268,10
+Solomon Islands,2025,October,2,10
+Somalia,2025,October,10,10
+South Africa,2025,October,437,10
+South Korea,2025,October,1105,10
+South Sudan,2025,October,0,10
+Spain,2025,October,3692,10
+Sudan,2025,October,90,10
+Suriname,2025,October,0,10
+Swaziland,2025,October,0,10
+Sweden,2025,October,861,10
+Switzerland,2025,October,2079,10
+Syrian Arab Republic,2025,October,0,10
+Tajikistan,2025,October,17,10
+Tanzania,2025,October,20,10
+Thailand,2025,October,724,10
+Timor-Leste,2025,October,9,10
+Togo,2025,October,1,10
+Tonga,2025,October,0,10
+Trinidad and Tobago,2025,October,10,10
+Tunisia,2025,October,77,10
+Turkey,2025,October,583,10
+Turkmenistan,2025,October,40,10
+Tuvalu,2025,October,0,10
+Uganda,2025,October,22,10
+Ukraine,2025,October,529,10
+United Arab Emirates,2025,October,532,10
+United Kingdom,2025,October,12934,10
+United States,2025,October,3991,10
+Uruguay,2025,October,14,10
+Uzbekistan,2025,October,81,10
+Vanuatu,2025,October,11,10
+Vatican City,2025,October,0,10
+Venezuela,2025,October,5,10
+Vietnam,2025,October,273,10
+Yemen,2025,October,40,10
+Zambia,2025,October,7,10
+Zimbabwe,2025,October,16,10
+Afghanistan,2023,November,25,11
+Albania,2023,November,8,11
+Algeria,2023,November,27,11
+Andorra,2023,November,1,11
+Angola,2023,November,1,11
+Antigua and Barbuda,2023,November,2,11
+Argentina,2023,November,56,11
+Armenia,2023,November,324,11
+Aruba,2023,November,0,11
+Australia,2023,November,7900,11
+Austria,2023,November,1212,11
+Azerbaijan,2023,November,195,11
+Bahamas,2023,November,1,11
+Bahrain,2023,November,82,11
+Bangladesh,2023,November,2674,11
+Barbados,2023,November,2,11
+Belarus,2023,November,1508,11
+Belgium,2023,November,769,11
+Belize,2023,November,0,11
+Benin,2023,November,0,11
+Bhutan,2023,November,33,11
+Bolivia,2023,November,3,11
+Bosnia and Herzegovina,2023,November,14,11
+Botswana,2023,November,3,11
+Brazil,2023,November,117,11
+Brunei Darussalam,2023,November,6,11
+Bulgaria,2023,November,234,11
+Burkina Faso,2023,November,0,11
+Burundi,2023,November,2,11
+Cambodia,2023,November,42,11
+Cameroon,2023,November,3,11
+Canada,2023,November,2678,11
+Cape Verde,2023,November,0,11
+Chad,2023,November,0,11
+Central African Republic,2023,November,1,11
+Chile,2023,November,31,11
+China,2023,November,6673,11
+Colombia,2023,November,56,11
+Comoros,2023,November,5,11
+Democratic Republic of the Congo,2023,November,0,11
+Costa Rica,2023,November,6,11
+Cote d'Ivoire,2023,November,1,11
+Croatia,2023,November,111,11
+Cuba,2023,November,7,11
+Cyprus,2023,November,71,11
+Czech Republic,2023,November,2373,11
+Denmark,2023,November,764,11
+Djibouti,2023,November,1,11
+Dominica,2023,November,3,11
+Dominican Republic,2023,November,4,11
+Ecuador,2023,November,12,11
+Egypt,2023,November,344,11
+El Salvador,2023,November,3,11
+Eritrea,2023,November,1,11
+Estonia,2023,November,229,11
+Ethiopia,2023,November,12,11
+Fiji,2023,November,19,11
+Finland,2023,November,352,11
+France,2023,November,3882,11
+Gabon,2023,November,0,11
+Gambia,2023,November,1,11
+Georgia,2023,November,79,11
+Germany,2023,November,12331,11
+Ghana,2023,November,14,11
+Greece,2023,November,187,11
+Grenada,2023,November,3,11
+Guatemala,2023,November,10,11
+Guinea,2023,November,1,11
+Guyana,2023,November,3,11
+Haiti,2023,November,2,11
+Honduras,2023,November,6,11
+Hungary,2023,November,505,11
+Iceland,2023,November,19,11
+India,2023,November,30339,11
+Indonesia,2023,November,217,11
+Iran,2023,November,783,11
+Iraq,2023,November,37,11
+Ireland,2023,November,489,11
+Israel,2023,November,187,11
+Italy,2023,November,1662,11
+Jamaica,2023,November,5,11
+Japan,2023,November,2875,11
+Jordan,2023,November,152,11
+Kazakhstan,2023,November,193,11
+Kenya,2023,November,30,11
+Kiribati,2023,November,0,11
+Kosovo,2023,November,3,11
+Kuwait,2023,November,66,11
+Kyrgyzstan,2023,November,79,11
+Laos,2023,November,10,11
+Latvia,2023,November,293,11
+Lebanon,2023,November,171,11
+Lesotho,2023,November,0,11
+Liberia,2023,November,1,11
+Libya,2023,November,7,11
+Liechtenstein,2023,November,8,11
+Lithuania,2023,November,396,11
+Luxembourg,2023,November,29,11
+Macedonia,2023,November,16,11
+Madagascar,2023,November,13,11
+Malawi,2023,November,7,11
+Malaysia,2023,November,1084,11
+Maldives,2023,November,2420,11
+Mali,2023,November,2,11
+Malta,2023,November,37,11
+Marshall Islands,2023,November,0,11
+Mauritania,2023,November,1,11
+Mauritius,2023,November,40,11
+Mexico,2023,November,82,11
+Moldova,2023,November,49,11
+Monaco,2023,November,0,11
+Mongolia,2023,November,14,11
+Montenegro,2023,November,6,11
+Morocco,2023,November,64,11
+Mozambique,2023,November,3,11
+Myanmar,2023,November,138,11
+Namibia,2023,November,3,11
+Nauru,2023,November,0,11
+Nepal,2023,November,411,11
+Netherlands,2023,November,2370,11
+New Zealand,2023,November,749,11
+Nicaragua,2023,November,1,11
+Niger,2023,November,0,11
+Nigeria,2023,November,13,11
+Norway,2023,November,622,11
+Oman,2023,November,122,11
+Pakistan,2023,November,962,11
+Palau,2023,November,0,11
+Palestinian Territories,2023,November,26,11
+Panama,2023,November,3,11
+Papua New Guinea,2023,November,0,11
+Paraguay,2023,November,0,11
+Peru,2023,November,20,11
+Philippines,2023,November,296,11
+Poland,2023,November,3343,11
+Portugal,2023,November,557,11
+Qatar,2023,November,27,11
+Romania,2023,November,516,11
+Russian Federation,2023,November,24912,11
+Rwanda,2023,November,2,11
+Saint Kitts and Nevis,2023,November,8,11
+Saint Lucia,2023,November,2,11
+Saint Vincent and the Grenadines,2023,November,0,11
+Samoa,2023,November,0,11
+San Marino,2023,November,2,11
+Saudi Arabia,2023,November,872,11
+Senegal,2023,November,2,11
+Serbia,2023,November,164,11
+Seychelles,2023,November,103,11
+Sierra Leone,2023,November,1,11
+Singapore,2023,November,1140,11
+Slovakia,2023,November,617,11
+Slovenia,2023,November,195,11
+Solomon Islands,2023,November,1,11
+Somalia,2023,November,2,11
+South Africa,2023,November,274,11
+South Korea,2023,November,867,11
+South Sudan,2023,November,2,11
+Spain,2023,November,2673,11
+Sudan,2023,November,145,11
+Swaziland,2023,November,2,11
+Suriname,2023,November,1,11
+Sweden,2023,November,948,11
+Switzerland,2023,November,1970,11
+Syrian Arab Republic,2023,November,0,11
+Taiwan Province of China,2023,November,553,11
+Tajikistan,2023,November,7,11
+Tanzania,2023,November,8,11
+Thailand,2023,November,380,11
+Timor-Leste,2023,November,4,11
+Togo,2023,November,0,11
+Tonga,2023,November,0,11
+Trinidad and Tobago,2023,November,5,11
+Tunisia,2023,November,45,11
+Turkey,2023,November,566,11
+Turkmenistan,2023,November,13,11
+Tuvalu,2023,November,0,11
+Uganda,2023,November,9,11
+Ukraine,2023,November,479,11
+United Arab Emirates,2023,November,148,11
+United Kingdom,2023,November,11526,11
+United States,2023,November,4299,11
+Uruguay,2023,November,6,11
+Uzbekistan,2023,November,51,11
+Vanuatu,2023,November,4,11
+Venezuela,2023,November,11,11
+Vietnam,2023,November,335,11
+Yemen,2023,November,34,11
+Zambia,2023,November,1,11
+Zimbabwe,2023,November,14,11
+Afghanistan,2024,November,5,11
+Albania,2024,November,10,11
+Algeria,2024,November,28,11
+Andorra,2024,November,3,11
+Angola,2024,November,3,11
+Antigua and Barbuda,2024,November,3,11
+Argentina,2024,November,66,11
+Armenia,2024,November,229,11
+Aruba,2024,November,0,11
+Australia,2024,November,7937,11
+Austria,2024,November,1705,11
+Azerbaijan,2024,November,438,11
+Bahamas,2024,November,1,11
+Bahrain,2024,November,86,11
+Bangladesh,2024,November,3375,11
+Barbados,2024,November,1,11
+Belarus,2024,November,1429,11
+Belgium,2024,November,1390,11
+Belize,2024,November,2,11
+Benin,2024,November,3,11
+Bhutan,2024,November,80,11
+Bolivia,2024,November,7,11
+Bosnia and Herzegovina,2024,November,18,11
+Botswana,2024,November,1,11
+Brazil,2024,November,186,11
+Brunei Darussalam,2024,November,1,11
+Bulgaria,2024,November,488,11
+Burkina Faso,2024,November,0,11
+Burundi,2024,November,1,11
+Cambodia,2024,November,53,11
+Cameroon,2024,November,2,11
+Canada,2024,November,3085,11
+Cape Verde,2024,November,0,11
+Chad,2024,November,0,11
+Central African Republic,2024,November,0,11
+Chile,2024,November,34,11
+China,2024,November,8371,11
+Colombia,2024,November,52,11
+Comoros,2024,November,4,11
+Democratic Republic of the Congo,2024,November,4,11
+Costa Rica,2024,November,9,11
+Cote d'Ivoire,2024,November,5,11
+Croatia,2024,November,217,11
+Cuba,2024,November,3,11
+Cyprus,2024,November,50,11
+Czech Republic,2024,November,1357,11
+Denmark,2024,November,1036,11
+Djibouti,2024,November,0,11
+Dominica,2024,November,18,11
+Dominican Republic,2024,November,0,11
+Ecuador,2024,November,7,11
+Egypt,2024,November,456,11
+El Salvador,2024,November,2,11
+Equatorial Guinea,2024,November,0,11
+Eritrea,2024,November,3,11
+Estonia,2024,November,234,11
+Ethiopia,2024,November,9,11
+Fiji,2024,November,26,11
+Finland,2024,November,534,11
+France,2024,November,6665,11
+Gabon,2024,November,0,11
+Gambia,2024,November,1,11
+Georgia,2024,November,99,11
+Germany,2024,November,12593,11
+Ghana,2024,November,8,11
+Greece,2024,November,260,11
+Grenada,2024,November,7,11
+Guatemala,2024,November,6,11
+Guinea-Bissau,2024,November,0,11
+Guinea,2024,November,0,11
+Guyana,2024,November,2,11
+Haiti,2024,November,9,11
+Honduras,2024,November,2,11
+Hungary,2024,November,648,11
+Iceland,2024,November,58,11
+India,2024,November,41120,11
+Indonesia,2024,November,532,11
+Iran,2024,November,804,11
+Iraq,2024,November,79,11
+Ireland,2024,November,703,11
+Israel,2024,November,878,11
+Italy,2024,November,2237,11
+Jamaica,2024,November,5,11
+Japan,2024,November,2178,11
+Jordan,2024,November,224,11
+Kazakhstan,2024,November,289,11
+Kenya,2024,November,62,11
+Kiribati,2024,November,0,11
+Kosovo,2024,November,4,11
+Kuwait,2024,November,96,11
+Kyrgyzstan,2024,November,95,11
+Laos,2024,November,11,11
+Latvia,2024,November,435,11
+Lebanon,2024,November,332,11
+Lesotho,2024,November,0,11
+Liberia,2024,November,2,11
+Libya,2024,November,5,11
+Liechtenstein,2024,November,14,11
+Lithuania,2024,November,488,11
+Luxembourg,2024,November,62,11
+Macedonia,2024,November,15,11
+Madagascar,2024,November,15,11
+Malawi,2024,November,11,11
+Malaysia,2024,November,1467,11
+Maldives,2024,November,2982,11
+Mali,2024,November,0,11
+Malta,2024,November,53,11
+Marshall Islands,2024,November,0,11
+Mauritania,2024,November,0,11
+Mauritius,2024,November,120,11
+Micronesia,2024,November,0,11
+Mexico,2024,November,87,11
+Moldova,2024,November,55,11
+Monaco,2024,November,0,11
+Mongolia,2024,November,15,11
+Montenegro,2024,November,12,11
+Morocco,2024,November,74,11
+Mozambique,2024,November,1,11
+Myanmar,2024,November,65,11
+Namibia,2024,November,2,11
+Nauru,2024,November,0,11
+Nepal,2024,November,386,11
+Netherlands,2024,November,3387,11
+Netherlands Antilles,2024,November,1,11
+New Zealand,2024,November,915,11
+Nicaragua,2024,November,1,11
+Niger,2024,November,0,11
+Nigeria,2024,November,19,11
+Norway,2024,November,783,11
+Oman,2024,November,170,11
+Pakistan,2024,November,1148,11
+Palau,2024,November,0,11
+Palestinian Territories,2024,November,63,11
+Panama,2024,November,1,11
+Papua New Guinea,2024,November,7,11
+Paraguay,2024,November,3,11
+Peru,2024,November,23,11
+Philippines,2024,November,398,11
+Poland,2024,November,5164,11
+Portugal,2024,November,856,11
+Qatar,2024,November,34,11
+Romania,2024,November,531,11
+Russian Federation,2024,November,29053,11
+Rwanda,2024,November,5,11
+Saint Kitts and Nevis,2024,November,14,11
+Saint Lucia,2024,November,0,11
+Saint Vincent and the Grenadines,2024,November,0,11
+Samoa,2024,November,0,11
+San Marino,2024,November,8,11
+Saudi Arabia,2024,November,644,11
+Senegal,2024,November,4,11
+Serbia,2024,November,181,11
+Seychelles,2024,November,167,11
+Sierra Leone,2024,November,2,11
+Singapore,2024,November,1197,11
+Slovakia,2024,November,736,11
+Slovenia,2024,November,200,11
+Solomon Islands,2024,November,2,11
+Somalia,2024,November,8,11
+South Africa,2024,November,320,11
+South Korea,2024,November,1188,11
+South Sudan,2024,November,1,11
+Spain,2024,November,3655,11
+Sudan,2024,November,110,11
+Swaziland,2024,November,4,11
+Suriname,2024,November,2,11
+Sweden,2024,November,1132,11
+Switzerland,2024,November,2490,11
+Syrian Arab Republic,2024,November,1,11
+Tajikistan,2024,November,15,11
+Tanzania,2024,November,29,11
+Thailand,2024,November,622,11
+Timor-Leste,2024,November,4,11
+Togo,2024,November,1,11
+Tonga,2024,November,3,11
+Trinidad and Tobago,2024,November,14,11
+Tunisia,2024,November,42,11
+Turkey,2024,November,620,11
+Turkmenistan,2024,November,6,11
+Tuvalu,2024,November,0,11
+Uganda,2024,November,15,11
+Ukraine,2024,November,554,11
+United Arab Emirates,2024,November,282,11
+United Kingdom,2024,November,12912,11
+United States,2024,November,4472,11
+Uruguay,2024,November,6,11
+Uzbekistan,2024,November,56,11
+Vanuatu,2024,November,3,11
+Venezuela,2024,November,14,11
+Vietnam,2024,November,346,11
+Yemen,2024,November,40,11
+Zambia,2024,November,8,11
+Zimbabwe,2024,November,26,11
+Afghanistan,2025,November,3,11
+Albania,2025,November,11,11
+Algeria,2025,November,48,11
+Andorra,2025,November,6,11
+Angola,2025,November,2,11
+Antigua and Barbuda,2025,November,2,11
+Argentina,2025,November,110,11
+Armenia,2025,November,320,11
+Australia,2025,November,9384,11
+Austria,2025,November,1766,11
+Azerbaijan,2025,November,200,11
+Bahamas,2025,November,2,11
+Bahrain,2025,November,105,11
+Bangladesh,2025,November,4151,11
+Barbados,2025,November,2,11
+Belarus,2025,November,1820,11
+Belgium,2025,November,1572,11
+Belize,2025,November,0,11
+Benin,2025,November,2,11
+Bhutan,2025,November,58,11
+Bolivia,2025,November,3,11
+Bosnia and Herzegovina,2025,November,22,11
+Botswana,2025,November,1,11
+Brazil,2025,November,257,11
+Brunei Darussalam,2025,November,3,11
+Bulgaria,2025,November,557,11
+Burkina Faso,2025,November,1,11
+Burundi,2025,November,1,11
+Cambodia,2025,November,59,11
+Cameroon,2025,November,0,11
+Canada,2025,November,3327,11
+Cape Verde,2025,November,0,11
+Central African Republic,2025,November,0,11
+Chad,2025,November,0,11
+Chile,2025,November,70,11
+China,2025,November,9217,11
+Republic of the Congo,2025,November,2,11
+Colombia,2025,November,73,11
+Comoros,2025,November,14,11
+Democratic Republic of the Congo,2025,November,2,11
+Costa Rica,2025,November,7,11
+Cote d'Ivoire,2025,November,1,11
+Croatia,2025,November,279,11
+Cuba,2025,November,2,11
+Cyprus,2025,November,88,11
+Czech Republic,2025,November,2014,11
+Denmark,2025,November,1146,11
+Djibouti,2025,November,2,11
+Dominica,2025,November,17,11
+Dominican Republic,2025,November,9,11
+Ecuador,2025,November,16,11
+Egypt,2025,November,450,11
+El Salvador,2025,November,4,11
+Eritrea,2025,November,1,11
+Equatorial Guinea,2025,November,0,11
+Estonia,2025,November,432,11
+Ethiopia,2025,November,8,11
+Fiji,2025,November,19,11
+Finland,2025,November,704,11
+France,2025,November,8459,11
+Gabon,2025,November,1,11
+Gambia,2025,November,0,11
+Georgia,2025,November,147,11
+Germany,2025,November,14518,11
+Ghana,2025,November,6,11
+Greece,2025,November,509,11
+Grenada,2025,November,7,11
+Guatemala,2025,November,8,11
+Guinea,2025,November,0,11
+Guinea-Bissau,2025,November,0,11
+Guyana,2025,November,2,11
+Haiti,2025,November,2,11
+Honduras,2025,November,4,11
+Hungary,2025,November,529,11
+Iceland,2025,November,45,11
+India,2025,November,51391,11
+Indonesia,2025,November,616,11
+Iran,2025,November,1051,11
+Iraq,2025,November,101,11
+Ireland,2025,November,983,11
+Israel,2025,November,1594,11
+Italy,2025,November,3005,11
+Jamaica,2025,November,3,11
+Japan,2025,November,2704,11
+Jordan,2025,November,351,11
+Kazakhstan,2025,November,298,11
+Kenya,2025,November,61,11
+Kiribati,2025,November,0,11
+Kosovo,2025,November,16,11
+Kuwait,2025,November,99,11
+Kyrgyzstan,2025,November,79,11
+Laos,2025,November,9,11
+Latvia,2025,November,336,11
+Lebanon,2025,November,333,11
+Lesotho,2025,November,0,11
+Liberia,2025,November,3,11
+Libya,2025,November,2,11
+Liechtenstein,2025,November,9,11
+Lithuania,2025,November,507,11
+Luxembourg,2025,November,88,11
+Macedonia,2025,November,12,11
+Madagascar,2025,November,9,11
+Malawi,2025,November,3,11
+Malaysia,2025,November,2155,11
+Maldives,2025,November,2357,11
+Mali,2025,November,0,11
+Malta,2025,November,87,11
+Marshall Islands,2025,November,0,11
+Mauritania,2025,November,0,11
+Mauritius,2025,November,180,11
+Mexico,2025,November,153,11
+Moldova,2025,November,67,11
+Monaco,2025,November,2,11
+Mongolia,2025,November,29,11
+Montenegro,2025,November,31,11
+Morocco,2025,November,91,11
+Mozambique,2025,November,3,11
+Myanmar,2025,November,380,11
+Namibia,2025,November,0,11
+Nauru,2025,November,0,11
+Nepal,2025,November,455,11
+Netherlands,2025,November,3938,11
+New Zealand,2025,November,1126,11
+Nicaragua,2025,November,1,11
+Niger,2025,November,0,11
+Nigeria,2025,November,10,11
+North Korea,2025,November,0,11
+Norway,2025,November,968,11
+Oman,2025,November,170,11
+Pakistan,2025,November,1721,11
+Palau,2025,November,0,11
+Palestinian Territories,2025,November,71,11
+Panama,2025,November,7,11
+Papua New Guinea,2025,November,5,11
+Paraguay,2025,November,1,11
+Peru,2025,November,24,11
+Philippines,2025,November,580,11
+Poland,2025,November,5331,11
+Portugal,2025,November,1021,11
+Qatar,2025,November,36,11
+Romania,2025,November,451,11
+Russian Federation,2025,November,24953,11
+Rwanda,2025,November,0,11
+Saint Kitts and Nevis,2025,November,22,11
+Saint Lucia,2025,November,1,11
+Saint Barthelemy,2025,November,0,11
+Saint Vincent and the Grenadines,2025,November,0,11
+Samoa,2025,November,1,11
+San Marino,2025,November,4,11
+Sao Tome and Principe,2025,November,0,11
+Saudi Arabia,2025,November,825,11
+Senegal,2025,November,2,11
+Serbia,2025,November,256,11
+Seychelles,2025,November,241,11
+Sierra Leone,2025,November,1,11
+Singapore,2025,November,1277,11
+Slovakia,2025,November,830,11
+Slovenia,2025,November,249,11
+Solomon Islands,2025,November,3,11
+Somalia,2025,November,4,11
+South Africa,2025,November,396,11
+South Korea,2025,November,1042,11
+South Sudan,2025,November,0,11
+Spain,2025,November,4666,11
+Sudan,2025,November,172,11
+Suriname,2025,November,0,11
+Swaziland,2025,November,0,11
+Sweden,2025,November,1283,11
+Switzerland,2025,November,3232,11
+Syrian Arab Republic,2025,November,2,11
+Tajikistan,2025,November,19,11
+Tanzania,2025,November,24,11
+Thailand,2025,November,831,11
+Timor-Leste,2025,November,6,11
+Togo,2025,November,3,11
+Tonga,2025,November,0,11
+Trinidad and Tobago,2025,November,17,11
+Tunisia,2025,November,72,11
+Turkey,2025,November,766,11
+Turkmenistan,2025,November,6,11
+Tuvalu,2025,November,0,11
+Uganda,2025,November,20,11
+Ukraine,2025,November,895,11
+United Arab Emirates,2025,November,430,11
+United Kingdom,2025,November,16915,11
+United States,2025,November,5284,11
+Uruguay,2025,November,8,11
+Uzbekistan,2025,November,59,11
+Vanuatu,2025,November,6,11
+Vatican City,2025,November,0,11
+Venezuela,2025,November,10,11
+Vietnam,2025,November,292,11
+Yemen,2025,November,40,11
+Zambia,2025,November,6,11
+Zimbabwe,2025,November,12,11
+Afghanistan,2023,December,16,12
+Albania,2023,December,12,12
+Algeria,2023,December,29,12
+Andorra,2023,December,6,12
+Angola,2023,December,5,12
+Antigua and Barbuda,2023,December,3,12
+Argentina,2023,December,67,12
+Armenia,2023,December,653,12
+Aruba,2023,December,1,12
+Australia,2023,December,10847,12
+Austria,2023,December,1883,12
+Azerbaijan,2023,December,194,12
+Bahamas,2023,December,5,12
+Bahrain,2023,December,104,12
+Bangladesh,2023,December,3185,12
+Barbados,2023,December,0,12
+Belarus,2023,December,1566,12
+Belgium,2023,December,995,12
+Belize,2023,December,0,12
+Benin,2023,December,3,12
+Bhutan,2023,December,68,12
+Bolivia,2023,December,4,12
+Bosnia and Herzegovina,2023,December,50,12
+Botswana,2023,December,21,12
+Brazil,2023,December,236,12
+Brunei Darussalam,2023,December,3,12
+Bulgaria,2023,December,555,12
+Burkina Faso,2023,December,0,12
+Burundi,2023,December,1,12
+Cambodia,2023,December,28,12
+Cameroon,2023,December,1,12
+Canada,2023,December,3640,12
+Cape Verde,2023,December,0,12
+Chad,2023,December,0,12
+Central African Republic,2023,December,1,12
+Chile,2023,December,41,12
+China,2023,December,8274,12
+Colombia,2023,December,79,12
+Comoros,2023,December,2,12
+Democratic Republic of the Congo,2023,December,1,12
+Costa Rica,2023,December,10,12
+Cote d'Ivoire,2023,December,0,12
+Croatia,2023,December,172,12
+Cuba,2023,December,6,12
+Cyprus,2023,December,95,12
+Czech Republic,2023,December,2466,12
+Denmark,2023,December,1440,12
+Djibouti,2023,December,1,12
+Dominica,2023,December,20,12
+Dominican Republic,2023,December,2,12
+Ecuador,2023,December,12,12
+Egypt,2023,December,472,12
+El Salvador,2023,December,4,12
+Eritrea,2023,December,0,12
+Estonia,2023,December,706,12
+Ethiopia,2023,December,19,12
+Fiji,2023,December,40,12
+Finland,2023,December,473,12
+France,2023,December,5509,12
+Gabon,2023,December,0,12
+Gambia,2023,December,7,12
+Georgia,2023,December,83,12
+Germany,2023,December,13747,12
+Ghana,2023,December,2,12
+Greece,2023,December,344,12
+Grenada,2023,December,2,12
+Guatemala,2023,December,6,12
+Guinea,2023,December,1,12
+Guyana,2023,December,1,12
+Haiti,2023,December,2,12
+Honduras,2023,December,2,12
+Hungary,2023,December,1040,12
+Iceland,2023,December,39,12
+India,2023,December,43973,12
+Indonesia,2023,December,277,12
+Iran,2023,December,900,12
+Iraq,2023,December,94,12
+Ireland,2023,December,852,12
+Israel,2023,December,421,12
+Italy,2023,December,3389,12
+Jamaica,2023,December,10,12
+Japan,2023,December,2554,12
+Jordan,2023,December,304,12
+Kazakhstan,2023,December,2399,12
+Kenya,2023,December,126,12
+Kiribati,2023,December,0,12
+Kosovo,2023,December,4,12
+Kuwait,2023,December,150,12
+Kyrgyzstan,2023,December,238,12
+Laos,2023,December,10,12
+Latvia,2023,December,476,12
+Lebanon,2023,December,484,12
+Lesotho,2023,December,0,12
+Liberia,2023,December,0,12
+Libya,2023,December,4,12
+Liechtenstein,2023,December,8,12
+Lithuania,2023,December,490,12
+Luxembourg,2023,December,62,12
+Macedonia,2023,December,37,12
+Madagascar,2023,December,20,12
+Malawi,2023,December,4,12
+Malaysia,2023,December,1784,12
+Maldives,2023,December,5968,12
+Mali,2023,December,1,12
+Malta,2023,December,163,12
+Marshall Islands,2023,December,0,12
+Mauritania,2023,December,3,12
+Mauritius,2023,December,194,12
+Mexico,2023,December,147,12
+Moldova,2023,December,89,12
+Monaco,2023,December,4,12
+Mongolia,2023,December,5,12
+Montenegro,2023,December,4,12
+Morocco,2023,December,134,12
+Mozambique,2023,December,2,12
+Myanmar,2023,December,103,12
+Namibia,2023,December,3,12
+Nauru,2023,December,0,12
+Nepal,2023,December,468,12
+Netherlands,2023,December,2672,12
+New Zealand,2023,December,1343,12
+Nicaragua,2023,December,1,12
+Niger,2023,December,0,12
+Nigeria,2023,December,6,12
+Norway,2023,December,1035,12
+Oman,2023,December,108,12
+Pakistan,2023,December,1168,12
+Palau,2023,December,0,12
+Palestinian Territories,2023,December,43,12
+Panama,2023,December,1,12
+Papua New Guinea,2023,December,16,12
+Paraguay,2023,December,0,12
+Peru,2023,December,22,12
+Philippines,2023,December,448,12
+Poland,2023,December,3217,12
+Portugal,2023,December,527,12
+Qatar,2023,December,33,12
+Romania,2023,December,955,12
+Russian Federation,2023,December,29657,12
+Rwanda,2023,December,7,12
+Saint Kitts and Nevis,2023,December,10,12
+Saint Lucia,2023,December,1,12
+Saint Vincent and the Grenadines,2023,December,0,12
+Samoa,2023,December,0,12
+San Marino,2023,December,0,12
+Saudi Arabia,2023,December,293,12
+Senegal,2023,December,2,12
+Serbia,2023,December,215,12
+Seychelles,2023,December,275,12
+Sierra Leone,2023,December,0,12
+Singapore,2023,December,1601,12
+Slovakia,2023,December,462,12
+Slovenia,2023,December,227,12
+Solomon Islands,2023,December,1,12
+Somalia,2023,December,9,12
+South Africa,2023,December,901,12
+South Korea,2023,December,957,12
+South Sudan,2023,December,0,12
+Spain,2023,December,2667,12
+Sudan,2023,December,65,12
+Swaziland,2023,December,5,12
+Suriname,2023,December,0,12
+Sweden,2023,December,2118,12
+Switzerland,2023,December,2654,12
+Syrian Arab Republic,2023,December,0,12
+Taiwan Province of China,2023,December,374,12
+Tajikistan,2023,December,27,12
+Tanzania,2023,December,23,12
+Thailand,2023,December,637,12
+Timor-Leste,2023,December,0,12
+Togo,2023,December,0,12
+Tonga,2023,December,0,12
+Trinidad and Tobago,2023,December,10,12
+Tunisia,2023,December,107,12
+Turkey,2023,December,515,12
+Turkmenistan,2023,December,23,12
+Tuvalu,2023,December,0,12
+Uganda,2023,December,7,12
+Ukraine,2023,December,1042,12
+United Arab Emirates,2023,December,342,12
+United Kingdom,2023,December,19265,12
+United States,2023,December,8044,12
+Uruguay,2023,December,3,12
+Uzbekistan,2023,December,242,12
+Vanuatu,2023,December,7,12
+Venezuela,2023,December,13,12
+Vietnam,2023,December,202,12
+Yemen,2023,December,44,12
+Zambia,2023,December,6,12
+Zimbabwe,2023,December,37,12
+Afghanistan,2024,December,61,12
+Albania,2024,December,15,12
+Algeria,2024,December,37,12
+Andorra,2024,December,13,12
+Angola,2024,December,0,12
+Antigua and Barbuda,2024,December,9,12
+Argentina,2024,December,99,12
+Armenia,2024,December,304,12
+Aruba,2024,December,0,12
+Australia,2024,December,13109,12
+Austria,2024,December,2401,12
+Azerbaijan,2024,December,140,12
+Bahamas,2024,December,5,12
+Bahrain,2024,December,81,12
+Bangladesh,2024,December,4154,12
+Barbados,2024,December,7,12
+Belarus,2024,December,1408,12
+Belgium,2024,December,1337,12
+Belize,2024,December,4,12
+Benin,2024,December,3,12
+Bhutan,2024,December,90,12
+Bolivia,2024,December,2,12
+Bosnia and Herzegovina,2024,December,48,12
+Botswana,2024,December,21,12
+Brazil,2024,December,208,12
+Brunei Darussalam,2024,December,6,12
+Bulgaria,2024,December,721,12
+Burkina Faso,2024,December,1,12
+Burundi,2024,December,1,12
+Cambodia,2024,December,59,12
+Cameroon,2024,December,3,12
+Canada,2024,December,3781,12
+Cape Verde,2024,December,0,12
+Chad,2024,December,2,12
+Central African Republic,2024,December,1,12
+Chile,2024,December,47,12
+China,2024,December,9924,12
+Colombia,2024,December,59,12
+Comoros,2024,December,3,12
+Democratic Republic of the Congo,2024,December,12,12
+Costa Rica,2024,December,11,12
+Cote d'Ivoire,2024,December,0,12
+Croatia,2024,December,368,12
+Cuba,2024,December,5,12
+Cyprus,2024,December,129,12
+Czech Republic,2024,December,2299,12
+Denmark,2024,December,1713,12
+Djibouti,2024,December,0,12
+Dominica,2024,December,9,12
+Dominican Republic,2024,December,6,12
+Ecuador,2024,December,18,12
+Egypt,2024,December,491,12
+El Salvador,2024,December,3,12
+Equatorial Guinea,2024,December,0,12
+Eritrea,2024,December,2,12
+Estonia,2024,December,576,12
+Ethiopia,2024,December,13,12
+Fiji,2024,December,25,12
+Finland,2024,December,774,12
+France,2024,December,6332,12
+Gabon,2024,December,0,12
+Gambia,2024,December,3,12
+Georgia,2024,December,70,12
+Germany,2024,December,14703,12
+Ghana,2024,December,10,12
+Greece,2024,December,533,12
+Grenada,2024,December,7,12
+Guatemala,2024,December,14,12
+Guinea-Bissau,2024,December,0,12
+Guinea,2024,December,2,12
+Guyana,2024,December,2,12
+Haiti,2024,December,1,12
+Honduras,2024,December,2,12
+Hungary,2024,December,978,12
+Iceland,2024,December,44,12
+India,2024,December,52881,12
+Indonesia,2024,December,379,12
+Iran,2024,December,794,12
+Iraq,2024,December,96,12
+Ireland,2024,December,1090,12
+Israel,2024,December,2054,12
+Italy,2024,December,5695,12
+Jamaica,2024,December,4,12
+Japan,2024,December,3599,12
+Jordan,2024,December,358,12
+Kazakhstan,2024,December,1932,12
+Kenya,2024,December,137,12
+Kiribati,2024,December,0,12
+Kosovo,2024,December,12,12
+Kuwait,2024,December,150,12
+Kyrgyzstan,2024,December,146,12
+Laos,2024,December,12,12
+Latvia,2024,December,629,12
+Lebanon,2024,December,421,12
+Lesotho,2024,December,6,12
+Liberia,2024,December,0,12
+Libya,2024,December,30,12
+Liechtenstein,2024,December,17,12
+Lithuania,2024,December,867,12
+Luxembourg,2024,December,83,12
+Macedonia,2024,December,31,12
+Madagascar,2024,December,12,12
+Malawi,2024,December,7,12
+Malaysia,2024,December,1726,12
+Maldives,2024,December,6903,12
+Mali,2024,December,0,12
+Malta,2024,December,204,12
+Marshall Islands,2024,December,0,12
+Mauritania,2024,December,0,12
+Mauritius,2024,December,251,12
+Micronesia,2024,December,0,12
+Mexico,2024,December,137,12
+Moldova,2024,December,137,12
+Monaco,2024,December,2,12
+Mongolia,2024,December,19,12
+Montenegro,2024,December,43,12
+Morocco,2024,December,121,12
+Mozambique,2024,December,19,12
+Myanmar,2024,December,82,12
+Namibia,2024,December,7,12
+Nauru,2024,December,0,12
+Nepal,2024,December,449,12
+Netherlands,2024,December,3893,12
+Netherlands Antilles,2024,December,0,12
+New Zealand,2024,December,1562,12
+Nicaragua,2024,December,1,12
+Niger,2024,December,0,12
+Nigeria,2024,December,13,12
+Norway,2024,December,1478,12
+Oman,2024,December,141,12
+Pakistan,2024,December,1389,12
+Palau,2024,December,1,12
+Palestinian Territories,2024,December,77,12
+Panama,2024,December,3,12
+Papua New Guinea,2024,December,14,12
+Paraguay,2024,December,1,12
+Peru,2024,December,8,12
+Philippines,2024,December,485,12
+Poland,2024,December,6233,12
+Portugal,2024,December,636,12
+Qatar,2024,December,82,12
+Romania,2024,December,1243,12
+Russian Federation,2024,December,35268,12
+Rwanda,2024,December,6,12
+Saint Kitts and Nevis,2024,December,19,12
+Saint Lucia,2024,December,3,12
+Saint Vincent and the Grenadines,2024,December,1,12
+Samoa,2024,December,0,12
+San Marino,2024,December,8,12
+Saudi Arabia,2024,December,353,12
+Senegal,2024,December,5,12
+Serbia,2024,December,234,12
+Seychelles,2024,December,434,12
+Sierra Leone,2024,December,4,12
+Singapore,2024,December,2011,12
+Slovakia,2024,December,713,12
+Slovenia,2024,December,610,12
+Solomon Islands,2024,December,1,12
+Somalia,2024,December,9,12
+South Africa,2024,December,1089,12
+South Korea,2024,December,1266,12
+South Sudan,2024,December,0,12
+Spain,2024,December,2801,12
+Sudan,2024,December,96,12
+Swaziland,2024,December,6,12
+Suriname,2024,December,3,12
+Sweden,2024,December,3676,12
+Switzerland,2024,December,3246,12
+Syrian Arab Republic,2024,December,0,12
+Tajikistan,2024,December,9,12
+Tanzania,2024,December,17,12
+Thailand,2024,December,648,12
+Timor-Leste,2024,December,7,12
+Togo,2024,December,0,12
+Tonga,2024,December,0,12
+Trinidad and Tobago,2024,December,4,12
+Tunisia,2024,December,108,12
+Turkey,2024,December,803,12
+Turkmenistan,2024,December,5,12
+Tuvalu,2024,December,0,12
+Uganda,2024,December,15,12
+Ukraine,2024,December,1156,12
+United Arab Emirates,2024,December,326,12
+United Kingdom,2024,December,18757,12
+United States,2024,December,8212,12
+Uruguay,2024,December,6,12
+Uzbekistan,2024,December,295,12
+Vanuatu,2024,December,4,12
+Venezuela,2024,December,17,12
+Vietnam,2024,December,158,12
+Yemen,2024,December,27,12
+Zambia,2024,December,13,12
+Zimbabwe,2024,December,22,12
+Afghanistan,2025,December,7,12
+Albania,2025,December,12,12
+Algeria,2025,December,174,12
+Andorra,2025,December,6,12
+Angola,2025,December,2,12
+Antigua and Barbuda,2025,December,5,12
+Argentina,2025,December,102,12
+Armenia,2025,December,397,12
+Australia,2025,December,14820,12
+Austria,2025,December,2620,12
+Azerbaijan,2025,December,121,12
+Bahamas,2025,December,1,12
+Bahrain,2025,December,81,12
+Bangladesh,2025,December,4453,12
+Barbados,2025,December,3,12
+Belarus,2025,December,2034,12
+Belgium,2025,December,1553,12
+Belize,2025,December,1,12
+Benin,2025,December,1,12
+Bhutan,2025,December,16,12
+Bolivia,2025,December,6,12
+Bosnia and Herzegovina,2025,December,46,12
+Botswana,2025,December,10,12
+Brazil,2025,December,259,12
+Brunei Darussalam,2025,December,11,12
+Bulgaria,2025,December,624,12
+Burkina Faso,2025,December,0,12
+Burundi,2025,December,0,12
+Cambodia,2025,December,60,12
+Cameroon,2025,December,2,12
+Canada,2025,December,3938,12
+Cape Verde,2025,December,0,12
+Central African Republic,2025,December,1,12
+Chad,2025,December,1,12
+Chile,2025,December,76,12
+China,2025,December,10364,12
+Republic of the Congo,2025,December,4,12
+Colombia,2025,December,78,12
+Comoros,2025,December,6,12
+Democratic Republic of the Congo,2025,December,4,12
+Costa Rica,2025,December,10,12
+Cote d'Ivoire,2025,December,2,12
+Croatia,2025,December,385,12
+Cuba,2025,December,6,12
+Cyprus,2025,December,135,12
+Czech Republic,2025,December,2715,12
+Denmark,2025,December,1948,12
+Djibouti,2025,December,0,12
+Dominica,2025,December,17,12
+Dominican Republic,2025,December,2,12
+Ecuador,2025,December,24,12
+Egypt,2025,December,485,12
+El Salvador,2025,December,2,12
+Eritrea,2025,December,5,12
+Equatorial Guinea,2025,December,0,12
+Estonia,2025,December,864,12
+Ethiopia,2025,December,26,12
+Fiji,2025,December,33,12
+Finland,2025,December,1038,12
+France,2025,December,7270,12
+Gabon,2025,December,0,12
+Gambia,2025,December,0,12
+Georgia,2025,December,101,12
+Germany,2025,December,16707,12
+Ghana,2025,December,10,12
+Greece,2025,December,857,12
+Grenada,2025,December,1,12
+Guatemala,2025,December,8,12
+Guinea,2025,December,1,12
+Guinea-Bissau,2025,December,0,12
+Guyana,2025,December,0,12
+Haiti,2025,December,1,12
+Honduras,2025,December,5,12
+Hungary,2025,December,953,12
+Iceland,2025,December,58,12
+India,2025,December,56715,12
+Indonesia,2025,December,457,12
+Iran,2025,December,643,12
+Iraq,2025,December,109,12
+Ireland,2025,December,1269,12
+Israel,2025,December,3515,12
+Italy,2025,December,6482,12
+Jamaica,2025,December,9,12
+Japan,2025,December,4397,12
+Jordan,2025,December,369,12
+Kazakhstan,2025,December,771,12
+Kenya,2025,December,149,12
+Kiribati,2025,December,0,12
+Kosovo,2025,December,2,12
+Kuwait,2025,December,160,12
+Kyrgyzstan,2025,December,100,12
+Laos,2025,December,9,12
+Latvia,2025,December,569,12
+Lebanon,2025,December,452,12
+Lesotho,2025,December,0,12
+Liberia,2025,December,1,12
+Libya,2025,December,1,12
+Liechtenstein,2025,December,22,12
+Lithuania,2025,December,661,12
+Luxembourg,2025,December,102,12
+Macedonia,2025,December,20,12
+Madagascar,2025,December,11,12
+Malawi,2025,December,3,12
+Malaysia,2025,December,2248,12
+Maldives,2025,December,3887,12
+Mali,2025,December,0,12
+Malta,2025,December,173,12
+Marshall Islands,2025,December,0,12
+Mauritania,2025,December,0,12
+Mauritius,2025,December,143,12
+Mexico,2025,December,152,12
+Moldova,2025,December,99,12
+Monaco,2025,December,3,12
+Mongolia,2025,December,36,12
+Montenegro,2025,December,60,12
+Morocco,2025,December,117,12
+Mozambique,2025,December,7,12
+Myanmar,2025,December,153,12
+Namibia,2025,December,5,12
+Nauru,2025,December,0,12
+Nepal,2025,December,534,12
+Netherlands,2025,December,4575,12
+New Zealand,2025,December,1850,12
+Nicaragua,2025,December,4,12
+Niger,2025,December,0,12
+Nigeria,2025,December,5,12
+North Korea,2025,December,0,12
+Norway,2025,December,1748,12
+Oman,2025,December,152,12
+Pakistan,2025,December,1595,12
+Palau,2025,December,0,12
+Palestinian Territories,2025,December,66,12
+Panama,2025,December,2,12
+Papua New Guinea,2025,December,7,12
+Paraguay,2025,December,1,12
+Peru,2025,December,32,12
+Philippines,2025,December,512,12
+Poland,2025,December,6870,12
+Portugal,2025,December,704,12
+Qatar,2025,December,68,12
+Romania,2025,December,1367,12
+Russian Federation,2025,December,27987,12
+Rwanda,2025,December,4,12
+Saint Kitts and Nevis,2025,December,20,12
+Saint Lucia,2025,December,2,12
+Saint Barthelemy,2025,December,0,12
+Saint Vincent and the Grenadines,2025,December,0,12
+Samoa,2025,December,1,12
+San Marino,2025,December,9,12
+Sao Tome and Principe,2025,December,0,12
+Saudi Arabia,2025,December,335,12
+Senegal,2025,December,1,12
+Serbia,2025,December,263,12
+Seychelles,2025,December,578,12
+Sierra Leone,2025,December,1,12
+Singapore,2025,December,1981,12
+Slovakia,2025,December,976,12
+Slovenia,2025,December,464,12
+Solomon Islands,2025,December,1,12
+Somalia,2025,December,13,12
+South Africa,2025,December,1210,12
+South Korea,2025,December,1344,12
+South Sudan,2025,December,1,12
+Spain,2025,December,3244,12
+Sudan,2025,December,140,12
+Suriname,2025,December,2,12
+Swaziland,2025,December,8,12
+Sweden,2025,December,4193,12
+Switzerland,2025,December,3481,12
+Syrian Arab Republic,2025,December,5,12
+Tajikistan,2025,December,38,12
+Tanzania,2025,December,29,12
+Thailand,2025,December,783,12
+Timor-Leste,2025,December,5,12
+Togo,2025,December,0,12
+Tonga,2025,December,0,12
+Trinidad and Tobago,2025,December,12,12
+Tunisia,2025,December,105,12
+Turkey,2025,December,678,12
+Turkmenistan,2025,December,9,12
+Tuvalu,2025,December,1,12
+Uganda,2025,December,20,12
+Ukraine,2025,December,1243,12
+United Arab Emirates,2025,December,399,12
+United Kingdom,2025,December,20535,12
+United States,2025,December,8524,12
+Uruguay,2025,December,10,12
+Uzbekistan,2025,December,188,12
+Vanuatu,2025,December,11,12
+Vatican City,2025,December,0,12
+Venezuela,2025,December,9,12
+Vietnam,2025,December,267,12
+Yemen,2025,December,26,12
+Zambia,2025,December,16,12
+Zimbabwe,2025,December,15,12
