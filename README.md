@@ -5,6 +5,9 @@ The **Sri Lanka Tourism Data Analysis** project analyzes historical tourist arri
 
 By combining Python, MySQL, and Power BI, this project explores changes in tourist arrivals over time, identifies peak and off-peak seasons, and evaluates top source countries. The resulting insights provide data-driven recommendations to help tourism stakeholders, businesses, and policymakers optimize marketing strategies and resource planning.
 
+### 🌐 [View the Live Dashboard →](https://sl-tourism-dashboard.vercel.app/)
+An interactive web version of this analysis, built with React, Tailwind CSS and Recharts ([source code](https://github.com/shihariAyodya/sl-tourism-dashboard)).
+
 ![Overview dashboard](images/overview.png)
 
 ---
@@ -13,6 +16,7 @@ By combining Python, MySQL, and Power BI, this project explores changes in touri
 - **Data Cleaning & Analysis:** Python (`pandas`, `numpy`, `matplotlib`)
 - **Database Management & Querying:** MySQL / MariaDB (XAMPP, phpMyAdmin)
 - **Data Visualization & Dashboard:** Power BI (DAX)
+- **Web Dashboard:** React, Tailwind CSS, Recharts, deployed on Vercel
 - **Environment:** Jupyter Notebook (local)
 
 ---
@@ -34,6 +38,7 @@ By combining Python, MySQL, and Power BI, this project explores changes in touri
 - [x] **MySQL Database Schema & Analytical Queries**
 - [x] **Power BI Interactive Dashboard** (3 pages)
 - [x] **Final Report & Recommendations**
+- [x] **Live Web Dashboard** (React + Tailwind, [view it here](https://sl-tourism-dashboard.vercel.app/))
 - [ ] **Advanced SQL Queries** (YoY growth, rankings, peak/off-peak classification)
 - [ ] **Map Page in Power BI**
 
