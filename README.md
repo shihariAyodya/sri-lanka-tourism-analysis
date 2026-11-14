@@ -8,7 +8,7 @@ By combining Python, MySQL, and Power BI, this project explores changes in touri
 ### 🌐 [View the Live Dashboard →](https://sl-tourism-dashboard.vercel.app/)
 An interactive web version of this analysis, built with React, Tailwind CSS and Recharts ([source code](https://github.com/shihariAyodya/sl-tourism-dashboard)).
 
-![Overview dashboard](images/overview.png)
+![Overview dashboard](images/overview.png.png)
 
 ---
 
@@ -85,8 +85,8 @@ A 3-page interactive dashboard with a year slicer:
 
 **DAX measures:** Total Arrivals, Arrivals Prev Year, YoY Growth %, Market Share %, Top Market, Peak Month, Growth 23-25, Growth % 23-25
 
-![Seasonality page](images/seasonality.png)
-![Growth page](images/growth.png)
+![Seasonality page](images/seasonality.png.png)
+![Growth page](images/growth.png.png)
 
 ---
 
